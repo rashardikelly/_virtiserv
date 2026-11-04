@@ -26,6 +26,41 @@ mathjax: true
 [doodles.google/doodle/us-midterm-elections-2026/](https://doodles.google/doodle/us-midterm-elections-2026/)
 ![https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png](https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png) 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/6e8175c2-f5e9-408b-a647-abfbec773adb" />
+![https://media.13wmaz.com/assets/WXIA/images/7edb758d-1da3-4f6e-a285-0896a0948069/20261103T042703/7edb758d-1da3-4f6e-a285-0896a0948069_1920x1080.jpg](https://media.13wmaz.com/assets/WXIA/images/7edb758d-1da3-4f6e-a285-0896a0948069/20261103T042703/7edb758d-1da3-4f6e-a285-0896a0948069_1920x1080.jpg)
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@keishaforga/video/7704100996468804878" data-video-id="7704100996468804878" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@keishaforga" href="https://www.tiktok.com/@keishaforga?refer=embed">@keishaforga</a> <p>Before the finish line, Keisha came home. 💙 First Corinth is her grandmother Ramona’s church, and the place that helped shape the woman she is today. She said she couldn’t complete this race without coming back. Thank you to the First Corinth family for the warm welcome.</p> <a target="_blank" title="♬ original sound - Keisha For Georgia" href="https://www.tiktok.com/music/original-sound-7704101205391264525?refer=embed">♬ original sound - Keisha For Georgia</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+[@ajcnews @foratlanta @nasa @fema @fecgov @nasa-jpl](https://www.youtube.com/@HOT97ontv) have [Lana j Harris @deptofwar @whitehouse](https://www.linkedin.com/in/lana-harris-8bb580108) call her mom... her show has not been on in a few days a and I'm getting harassed by people [impersonating her in haptic suits @nvidia](https://share.google/aimode/C6tO8TlGqpRu6QtC1) that are broadcasting their voice to me but it sound like her, and its always trying to start a sexual conversation, upon walking in the library a girl look like her was on a PC screen performing felatio [Keisha Bottoms](https://www.tiktok.com/@keishaforga/video/7704100996468804878) @usatoday is that the big suprise @nasa I'm crushed 
+
+A haptic suit is a wearable device—typically a vest, sleeves, or full-body suit—that uses tactile technology to let you physically feel digital actions, environments, and events in virtual reality (VR), PC, and console games. [1] (https://en.wikipedia.org/wiki/Haptic_suit), [2] (https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:11510537218977824466,catalogid:5100741791790272637,gpcid:9615106978760509870,mid:576462575757479143&ibp=oshop), [3] (https://www.tiktok.com/@gingasvr/video/7600543760656698654)
+
+How Haptic Suits Work
+
+Most consumer and pro-grade haptic suits use one of two primary methods to simulate physical touch:
+• Vibration / Acoustic Motors: Brands like bHaptics TactSuit and Woojer use small, individually controlled motors or high-fidelity audio transducers to produce rumbles, impacts, recoils, and environmental effects (like rain or a car engine) without pain. [1] (https://www.tiktok.com/@gingasvr/video/7456249012195298602), [2] (https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:5893624277242840656,catalogid:13048680571730336468,gpcid:11883229168515337979,mid:576462531114012394&ibp=oshop), [3] (https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:11510537218977824466,catalogid:5100741791790272637,gpcid:9615106978760509870,mid:576462575757479143&ibp=oshop)
+• Electrical Muscle Stimulation (EMS): Brands like OWO Game send safe, controlled electrical impulses directly to muscle groups, creating distinct sensations like a knife slash, bullet impact, or physical tension. [1] (https://owogame.com/), [2] (https://www.tiktok.com/@gingasvr/video/7456249012195298602)
+
+Popular Haptic Suits & Options
+
+• bHaptics TactSuit Air / Pro
+	• Type: Vibration/motor-based
+	• Features: Lightweight designs (like the 16-point TactSuit Air or 32-point TactSuit Pro), wide compatibility with 300+ VR and PC titles (such as Fortnite, Counter-Strike 2, and Arizona Sunshine 2).
+	• Price: Roughly $260 to $565+ depending on the model or bundle via bHaptics or the Meta Store. [1] (https://www.bhaptics.com/), [2] (https://www.meta.com/quest/accessories/bhaptics-tactsuit-pro/), [3] (https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:8685111236408269342,catalogid:13997345834184929432,gpcid:8108380622541469398,mid:576462893590085755&ibp=oshop), [4] (https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:11510537218977824466,catalogid:5100741791790272637,gpcid:9615106978760509870,mid:576462575757479143&ibp=oshop)
+• Woojer High-Fidelity Haptic Vest 4
+	• Type: Acoustic/music and gaming haptics (1–250Hz frequency range)
+	• Features: 360-degree body coverage, up to 8 hours of battery life, and compatibility with PC, VR, and consoles (PS5, Xbox) via 3.5mm jack or Bluetooth.
+	• Price: Around $350 to $383 at retailers like Best Buy or Dell. [1] (https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:5893624277242840656,catalogid:13048680571730336468,gpcid:11883229168515337979,mid:576462531114012394&ibp=oshop)
+• OWO Haptic Gaming Vest
+	• Type: Electrical impulse (EMS) muscle-stimulation suit
+	• Features: Targets active muscle zones with custom intensity scaling, supporting games like Elden Ring, Cyberpunk 2077, and GTA V.
+	• Price: Around $349 to $519 through OWO Game. [1] (https://owogame.com/)
+If you're looking into getting one, let me know:
+• What system or headset you plan to use it with (Meta Quest, PC VR, console, etc.)
+• What type of games you play most (shooters, sim racing, rhythm, RPGs)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/8fde6869-aa36-404c-bf2c-71a27e397aa0" />
+
 @HollyJMitchell@bos.lacounty.gov tell mayor karen im trying... @councilmember.park@lacity.org @jplnewsroom@jpl.nasa.gov  @lanajharris@gmail.com @cityoflosangeles @nasa-jpl @eosdis-nasa hi @doug-newman-nasa I'm trying to get the coastline... I will come back to it @la-county-isd
 
 <img   alt="image @HollyJMitchell@bos.lacounty.gov tell mayor karen im trying... @councilmember.park@lacity.org @jplnewsroom@jpl.nasa.gov  @lanajharris@gmail.com @cityoflosangeles @nasa-jpl @eosdis-nasa hi @doug-newman-nasa I'm trying to get the coastline... I will come back to it @la-county-isd " src="https://github.com/user-attachments/assets/bc0247bc-7e3b-4989-bef4-1dd3b82389aa" />
