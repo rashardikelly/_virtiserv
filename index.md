@@ -15,8 +15,6 @@ mathjax: true
 </picture>
 
 
-[Roll Out - Ludacris](https://youtu.be/3ArhZPYplFk?list=RD3ArhZPYplFk) // [Ludacris - Southern Hospitality (Official Music Video) ft. Pharrell](https://youtu.be/2QWQVm9J5DM?list=RD3ArhZPYplFk&t=17) // [Big Tymers - Still Fly](https://youtu.be/9iCd6UHR-3I?list=RD9iCd6UHR-3I&t=2) // [Lil Wayne - Go DJ](https://youtu.be/MNS-Ho5tWo0?list=RDMNS-Ho5tWo0&t=13) // [Birdman, Lil Wayne - Stuntin' Like My Daddy @ForAtlanta ](https://youtu.be/_hDPUoUi6_s?t=3) // [David Banner - Like A Pimp (Official Music Video) ft. Lil' Flip @AJCNEWS](https://youtu.be/MKGQ5cIw_ew?list=RDMKGQ5cIw_ew&t=19) // [Mike Jones feat. Slim Thug and Paul Wall - Still Tippin' (Official Video) ](https://youtu.be/7ZAYzLjQAd4?list=RD7ZAYzLjQAd4&t=17) // [Jeezy - 05 - Hell You Talkin Bout](https://youtu.be/0uLa4nIhIkE?si=TUXfg1ASNmMUdUP9) // [Pressure · Jeezy · Kodak Black · YG](https://youtu.be/EEq-4A846KA?list=RDEEq-4A846KA&t=12) // [Your Eyes · Bombay Bicycle Club](https://youtu.be/0_Wsb92tT1M?list=RD0_Wsb92tT1M&t=12) // [I'll Call B4 I Comm · Outkast · Gangsta Boo · Eco](https://youtu.be/Nr4TiLXn8ps?list=PLqajKD_enHNYMiIVm1trh979MvUuVk2cT&t=17) // [Humble Mumble · Outkast · Erykah Badu](https://youtu.be/Zx3H99uPz_k?list=PLqajKD_enHNYMiIVm1trh979MvUuVk2cT&t=26) // [Slum Beautiful · Outkast · Cee-Lo @blackgirlscode whutz left uf ya in my age @nasa](https://youtu.be/Kfq12qQwkn0?list=PLqajKD_enHNYMiIVm1trh979MvUuVk2cT&t=17) // [What a Job · Devin the Dude · Snoop Dogg · Andre 3000](https://youtu.be/6b8DwLKii_M?list=RD6b8DwLKii_M&t=105)
-
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
@@ -28,6 +26,22 @@ mathjax: true
 [doodles.google/doodle/us-midterm-elections-2026/](https://doodles.google/doodle/us-midterm-elections-2026/)
 ![https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png](https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png) 
 
+@HollyJMitchell@bos.lacounty.gov tell mayor karen im trying... @councilmember.park@lacity.org @jplnewsroom@jpl.nasa.gov  @lanajharris@gmail.com @cityoflosangeles @nasa-jpl @eosdis-nasa hi @doug-newman-nasa I'm trying to get the coastline... I will come back to it @la-county-isd
+
+<img   alt="image @HollyJMitchell@bos.lacounty.gov tell mayor karen im trying... @councilmember.park@lacity.org @jplnewsroom@jpl.nasa.gov  @lanajharris@gmail.com @cityoflosangeles @nasa-jpl @eosdis-nasa hi @doug-newman-nasa I'm trying to get the coastline... I will come back to it @la-county-isd " src="https://github.com/user-attachments/assets/bc0247bc-7e3b-4989-bef4-1dd3b82389aa" />
+
+appeears-noreply@nasa.gov
+Nov 2, 2026, 8:22 PM (21 hours ago)
+to me
+
+Hello,
+
+Thank you for using AppEEARS! Your request Los Angeles pace has been processed. You can explore and download the request using the links below.
+
+
+Explore:	https://appeears.earthdatacloud.nasa.gov/view/a9f51aed-7528-4f00-b2f7-151827376343
+Download:	https://appeears.earthdatacloud.nasa.gov/download/a9f51aed-7528-4f00-b2f7-151827376343
+
 
 [ArcadeSamurai Shodown IV - Amakusa's Revenge / Samurai Spirits - Amakusa Kourin (NGM-222)(NGH-222)](https://www.retrogames.cc/arcade-games/samurai-shodown-iv-amakusas-revenge-samurai-spirits-amakusa-kourin-ngm-222-ngh-222.html#)
 <img alt="image" src="https://github.com/user-attachments/assets/44f3e560-b42e-4d4f-988b-7b664df766d6" />
@@ -35,7 +49,9 @@ mathjax: true
 <img  alt="image" src="https://github.com/user-attachments/assets/f88853df-4e04-4622-bd9a-3725ef75bdad" />
 
 
-[Slum Beautiful · Outkast · Cee-Lo @blackgirlscode whutz left uf ya in my age @nasa](https://youtu.be/Kfq12qQwkn0?list=PLqajKD_enHNYMiIVm1trh979MvUuVk2cT&t=17)
+[Roll Out - Ludacris](https://youtu.be/3ArhZPYplFk?list=RD3ArhZPYplFk) // [Ludacris - Southern Hospitality (Official Music Video) ft. Pharrell](https://youtu.be/2QWQVm9J5DM?list=RD3ArhZPYplFk&t=17) // [Big Tymers - Still Fly](https://youtu.be/9iCd6UHR-3I?list=RD9iCd6UHR-3I&t=2) // [Lil Wayne - Go DJ](https://youtu.be/MNS-Ho5tWo0?list=RDMNS-Ho5tWo0&t=13) // [Birdman, Lil Wayne - Stuntin' Like My Daddy @ForAtlanta ](https://youtu.be/_hDPUoUi6_s?t=3) // [David Banner - Like A Pimp (Official Music Video) ft. Lil' Flip @AJCNEWS](https://youtu.be/MKGQ5cIw_ew?list=RDMKGQ5cIw_ew&t=19) // [Mike Jones feat. Slim Thug and Paul Wall - Still Tippin' (Official Video) ](https://youtu.be/7ZAYzLjQAd4?list=RD7ZAYzLjQAd4&t=17) // [Jeezy - 05 - Hell You Talkin Bout](https://youtu.be/0uLa4nIhIkE?si=TUXfg1ASNmMUdUP9) // [Pressure · Jeezy · Kodak Black · YG](https://youtu.be/EEq-4A846KA?list=RDEEq-4A846KA&t=12) // [Your Eyes · Bombay Bicycle Club](https://youtu.be/0_Wsb92tT1M?list=RD0_Wsb92tT1M&t=12) // [I'll Call B4 I Comm · Outkast · Gangsta Boo · Eco](https://youtu.be/Nr4TiLXn8ps?list=PLqajKD_enHNYMiIVm1trh979MvUuVk2cT&t=17) // [Humble Mumble · Outkast · Erykah Badu](https://youtu.be/Zx3H99uPz_k?list=PLqajKD_enHNYMiIVm1trh979MvUuVk2cT&t=26) // [Slum Beautiful · Outkast · Cee-Lo @blackgirlscode whutz left uf ya in my age @nasa](https://youtu.be/Kfq12qQwkn0?list=PLqajKD_enHNYMiIVm1trh979MvUuVk2cT&t=17) // [What a Job · Devin the Dude · Snoop Dogg · Andre 3000](https://youtu.be/6b8DwLKii_M?list=RD6b8DwLKii_M&t=105)
+
+ //[Slum Beautiful · Outkast · Cee-Lo @blackgirlscode whutz left uf ya in my age @nasa](https://youtu.be/Kfq12qQwkn0?list=PLqajKD_enHNYMiIVm1trh979MvUuVk2cT&t=17)
 
 ![https://i.discogs.com/7au3XFgXDUJa2buNXb6W3rTmCFJw0HyOsq0iidpgZmc/rs:fit/g:sm/q:90/h:600/w:382/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM5/MDQyLTE0OTM5MzUw/NDYtNTQwOS5qcGVn.jpeg](https://i.discogs.com/7au3XFgXDUJa2buNXb6W3rTmCFJw0HyOsq0iidpgZmc/rs:fit/g:sm/q:90/h:600/w:382/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM5/MDQyLTE0OTM5MzUw/NDYtNTQwOS5qcGVn.jpeg) 
 
