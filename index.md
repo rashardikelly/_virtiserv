@@ -28,6 +28,22 @@ mathjax: true
 [doodles.google/doodle/us-midterm-elections-2026/](https://doodles.google/doodle/us-midterm-elections-2026/)
 ![https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png](https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png) 
 
+@HollyJMitchell@bos.lacounty.gov tell mayor karen im trying... @councilmember.park@lacity.org @jplnewsroom@jpl.nasa.gov  @lanajharris@gmail.com @cityoflosangeles @nasa-jpl @eosdis-nasa hi @doug-newman-nasa I'm trying to get the coastline... I will come back to it @la-county-isd
+
+<img   alt="image @HollyJMitchell@bos.lacounty.gov tell mayor karen im trying... @councilmember.park@lacity.org @jplnewsroom@jpl.nasa.gov  @lanajharris@gmail.com @cityoflosangeles @nasa-jpl @eosdis-nasa hi @doug-newman-nasa I'm trying to get the coastline... I will come back to it @la-county-isd " src="https://github.com/user-attachments/assets/bc0247bc-7e3b-4989-bef4-1dd3b82389aa" />
+
+appeears-noreply@nasa.gov
+Nov 2, 2026, 8:22 PM (21 hours ago)
+to me
+
+Hello,
+
+Thank you for using AppEEARS! Your request Los Angeles pace has been processed. You can explore and download the request using the links below.
+
+
+Explore:	https://appeears.earthdatacloud.nasa.gov/view/a9f51aed-7528-4f00-b2f7-151827376343
+Download:	https://appeears.earthdatacloud.nasa.gov/download/a9f51aed-7528-4f00-b2f7-151827376343
+
 
 [ArcadeSamurai Shodown IV - Amakusa's Revenge / Samurai Spirits - Amakusa Kourin (NGM-222)(NGH-222)](https://www.retrogames.cc/arcade-games/samurai-shodown-iv-amakusas-revenge-samurai-spirits-amakusa-kourin-ngm-222-ngh-222.html#)
 <img alt="image" src="https://github.com/user-attachments/assets/44f3e560-b42e-4d4f-988b-7b664df766d6" />
