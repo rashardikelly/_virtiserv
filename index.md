@@ -20,11 +20,16 @@ mathjax: true
 
 
 # US Midterm Elections 2026
-@nasa-jpl @cityoflosangeles @eosdis-nasa @nasa-pds @weather-gov @commercegov @dhs-gov @howard-university-web-services @nbcnews @ajcnews [@nasa-jpl @ajcnews I'm taking a short game break, like 15min ArcadeMarvel Super Heroes (951024 USA) @blackgirlscode](https://www.retrogames.cc/arcade-games/marvel-super-heroes-951024-usa.html) // [ArcadeGarou - Mark of the Wolves (NGM-2530)](https://www.retrogames.cc/arcade-games/garou-mark-of-the-wolves-ngm-2530.html)
+
 
 ![https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168.2-s2x.png](https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168.2-s2x.png)
 [doodles.google/doodle/us-midterm-elections-2026/](https://doodles.google/doodle/us-midterm-elections-2026/)
 ![https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png](https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png) 
+
+[@nasa @eosdis-nasa firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:24hrs,24hrs;l:fires_all,country-outline,terra_crc,earth;@-116.7,39.5,5.1z](https://firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:24hrs,24hrs;l:fires_all,country-outline,terra_crc,earth;@-116.7,39.5,5.1z)
+@cityoflosangeles @la-county-isd we have a lot of activity and not a lot of smoke!
+
+<img  alt="FIRMS_24hrs,24hrs @-116 7,39 5,5 1z" src="https://github.com/user-attachments/assets/a4d7b5b5-d623-42ea-8ccc-928ea623a565" />
 
 # Kiki's Delivery Service
 [<video controls loading="lazy" poster="https://animeuknews.net/app/uploads/2026/08/Kikis-Delivery-Service-scaled.jpg" src="https://archive.org/download/kikis.-delivery.-service.-1989.1080p.-bdrip.-dual.-audio.-10bits.x-265-rapta/Kiki%27s.Delivery.Service.1989.1080p.BDRip.Dual.Audio.10bits.x265-Rapta.mp4" />](https://archive.org/download/kikis.-delivery.-service.-1989.1080p.-bdrip.-dual.-audio.-10bits.x-265-rapta/Kiki%27s.Delivery.Service.1989.1080p.BDRip.Dual.Audio.10bits.x265-Rapta.mp4)
@@ -38,7 +43,7 @@ by The Library of Congress](https://www.flickr.com/photos/library_of_congress/al
 
 <iframe src="https://archive.org/embed/the-wiz-1978-full-movie" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-[(My VHS Saga #22) Sci-Fi, FOX (WOC)](https://archive.org/details/my-vhs-saga-part-22-woc)
+[(My VHS Saga #22) Sci-Fi, FOX (WOC)](https://archive.org/details/my-vhs-saga-part-22-woc) // [Marvel Super Heroes (951024 USA) @blackgirlscode](https://www.retrogames.cc/arcade-games/marvel-super-heroes-951024-usa.html) // [ArcadeGarou - Mark of the Wolves (NGM-2530)](https://www.retrogames.cc/arcade-games/garou-mark-of-the-wolves-ngm-2530.html) 
 
 `<iframe src="https://archive.org/embed/my-vhs-saga-part-22-woc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>`
 
@@ -76,7 +81,7 @@ issues related to the HLS program
 
 <img   alt="image image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
   games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
-I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
+I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its @nasa-jpl @cityoflosangeles @eosdis-nasa @nasa-pds @weather-gov @commercegov @dhs-gov @howard-university-web-services @nbcnews @ajcnews [@nasa-jpl @ajcnews I'm taking a short game break, like 15min ArcadeMarvel Super Heroes (951024 USA) @blackgirlscode](https://www.retrogames.cc/arcade-games/marvel-super-heroes-951024-usa.html) // [ArcadeGarou - Mark of the Wolves (NGM-2530)](https://www.retrogames.cc/arcade-games/garou-mark-of-the-wolves-ngm-2530.html) thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
 @repkarenbass @SupervisorHollyJMitchell @fox5atlanta" src="https://github.com/user-attachments/assets/1c674838-f811-489b-85f4-556c2153ca37" />
 
 [The Chemical Brothers - Exit Planet Dust + Singles/Remixes 93-96 ](https://youtu.be/F5GoHBzknUs?si=_fwaHl7VfEky8ZMF)
