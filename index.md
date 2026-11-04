@@ -26,6 +26,10 @@ mathjax: true
 [doodles.google/doodle/us-midterm-elections-2026/](https://doodles.google/doodle/us-midterm-elections-2026/)
 ![https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png](https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png) 
 
+
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094500_094599/ESP_094599_1655/ESP_094599_1655_MRGB.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094500_094599/ESP_094599_1655/ESP_094599_1655_MRGB.abrowse.jpg) 
+
 <img  alt="goeswestabimesoscale1-ntmicroadvanced-sNov 04, 2026 - 03_21 UTC-eNov 04, 2026 - 03_40 UTC" src="https://github.com/user-attachments/assets/2b2f26f4-5dc5-4f8a-ab09-91e54e0940d1" />
 
 
@@ -44,6 +48,11 @@ mathjax: true
 
 <img  alt="FIRMS_24hrs,24hrs @-116 7,39 5,5 1z" src="https://github.com/user-attachments/assets/a4d7b5b5-d623-42ea-8ccc-928ea623a565" />
 
+
+
+
+[<video controls loading="lazy" poster="https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005650/annotated_flat.jpg" src="https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005650/annotated_flat_2048x1024.mp4" />](https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005650/annotated_flat_2048x1024.mp4)
+
 # Kiki's Delivery Service
 [<video controls loading="lazy" poster="https://animeuknews.net/app/uploads/2026/08/Kikis-Delivery-Service-scaled.jpg" src="https://archive.org/download/kikis.-delivery.-service.-1989.1080p.-bdrip.-dual.-audio.-10bits.x-265-rapta/Kiki%27s.Delivery.Service.1989.1080p.BDRip.Dual.Audio.10bits.x265-Rapta.mp4" />](https://archive.org/download/kikis.-delivery.-service.-1989.1080p.-bdrip.-dual.-audio.-10bits.x-265-rapta/Kiki%27s.Delivery.Service.1989.1080p.BDRip.Dual.Audio.10bits.x265-Rapta.mp4)
 [@ajcnews @cityoflosangeles @foratlanta animeuknews.net/2026/08/kikis-delivery-service-review/](https://animeuknews.net/2026/08/kikis-delivery-service-review/)
@@ -59,6 +68,8 @@ by The Library of Congress](https://www.flickr.com/photos/library_of_congress/al
 [(My VHS Saga #22) Sci-Fi, FOX (WOC)](https://archive.org/details/my-vhs-saga-part-22-woc) // [Marvel Super Heroes (951024 USA) @blackgirlscode](https://www.retrogames.cc/arcade-games/marvel-super-heroes-951024-usa.html) // [ArcadeGarou - Mark of the Wolves (NGM-2530)](https://www.retrogames.cc/arcade-games/garou-mark-of-the-wolves-ngm-2530.html) 
 
 `<iframe src="https://archive.org/embed/my-vhs-saga-part-22-woc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>`
+
+![https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005682/currIMERGaccum.1800x900.annotated.png](https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005682/currIMERGaccum.1800x900.annotated.png) 
 
 ### @howard-university-web-services `EpstienCase`for [Lana](https://www.youtube.com/watch?v=CH-WrSogg3A)
 [justice.gov/usao-sdny/press-release/file/1180481/dl](https://www.justice.gov/usao-sdny/press-release/file/1180481/dl)
