@@ -26,13 +26,18 @@ mathjax: true
 [doodles.google/doodle/us-midterm-elections-2026/](https://doodles.google/doodle/us-midterm-elections-2026/)
 ![https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png](https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png) 
 
+# Kiki's Delivery Service
+[<video controls loading="lazy" poster="https://animeuknews.net/app/uploads/2026/08/Kikis-Delivery-Service-scaled.jpg" src="https://archive.org/download/kikis.-delivery.-service.-1989.1080p.-bdrip.-dual.-audio.-10bits.x-265-rapta/Kiki%27s.Delivery.Service.1989.1080p.BDRip.Dual.Audio.10bits.x265-Rapta.mp4" />](https://archive.org/download/kikis.-delivery.-service.-1989.1080p.-bdrip.-dual.-audio.-10bits.x-265-rapta/Kiki%27s.Delivery.Service.1989.1080p.BDRip.Dual.Audio.10bits.x265-Rapta.mp4)
+[@ajcnews @cityoflosangeles @foratlanta animeuknews.net/2026/08/kikis-delivery-service-review/](https://animeuknews.net/2026/08/kikis-delivery-service-review/)
 
-# Colorado
+<img alt="image" src="https://github.com/user-attachments/assets/f6779cd9-0fcb-46d1-8f69-ec9e375883e3" />
+
 ## [The Wiz (1978) (Full Movie)](https://archive.org/details/the-wiz-1978-full-movie)
 [movies.fandom.com/wiki/The_Wiz/Credits](https://movies.fandom.com/wiki/The_Wiz/Credits) // [https://en.wikipedia.org/wiki/The_Wiz_(film)](https://en.wikipedia.org/wiki/The_Wiz_(film)) + [`WikiTALK`: @deptofwar @cityofgary & @nasa-pds en.wikipedia.org/wiki/Talk:The_Wiz_(film)](https://en.wikipedia.org/wiki/Talk:The_Wiz_(film)) ///  [@nasa-jpl Federal Writers' Project: Slave Narrative Project, Vol. 4, Georgia, Part 3, Kendricks-Styles @bbc ](https://www.loc.gov/item/mesn043/) _ [World War II color footage--Liberation of Paris](https://www.loc.gov/item/2020600751/) // [1930s-40s in Color
 by The Library of Congress](https://www.flickr.com/photos/library_of_congress/albums/72157603671370361/)
 
 <iframe src="https://archive.org/embed/the-wiz-1978-full-movie" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 [(My VHS Saga #22) Sci-Fi, FOX (WOC)](https://archive.org/details/my-vhs-saga-part-22-woc)
 
 `<iframe src="https://archive.org/embed/my-vhs-saga-part-22-woc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>`
@@ -162,6 +167,28 @@ git push origin master
 <img  alt="Screenshot 2026-10-20 7 25 57 PM" src="https://github.com/user-attachments/assets/f6b7a6b0-c986-43f3-81af-195cf48c610b" />
 
 
+## Der Fuehrer's Face
+by [@Disney, Walt](https://archive.org/search.php?query=creator%3A%22Disney%2C+Walt%22)
+[watch - https://archive.org/details/DerFuehrersFace](https://archive.org/details/DerFuehrersFace) @nasa-jpl hi @caltech i saw the book burnings, and they were pornographic magazines . . .Thus that is the symtom of a mass prostitution i really dont know what to think of the old ww2 propaganda @deptofwar @whitehouse  @la-county-isd
+
+<iframe src="https://archive.org/embed/DerFuehrersFace" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# Kiki's Delivery Service
+[<video controls loading="lazy" poster="https://animeuknews.net/app/uploads/2026/08/Kikis-Delivery-Service-scaled.jpg" src="https://archive.org/download/kikis.-delivery.-service.-1989.1080p.-bdrip.-dual.-audio.-10bits.x-265-rapta/Kiki%27s.Delivery.Service.1989.1080p.BDRip.Dual.Audio.10bits.x265-Rapta.mp4" />](https://archive.org/download/kikis.-delivery.-service.-1989.1080p.-bdrip.-dual.-audio.-10bits.x-265-rapta/Kiki%27s.Delivery.Service.1989.1080p.BDRip.Dual.Audio.10bits.x265-Rapta.mp4)
+[@ajcnews @cityoflosangeles @foratlanta animeuknews.net/2026/08/kikis-delivery-service-review/](https://animeuknews.net/2026/08/kikis-delivery-service-review/)
+<img alt="image" src="https://github.com/user-attachments/assets/f6779cd9-0fcb-46d1-8f69-ec9e375883e3" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/4297c9ef-35bc-4a4e-b252-5bc309376389" />
+
+### Adding captions and subtitles to HTML video
+[@blackgirlscode developer.mozilla.org/en-US/docs/Web/Media/Guides/Audio_and_video_delivery/Adding_captions_and_subtitles_to_HTML5_video](https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Audio_and_video_delivery/Adding_captions_and_subtitles_to_HTML5_video)
+<img   alt="image" src="https://github.com/user-attachments/assets/5ca0d898-caf9-422e-b0aa-0b1889aa31bb" />
+
+## Mars2020 [Persevereance @Nasa-PDS @La-County-isd](https://eyes.nasa.gov/apps/mars2020/#/home)
+
+
+[ZR0_0459_0707679145_693EDR_N0260218ZCAM08479_1100LMJ01.IMG](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:mars_2020:perseverance:/mars2020_mastcamz_ops_raw/data/sol/00459/ids/edr/zcam/ZR0_0459_0707679145_693EDR_N0260218ZCAM08479_1100LMJ01.IMG)
+<img  alt="ZR0_0459_0707679145_693EDR_N0260218ZCAM08479_1100LMJ01" src="https://github.com/user-attachments/assets/5bf66307-e440-4e3a-9a14-6c990e8811d4" />
 
 # Writing mathematical expressions
 
@@ -669,28 +696,6 @@ Discover and Access the OPERA-DISP Dataset Using [ASF DAAC’s Displacement Port
 
 ![https://archive.org/download/C-1997-2554/1997_02554.jpg](https://archive.org/download/C-1997-2554/1997_02554.jpg) 
 
-## Der Fuehrer's Face
-by [@Disney, Walt](https://archive.org/search.php?query=creator%3A%22Disney%2C+Walt%22)
-[watch - https://archive.org/details/DerFuehrersFace](https://archive.org/details/DerFuehrersFace) @nasa-jpl hi @caltech i saw the book burnings, and they were pornographic magazines . . .Thus that is the symtom of a mass prostitution i really dont know what to think of the old ww2 propaganda @deptofwar @whitehouse  @la-county-isd
-
-<iframe src="https://archive.org/embed/DerFuehrersFace" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-# Kiki's Delivery Service
-[<video controls loading="lazy" poster="https://animeuknews.net/app/uploads/2026/08/Kikis-Delivery-Service-scaled.jpg" src="https://archive.org/download/kikis.-delivery.-service.-1989.1080p.-bdrip.-dual.-audio.-10bits.x-265-rapta/Kiki%27s.Delivery.Service.1989.1080p.BDRip.Dual.Audio.10bits.x265-Rapta.mp4" />](https://archive.org/download/kikis.-delivery.-service.-1989.1080p.-bdrip.-dual.-audio.-10bits.x-265-rapta/Kiki%27s.Delivery.Service.1989.1080p.BDRip.Dual.Audio.10bits.x265-Rapta.mp4)
-[@ajcnews @cityoflosangeles @foratlanta animeuknews.net/2026/08/kikis-delivery-service-review/](https://animeuknews.net/2026/08/kikis-delivery-service-review/)
-<img alt="image" src="https://github.com/user-attachments/assets/f6779cd9-0fcb-46d1-8f69-ec9e375883e3" />
-
-<img   alt="image" src="https://github.com/user-attachments/assets/4297c9ef-35bc-4a4e-b252-5bc309376389" />
-
-### Adding captions and subtitles to HTML video
-[@blackgirlscode developer.mozilla.org/en-US/docs/Web/Media/Guides/Audio_and_video_delivery/Adding_captions_and_subtitles_to_HTML5_video](https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Audio_and_video_delivery/Adding_captions_and_subtitles_to_HTML5_video)
-<img   alt="image" src="https://github.com/user-attachments/assets/5ca0d898-caf9-422e-b0aa-0b1889aa31bb" />
-
-## Mars2020 [Persevereance @Nasa-PDS @La-County-isd](https://eyes.nasa.gov/apps/mars2020/#/home)
-
-
-[ZR0_0459_0707679145_693EDR_N0260218ZCAM08479_1100LMJ01.IMG](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:mars_2020:perseverance:/mars2020_mastcamz_ops_raw/data/sol/00459/ids/edr/zcam/ZR0_0459_0707679145_693EDR_N0260218ZCAM08479_1100LMJ01.IMG)
-<img  alt="ZR0_0459_0707679145_693EDR_N0260218ZCAM08479_1100LMJ01" src="https://github.com/user-attachments/assets/5bf66307-e440-4e3a-9a14-6c990e8811d4" />
 
 [N_LRGB_0357XRZS_0099314_POL_L_AUTOGENJ01.IMG](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:mars_2020:perseverance:/mars2020_navcam_ops_mosaic/data/sol/00357/ids/rdr/mosaic/N_LRGB_0357XRZS_0099314_POL_L_AUTOGENJ01.IMG)
 <img  alt="N_LRGB_0357XRZS_0099314_POL_L_AUTOGENJ01" src="https://github.com/user-attachments/assets/af706446-9e1a-4c14-ab9c-69635410b803" />
