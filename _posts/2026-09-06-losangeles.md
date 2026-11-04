@@ -39,20 +39,31 @@ On September 4, 1781, the eleven men, eleven women, and twenty-two children recr
 
 
 
+## Drought Planning @CityOfLosANgeles
 
-# @iPTV @ForAtlanta
-[iptv-org.github.io/](https://iptv-org.github.io/)
-I started a ticket for [abc7](https://abc7.com/) in [@CityOfLoSAngeles](https://www.linkedin.com/company/city-of-los-angeles) but fell off because there was a feild missing i needed to complete the [contribution requirements](https://github.com/iptv-org/iptv/blob/master/CONTRIBUTING.md) @nasa-jpl hi @whitehouse [TrumpTv](https://www.whitehouse.gov/trumptv/) /// [@whitehouse @nasa-giss fukuball/Trump-Driven-Development](https://github.com/fukuball/Trump-Driven-Development) @eodis-nasa
-[https://github.com/iptv-org/iptv](https://github.com/iptv-org/iptv) 
+[svs.gsfc.nasa.gov/](https://svs.gsfc.nasa.gov/)
+[<img src="https://web.archive.org/web/20060104192812im\_/http://mars.jpl.nasa.gov/mro/images/mro\_banner.jpg">](https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 
-# ATLChannel26
-Description _Welcome to ATL26 – your official channel for all things City of Atlanta government._
-[youtube.com/@ATLChannel26](https://www.youtube.com/@ATLChannel26)
-![https://yt3.googleusercontent.com/caFJi21WJizZ9HXZkLkj3SIL_oWEQZ8URgET2k2TrqfPh-hVo-Pm6R9U1I3dvkPh-6Wm-q93Tw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/caFJi21WJizZ9HXZkLkj3SIL_oWEQZ8URgET2k2TrqfPh-hVo-Pm6R9U1I3dvkPh-6Wm-q93Tw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A339564318\&color=%23ff5500\&auto\_play=false\&hide\_related=false\&show\_comments=true\&show\_user=true\&show\_reposts=false\&show\_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/selectabwoy" title="Selectabwoy" target="\_blank" style="color: #cccccc; text-decoration: none;">Selectabwoy</a> · <a href="https://soundcloud.com/selectabwoy/dj-premier-new-york-reality-check-101-1997" title="DJ Premier: New York Reality Check 101 (1997)" target="\_blank" style="color: #cccccc; text-decoration: none;">DJ Premier: New York Reality Check 101 (1997)</a></div>
 
-# atlcouncil - Atlanta City Council
-[@forAtlanta  youtube.com/@atlcouncilAtlantaCityCouncil](https://www.youtube.com/@atlcouncilAtlantaCityCouncil)
-![https://yt3.googleusercontent.com/wB4S-3F41LMRzQnmJ1uQDeHfI3-KFZBSow7hsFxLxegtG3QZu76YevVQKZJenfLvmkuldHvAbQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/wB4S-3F41LMRzQnmJ1uQDeHfI3-KFZBSow7hsFxLxegtG3QZu76YevVQKZJenfLvmkuldHvAbQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
+[https://svs.gsfc.nasa.gov/31177 @nbcnews](https://svs.gsfc.nasa.gov/31177/)
+[<video controls  src="https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031177/grace\_ca\_water\_200205-202202\_notitle\_1080p6.mp4" />](https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031177/grace_ca_water_200205-202202_notitle_1080p6.mp4)
+
+Relative Wetness Root Zone Versus Groundwater Comparison
+Released Monday, April 24, 2023
+
+[<video controls  src="https://svs.gsfc.nasa.gov/vis/a000000/a005000/a005098/root\_n\_grnd.1080p30.mp4" />](https://svs.gsfc.nasa.gov/vis/a000000/a005000/a005098/root_n_grnd.1080p30.mp4)
+
+Two Decades of Soil Moisture from Space
+Released Monday, February 10, 2025
+[https://svs.gsfc.nasa.gov/31176/](https://svs.gsfc.nasa.gov/31176/)
+
+[<video controls  src="https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031176/GRACE\_US\_7D\_RTZSM\_GWS\_040\_1080p10.webm" />](https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031176/GRACE_US_7D_RTZSM_GWS_040_1080p10.webm)
+
+Monitoring Global Groundwater from Space
+Released Monday, February 10, 2025
+
+[<video controls  src="https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031178/GRACE\_GLOBAL\_7D\_RTZSM\_030\_1080p10.webm" />](https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031178/GRACE_GLOBAL_7D_RTZSM_030_1080p10.webm)
 
  Happy 240th Birthday, Los Angeles!
 _From_ [_@nasa-jpl @eodis-nasa @emit-sds @nasa-pds @nasa-giss_Regular City Council - 9/4/26](https://youtu.be/aEnW1ldTlqc)
