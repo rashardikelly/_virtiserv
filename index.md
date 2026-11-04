@@ -28,6 +28,13 @@ mathjax: true
 [doodles.google/doodle/us-midterm-elections-2026/](https://doodles.google/doodle/us-midterm-elections-2026/)
 ![https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png](https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png) 
 
+
+[ArcadeSamurai Shodown IV - Amakusa's Revenge / Samurai Spirits - Amakusa Kourin (NGM-222)(NGH-222)](https://www.retrogames.cc/arcade-games/samurai-shodown-iv-amakusas-revenge-samurai-spirits-amakusa-kourin-ngm-222-ngh-222.html#)
+<img alt="image" src="https://github.com/user-attachments/assets/44f3e560-b42e-4d4f-988b-7b664df766d6" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f88853df-4e04-4622-bd9a-3725ef75bdad" />
+
+
 [Slum Beautiful · Outkast · Cee-Lo @blackgirlscode whutz left uf ya in my age @nasa](https://youtu.be/Kfq12qQwkn0?list=PLqajKD_enHNYMiIVm1trh979MvUuVk2cT&t=17)
 
 ![https://i.discogs.com/7au3XFgXDUJa2buNXb6W3rTmCFJw0HyOsq0iidpgZmc/rs:fit/g:sm/q:90/h:600/w:382/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM5/MDQyLTE0OTM5MzUw/NDYtNTQwOS5qcGVn.jpeg](https://i.discogs.com/7au3XFgXDUJa2buNXb6W3rTmCFJw0HyOsq0iidpgZmc/rs:fit/g:sm/q:90/h:600/w:382/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM5/MDQyLTE0OTM5MzUw/NDYtNTQwOS5qcGVn.jpeg) 
