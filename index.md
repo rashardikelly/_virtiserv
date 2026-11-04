@@ -26,6 +26,8 @@ mathjax: true
 [doodles.google/doodle/us-midterm-elections-2026/](https://doodles.google/doodle/us-midterm-elections-2026/)
 ![https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png](https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png) 
 
+<img  alt="goeswestabimesoscale1-ntmicroadvanced-sNov 04, 2026 - 03_21 UTC-eNov 04, 2026 - 03_40 UTC" src="https://github.com/user-attachments/assets/2b2f26f4-5dc5-4f8a-ab09-91e54e0940d1" />
+
 
 # Sea Level Rise Viewer
 [@noaagov  @nasa-jpl coast.noaa.gov/slr/](https://coast.noaa.gov/slr/)
