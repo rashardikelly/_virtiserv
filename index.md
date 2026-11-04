@@ -27,6 +27,7 @@ mathjax: true
 ![https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png](https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png) 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/6e8175c2-f5e9-408b-a647-abfbec773adb" />
+
 ![https://media.13wmaz.com/assets/WXIA/images/7edb758d-1da3-4f6e-a285-0896a0948069/20261103T042703/7edb758d-1da3-4f6e-a285-0896a0948069_1920x1080.jpg](https://media.13wmaz.com/assets/WXIA/images/7edb758d-1da3-4f6e-a285-0896a0948069/20261103T042703/7edb758d-1da3-4f6e-a285-0896a0948069_1920x1080.jpg)
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@keishaforga/video/7704100996468804878" data-video-id="7704100996468804878" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@keishaforga" href="https://www.tiktok.com/@keishaforga?refer=embed">@keishaforga</a> <p>Before the finish line, Keisha came home. 💙 First Corinth is her grandmother Ramona’s church, and the place that helped shape the woman she is today. She said she couldn’t complete this race without coming back. Thank you to the First Corinth family for the warm welcome.</p> <a target="_blank" title="♬ original sound - Keisha For Georgia" href="https://www.tiktok.com/music/original-sound-7704101205391264525?refer=embed">♬ original sound - Keisha For Georgia</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
