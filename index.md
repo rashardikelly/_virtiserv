@@ -22,7 +22,8 @@ mathjax: true
 
 
 # US Midterm Elections 2026
-@nasa-jpl @cityoflosangeles @eosdis-nasa @nasa-pds @weather-gov @commercegov @dhs-gov @howard-university-web-services @nbcnews @ajcnews
+@nasa-jpl @cityoflosangeles @eosdis-nasa @nasa-pds @weather-gov @commercegov @dhs-gov @howard-university-web-services @nbcnews @ajcnews [@nasa-jpl @ajcnews I'm taking a short game break, like 15min ArcadeMarvel Super Heroes (951024 USA) @blackgirlscode](https://www.retrogames.cc/arcade-games/marvel-super-heroes-951024-usa.html)
+
 ![https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168.2-s2x.png](https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168.2-s2x.png)
 [doodles.google/doodle/us-midterm-elections-2026/](https://doodles.google/doodle/us-midterm-elections-2026/)
 ![https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png](https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png) 
