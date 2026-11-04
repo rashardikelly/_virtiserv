@@ -26,6 +26,17 @@ mathjax: true
 [doodles.google/doodle/us-midterm-elections-2026/](https://doodles.google/doodle/us-midterm-elections-2026/)
 ![https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png](https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png) 
 
+
+# Sea Level Rise Viewer
+[@noaagov  @nasa-jpl coast.noaa.gov/slr/](https://coast.noaa.gov/slr/)
+### simulated flood.
+[@cityoflosangeles Karen Bass](https://www.congress.gov/member/karen-bass/B001270), the sea level rose 10 ft, [CouncilWomanNithiya_CD4](https://en.wikipedia.org/wiki/Nithya_Raman) try the slider on the left pane hi @noaagov @esri
+[coast.noaa.gov/slr/#/layer/slr/10/-13145277.040173031/3991116.350449195/12.448/satellite/none/0.8/2050/interHigh/noAccretion/NOS_Minor](https://coast.noaa.gov/slr/#/layer/slr/10/-13145277.040173031/3991116.350449195/12.448/satellite/none/0.8/2050/interHigh/noAccretion/NOS_Minor)
+
+![https://www.congress.gov/img/member/115_rp_ca_37_bass_karen_200.jpg](https://www.congress.gov/img/member/115_rp_ca_37_bass_karen_200.jpg) 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/3a8d36fd-1ec1-4c91-90b7-fa361299ae23" />
+
 [@nasa @eosdis-nasa firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:24hrs,24hrs;l:fires_all,country-outline,terra_crc,earth;@-116.7,39.5,5.1z](https://firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:24hrs,24hrs;l:fires_all,country-outline,terra_crc,earth;@-116.7,39.5,5.1z)
 @cityoflosangeles @la-county-isd we have a lot of activity and not a lot of smoke!
 
