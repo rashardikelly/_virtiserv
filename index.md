@@ -26,9 +26,71 @@ mathjax: true
 [doodles.google/doodle/us-midterm-elections-2026/](https://doodles.google/doodle/us-midterm-elections-2026/)
 ![https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png](https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png) 
 
-<img  alt="image" src="https://github.com/user-attachments/assets/6e8175c2-f5e9-408b-a647-abfbec773adb" />
 
-![https://media.13wmaz.com/assets/WXIA/images/7edb758d-1da3-4f6e-a285-0896a0948069/20261103T042703/7edb758d-1da3-4f6e-a285-0896a0948069_1920x1080.jpg](https://media.13wmaz.com/assets/WXIA/images/7edb758d-1da3-4f6e-a285-0896a0948069/20261103T042703/7edb758d-1da3-4f6e-a285-0896a0948069_1920x1080.jpg)
+# Colorado
+## [The Wiz (1978) (Full Movie)](https://archive.org/details/the-wiz-1978-full-movie)
+[movies.fandom.com/wiki/The_Wiz/Credits](https://movies.fandom.com/wiki/The_Wiz/Credits) // [https://en.wikipedia.org/wiki/The_Wiz_(film)](https://en.wikipedia.org/wiki/The_Wiz_(film)) + [`WikiTALK`: @deptofwar @cityofgary & @nasa-pds en.wikipedia.org/wiki/Talk:The_Wiz_(film)](https://en.wikipedia.org/wiki/Talk:The_Wiz_(film)) ///  [@nasa-jpl Federal Writers' Project: Slave Narrative Project, Vol. 4, Georgia, Part 3, Kendricks-Styles @bbc ](https://www.loc.gov/item/mesn043/) _ [World War II color footage--Liberation of Paris](https://www.loc.gov/item/2020600751/) // [1930s-40s in Color
+by The Library of Congress](https://www.flickr.com/photos/library_of_congress/albums/72157603671370361/)
+
+<iframe src="https://archive.org/embed/the-wiz-1978-full-movie" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+[(My VHS Saga #22) Sci-Fi, FOX (WOC)](https://archive.org/details/my-vhs-saga-part-22-woc)
+
+`<iframe src="https://archive.org/embed/my-vhs-saga-part-22-woc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>`
+
+### @howard-university-web-services `EpstienCase`for [Lana](https://www.youtube.com/watch?v=CH-WrSogg3A)
+[justice.gov/usao-sdny/press-release/file/1180481/dl](https://www.justice.gov/usao-sdny/press-release/file/1180481/dl)
+
+<img  alt="image @TheSpaceDevs it looks like we are funded for artemis3 pass to burbank quick!!!! @nbcnews @disney @hulu just be cool about the shit man, like im not your enemy 20th century fox sabotagged @nasa-jpl helpdesk!! the news would have never made ppl do stupid shit!!! i promise you!!! @foxnews @washingtonpost @Newshour [www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11](https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11) " src="https://github.com/user-attachments/assets/d246f48e-c776-4b35-b4af-bce1addc8300" />
+
+
+@TheSpaceDevs it looks like we are funded for artemis3 pass to burbank quick!!!! @nbcnews @disney @hulu just be cool about the shit man, like im not your enemy 20th century fox sabotagged @nasa-jpl helpdesk!! the news would have never made ppl do stupid shit!!! i promise you!!! @foxnews @washingtonpost @Newshour [www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11](https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11) 
+
+```
+Artemis Campaign.—The agreement rejects
+the proposed termination of the Space
+Launch System (SLS) and Orion programs
+following Artemis III. In any future competition for Artemis launch services, the agreement directs NASA to include an SLS-based
+option, unless otherwise directed by Congress. The agreement further prohibits the
+reallocation of funds from the Artemis Moon
+to Mars Transportation account, unless and
+until a commercial alternative is demonstrated to meet or exceed the capabilities
+of the SLS and Orion systems. Not later than
+30 days of the enactment of this act, and
+quarterly thereafter, NASA shall provide the
+Committees a briefing detailing any updates
+on the Human Landing System (HLS) program, the progress made in the HLS program, any anticipated changes to program
+cost or schedule, and any other relevant
+issues related to the HLS program
+```
+
+[@nasa-jpl is lunar ops DSN 💯💯💯💯 @nasa-pds - `Artemis3 Docs` @USNAVY @cal-poly-dxhub plz fwd to victor @nasa-openscapes ](https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11)
+@doug-newman-nasa @eodis-nasa See Congressional Record, vol. 172, no. 5, Book II (January 8, 2026), pp. H263-H265, [https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf](https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf) <~ is it legit @whitehouse @deptofwar @commercegov @la-county-isd @CityOfSantaMonica @longbeachinnovationteam .
+<img  alt="image" src="https://github.com/user-attachments/assets/1c37a142-9260-49f0-8274-956c878becd0" />
+
+![https://www.congress.gov/img/svg/congress-gov-logo.svg](https://www.congress.gov/img/svg/congress-gov-logo.svg) 
+
+<img   alt="image image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
+  games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
+I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
+@repkarenbass @SupervisorHollyJMitchell @fox5atlanta" src="https://github.com/user-attachments/assets/1c674838-f811-489b-85f4-556c2153ca37" />
+
+[The Chemical Brothers - Exit Planet Dust + Singles/Remixes 93-96 ](https://youtu.be/F5GoHBzknUs?si=_fwaHl7VfEky8ZMF)
+
+<img alt="image send to ms bass i made a congress account on my @eodis-nasa @google address holetoanotheruniverse@gmail.com  @libraryofcongress  @blackgirlscode @la-county-isd @whitehouse image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
+  games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
+I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
+@repkarenbass @SupervisorHollyJMitchell @fox5atlanta" src="https://github.com/user-attachments/assets/8696df26-4e52-40c8-9326-53941fa09319" />
+
+<img  alt="image image send to ms bass i made a congress account on my @eodis-nasa @google address holetoanotheruniverse@gmail.com  @libraryofcongress  @blackgirlscode @la-county-isd @whitehouse " src="https://github.com/user-attachments/assets/23760782-e0c4-4323-841c-4962a23dfcb4" />
+
+<img  alt="image @cityoflosangeles https://www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp @eodis-nasa @nasa-jpl @STATEOFCALiFORNiA @BOeing @salesforce READ https://www.lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire @blackgirlscode" src="https://github.com/user-attachments/assets/637cd345-7602-46bb-8068-a888bb33755b" />
+
+ // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU) //
+<img   alt="image" src="https://github.com/user-attachments/assets/d870cdc9-b2e3-42f1-8803-1bb945b0b642" />
+
+[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)  /// [Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf) /// [Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf) /// [Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf) The Story of NASA's Spaceflight Tracking and Data Network [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
+
+
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@keishaforga/video/7704100996468804878" data-video-id="7704100996468804878" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@keishaforga" href="https://www.tiktok.com/@keishaforga?refer=embed">@keishaforga</a> <p>Before the finish line, Keisha came home. 💙 First Corinth is her grandmother Ramona’s church, and the place that helped shape the woman she is today. She said she couldn’t complete this race without coming back. Thank you to the First Corinth family for the warm welcome.</p> <a target="_blank" title="♬ original sound - Keisha For Georgia" href="https://www.tiktok.com/music/original-sound-7704101205391264525?refer=embed">♬ original sound - Keisha For Georgia</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
@@ -85,7 +147,52 @@ Download:	https://appeears.earthdatacloud.nasa.gov/download/a9f51aed-7528-4f00-b
 <img  alt="image" src="https://github.com/user-attachments/assets/f88853df-4e04-4622-bd9a-3725ef75bdad" />
 
 
-[Roll Out - Ludacris](https://youtu.be/3ArhZPYplFk?list=RD3ArhZPYplFk) // [Ludacris - Southern Hospitality (Official Music Video) ft. Pharrell](https://youtu.be/2QWQVm9J5DM?list=RD3ArhZPYplFk&t=17) // [Big Tymers - Still Fly](https://youtu.be/9iCd6UHR-3I?list=RD9iCd6UHR-3I&t=2) // [Lil Wayne - Go DJ](https://youtu.be/MNS-Ho5tWo0?list=RDMNS-Ho5tWo0&t=13) // [Birdman, Lil Wayne - Stuntin' Like My Daddy @ForAtlanta ](https://youtu.be/_hDPUoUi6_s?t=3) // [David Banner - Like A Pimp (Official Music Video) ft. Lil' Flip @AJCNEWS](https://youtu.be/MKGQ5cIw_ew?list=RDMKGQ5cIw_ew&t=19) // [Mike Jones feat. Slim Thug and Paul Wall - Still Tippin' (Official Video) ](https://youtu.be/7ZAYzLjQAd4?list=RD7ZAYzLjQAd4&t=17) // [Jeezy - 05 - Hell You Talkin Bout](https://youtu.be/0uLa4nIhIkE?si=TUXfg1ASNmMUdUP9) // [Pressure · Jeezy · Kodak Black · YG](https://youtu.be/EEq-4A846KA?list=RDEEq-4A846KA&t=12) // [Your Eyes · Bombay Bicycle Club](https://youtu.be/0_Wsb92tT1M?list=RD0_Wsb92tT1M&t=12) // [I'll Call B4 I Comm · Outkast · Gangsta Boo · Eco](https://youtu.be/Nr4TiLXn8ps?list=PLqajKD_enHNYMiIVm1trh979MvUuVk2cT&t=17) // [Humble Mumble · Outkast · Erykah Badu](https://youtu.be/Zx3H99uPz_k?list=PLqajKD_enHNYMiIVm1trh979MvUuVk2cT&t=26) // [Slum Beautiful · Outkast · Cee-Lo @blackgirlscode whutz left uf ya in my age @nasa](https://youtu.be/Kfq12qQwkn0?list=PLqajKD_enHNYMiIVm1trh979MvUuVk2cT&t=17) // [What a Job · Devin the Dude · Snoop Dogg · Andre 3000](https://youtu.be/6b8DwLKii_M?list=RD6b8DwLKii_M&t=105)
+```git
+https://github.com/holetoanotheruniverse40/_virtiserv.git
+
+git checkout -b holetoanotheruniverse40-patch-3 master
+git pull https://github.com/holetoanotheruniverse40/_virtiserv.git patch-3
+
+git checkout master
+git merge --no-ff holetoanotheruniverse40-patch-3
+git push origin master
+```
+
+
+<img  alt="Screenshot 2026-10-20 7 25 57 PM" src="https://github.com/user-attachments/assets/f6b7a6b0-c986-43f3-81af-195cf48c610b" />
+
+
+
+# Writing mathematical expressions
+
+Use Markdown to display mathematical expressions on GitHub. [GitHubDoc](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions) @la-county-isd [Supervisor Janice Hahn](https://www.youtube.com/@SupJaniceHahn) // [@SupervisorLindseyP.Horvath](https://www.youtube.com/channel/UC1nFvaK_2b6u8eQ0XU_OFbQ)
+
+`**The Cauchy-Schwarz Inequality**`\
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
+**The Cauchy-Schwarz Inequality**
+
+```math
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)+
+This expression uses `\$` to display a dollar sign: $`\sqrt{\$4}`$
+```
+
+# $a^2 + b^2 = c^2$
+## $ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $
+$$\begin{eqnarray}
+x' &=& &x \sin\phi &+& z \cos\phi \\
+z' &=& - &x \cos\phi &+& z \sin\phi \\
+\end{eqnarray}$$
+
+
+### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
+
+[Roll Out - Ludacris](https://youtu.be/3ArhZPYplFk?list=RD3ArhZPYplFk) // [Ludacris - Southern Hospitality (Official Music Video) ft. Pharrell](https://youtu.be/2QWQVm9J5DM?list=RD3ArhZPYplFk&t=17) // [Big Tymers - Still Fly](https://youtu.be/9iCd6UHR-3I?list=RD9iCd6UHR-3I&t=2) // [Lil Wayne - Go DJ](https://youtu.be/MNS-Ho5tWo0?list=RDMNS-Ho5tWo0&t=13) // [Birdman, Lil Wayne - Stuntin' Like My Daddy @ForAtlanta ](https://youtu.be/_hDPUoUi6_s?t=3) // [David Banner - Like A Pimp (Official Music Video) ft. Lil' Flip @AJCNEWS](https://youtu.be/MKGQ5cIw_ew?list=RDMKGQ5cIw_ew&t=19) // [Mike Jones feat. Slim Thug and Paul Wall - Still Tippin' (Official Video) ](https://youtu.be/7ZAYzLjQAd4?list=RD7ZAYzLjQAd4&t=17) // [Jeezy - 05 - Hell You Talkin Bout](https://youtu.be/0uLa4nIhIkE?si=TUXfg1ASNmMUdUP9) // [Pressure · Jeezy · Kodak Black · YG](https://youtu.be/EEq-4A846KA?list=RDEEq-4A846KA&t=12) // [Your Eyes · Bombay Bicycle Club](https://youtu.be/0_Wsb92tT1M?list=RD0_Wsb92tT1M&t=12) // [I'll Call B4 I Comm · Outkast · Gangsta Boo · Eco](https://youtu.be/Nr4TiLXn8ps?list=PLqajKD_enHNYMiIVm1trh979MvUuVk2cT&t=17) // [Humble Mumble · Outkast · Erykah Badu](https://youtu.be/Zx3H99uPz_k?list=PLqajKD_enHNYMiIVm1trh979MvUuVk2cT&t=26) // [Slum Beautiful · Outkast · Cee-Lo @blackgirlscode whutz left uf ya in my age @nasa](https://youtu.be/Kfq12qQwkn0?list=PLqajKD_enHNYMiIVm1trh979MvUuVk2cT&t=17) // [What a Job · Devin the Dude · Snoop Dogg · Andre 3000](https://youtu.be/6b8DwLKii_M?list=RD6b8DwLKii_M&t=105) // 
+// [@ForAtlanta Young Jeezy The History Of Young Jeezy Full Mixtape](https://youtu.be/R3Tmx8fgWJA?list=PLDcRN5LMMiUKXesgIeVoxKZjLHbBrmLLR&t=287) // [DJ Rob Swift at Lorem Ipsom (Charlotte, NC): MLK Day set](https://youtu.be/O6BkRjqFahM?list=RDO6BkRjqFahM&t=1206) // [ROB SWIFT (Part 1): The Origin Of Hip Hop  R.O.A.D. #348 (FULL EPISODE) @cityoflosangeles](https://youtu.be/9gp6EY1VFLU) // [Founding Fathers The Untold Story of Hip Hop](https://youtu.be/Q__6DEpFSqo?si=z_FEVvAdkTIn85Ze) // [Beat Street 1984](https://youtu.be/4o5nrZGxyZQ) // [Graffiti Rock 1986](https://youtu.be/6V4IvwfaQZ4) // [1995 - HIP HOP DOCUMENTARY - THE SHOW](https://youtu.be/2UHm2ASOpXA) // [Style Wars - Full Movie - 1983](https://youtu.be/sc6WzZvyLZI) // [Cypress Hill: Insane in the Brain](https://youtu.be/ESDGZZds4eU) // [DJ Babu Boiler Room LA DJ Set](https://youtu.be/2aoBWcUii3k?list=RD2aoBWcUii3k) // [Turntable TV 1.0: Attack of the Robots](https://youtu.be/L8jJp5AwAZE?list=PLcWM-JSgdSMI7P_OoaoRXQLlKMU7aUTQX) // [SCRATCH: Hip Hop DJ & Turntablist Movement Documentary (2001)](https://youtu.be/k7V3_HkaYcY) // [FX the video](https://youtu.be/bW-74U5xuf4) // [FX crew the video (New York graffiti 1998) ft. T-Kid, Ces, Per, Snow, Sub, Poem and many more..`version?`..](https://youtu.be/W0W80yrcSUQ) // [Can’t Be Stopped  The Most Dangerous Crew in Hollywood](https://youtu.be/HxoUg-kWerI?si=t8cgaAmN35LmfKUw) // [Wild Style (1982)  Full Movie  Music/Drama](https://youtu.be/y6v3kwj5i9g) // [Yo! MTV Raps Hosted by Ghostface & Raekwon](https://youtu.be/8o5F14qYl-I?t=16) // [Something from Nothing: The Art of Rap  FULL MOVIE  Ice-T, Q-Tip, Snoop, Eminem, Bun-B](https://youtu.be/d_-xReCd2lw) // [Tableturns: A Great Day In Turntablism: Tableturns 4th Anniversary](https://youtu.be/MR5QbqnylrY?list=RDMR5QbqnylrY) // [Los Angeles Mayor Karen Bass joins CBS LA for conversation about reelection bid,vision for next 4 y](https://youtu.be/MiR6NFb3Zzs) // [Kirk Franklin Defends GloRilla, Reveals Funny Kanye West Story & Owns Who He Is](https://youtu.be/2UbwhztCXbE) // [Brooklyn Bridge Protest, Train Looting & Airport Fire](https://youtu.be/w48jFLGNnwM?t=10) // [Incoming Congresswoman Darializa Avila Chevalier on ICE, Democratic Socialism & The Youth Movement](https://youtu.be/4A2VUCT6C0w) // [Nithya Raman's disaster preparedness press conference](https://youtu.be/kSy6G4PX9HA) // [Quran: 4. Surat An-Nisa (The Women): Arabic and English translation HD](https://youtu.be/0lMNMwTB5M8) // [UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories](https://youtu.be/XvDZLjaCJuw) // [O. C. - times up](https://youtu.be/jneMQiw88B4?list=RDjneMQiw88B4) // [Bill Cosby Cries First - Rashard @Blackgirlscode](https://youtu.be/C_A_EthRJeI) // [The Wreckoning · Lateef The Truth Speaker](https://youtu.be/ZA7LzUVi3ZY?list=RDZA7LzUVi3ZY) // [Droppin Science -Marley Marl Feat Craig G](https://youtu.be/IjuG1ZXe1uU?list=RDIjuG1ZXe1uU) // [Rugged Ruff · Bahamadia @nbcnews 🫚`RootsCrew`🫚](https://youtu.be/OrYKESic7CI?si=jw0UXWn6OV7zv_OS) // [Blahzay Blahzay - Danger](https://youtu.be/x7uJzdu7Pak?list=RDIjuG1ZXe1uU) // [Pete Rock & CL Smooth - They Reminisce Over You (T.R.O.Y.)](https://youtu.be/k6mdRv0ZdR8?list=RDIjuG1ZXe1uU&t=219) // [Big Boi - In The A (Explicit) ft. T.I., Ludacris @ForAtlanta @qtsdatacenters ask bigboi about electricity protection @nasa ](https://youtu.be/ROlKx7PG6sY?si=4gNjwhhUtkal2nUU) // [Are You Gone Already · Nicki Minaj](https://youtu.be/2wKQ97yH1NI?list=PLxA687tYuMWhHEqcVDC_UtaMvZGmfYDKy&t=58) // [`watch` - Rico Nasty: Tiny Desk Concert @npr](https://youtu.be/kfUcI82SZv4?t=74) // [Los Angeles Mayoral Race: Nithya Raman breaks down her criticism of LAPD, what she wants to change](https://youtu.be/RXsTV5AQ94k) // [Los Angeles Mayoral Race: `Karen Bass slams Nithya Raman` for waffling @CityOfLosAngeles @Saccounty](https://youtu.be/i6EkqNGIP80?si=mr0By7RqTCPEZ1_W) // [Lost Souls · Jeezy
+](https://youtu.be/dJXbZTLIvkM) // [`Normani`  Meli Music 2026 (Full Show)  São Paulo, Brazil](https://youtu.be/mafdY-wgaIE?si=fI0ANooRzJfZpiFA) // [Tinashe Live in Brooklyn, NY : One Night With A Popstar](https://youtu.be/ARlLmfNXoFM?si=50r0bT4fhubXKw9h) // [NORMANI - Fifth Harmony Medley (Bo$$, Worth It, Work From Home All in my head) live in Brazil Meli](https://youtu.be/cwN6kVR0khk) // [Doja Cat feat. Latto Okayyy Sacramento Golden 1 Center Tour Ma Vie 10/20/26 @SAccOUNtY ](https://youtu.be/msuVa4yAfdE?si=Z-qyQKzS3BtdPoUg) // [Justin Bieber - YUKON (Live From The 68th Grammy Awards / 2026)](https://youtu.be/iLF0ZNdhNM0?si=dvkMT_NcOzNHpF3x) // [JAY-Z brings out Snoop Dogg & Dr.Dre JAY-Z30 Night 2 at SoFi Stadium @cityoflosangeles Oct. 24, 2026](https://youtu.be/iZvCWarU4HE) // [JAY-Z LA (Night 1 @StateOfCAlifornia )](https://youtu.be/1ju8FYArVvk) // 
+[Veteran of the Psychic Wars · Blue Oyster Cult](https://youtu.be/jUwh-C5w7II?list=RDjUwh-C5w7II) // [Must Be Dues · Melba Moore](https://youtu.be/Eu8K8LEaUy0?list=RDjUwh-C5w7II)  // [Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk)  // [Blessings · Visionaries](https://youtu.be/I2zWUFlfWWM) // [Acid Raindrops · People Under The Stairs](https://youtu.be/UcKDx4cmvio?list=RDUcKDx4cmvio) // [Never Fallin' · Living Legends](https://youtu.be/eGv_ZJ5dSPc?list=RDeGv_ZJ5dSPc) // [Moment Of Truth · Gang Starr](https://youtu.be/Rr46FS7tkk4?list=RDeGv_ZJ5dSPc) // [Love & Appreciate · Murs](https://youtu.be/UYay1c2Fl0o?si=0-_2J0SIFATsYUuD) // [Moment For Life - Nicki Minaj](https://www.youtube.com/watch?v=D7GW8TYCEG4) //   [📺Yung Miami Emotional w/ New Album, Missing JT, Tyla Situation & Drake Leaving Her on 📱Read📱](https://youtu.be/5M_ggaI-ais) // [Miki Howard's Journey Through Music, Struggle, and Resilience](https://youtu.be/d8iYVyhG4jE) // [The Roots - Pass The Popcorn](https://youtu.be/0etlTq8eNzk?list=RD0etlTq8eNzk) // [The Roots - Clones](https://youtu.be/_I1IX2cqjQ4?list=RD0etlTq8eNzk) // [Star/Pointro · The Roots](https://youtu.be/AV9KwitVZAE?si=N19Qwjs_9l1NSCGo) // [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?si=MUj3BGD_B3nfPECr) // [Jeezy - No Tears](https://youtu.be/qbXc0Ol9OXI?list=RDAmSUb5H5G0s) // [Gucci Mane - Met Gala feat. Offset @CityOFLOSANGELES _KARENBASS @LACMTA HOLLY J MiTCHELL @LA-COUNTY_iSD KeishA BOTTOMS @ForATLANTA @Cityofsantamonica](https://youtu.be/3QzUSSKfEeA?list=RD3QzUSSKfEeA) // [Long Live The Pimp · Future · Trae The Truth @ForAtlanta](https://youtu.be/XV8baX2ByLg?list=RDXV8baX2ByLg) // [Rico Nasty - IPHONE @opendatade  @cityofphiladelphia](https://youtu.be/RuhvdaDabpU?list=RDRuhvdaDabpU&t=23) // [Beyoncé - 7/11](https://youtu.be/k4YRWT_Aldo?list=RDk4YRWT_Aldo) // 🎼📻 [Guilty Simpson - Man's World](https://youtu.be/VEDBFzDnIRM?list=RDVEDBFzDnIRM) // [Petty People · Sadat X](https://youtu.be/rKV9xM8f5yI?si=Cd72wzSI16zJTTuJ) // [Aaliyah Tribute: Normani - Rock The Boat](https://youtu.be/2Rf_XHe6Ztc?list=RD2Rf_XHe6Ztc&t=15)  // [Love Under New Management · Miki Howard](https://youtu.be/SReOKWeSKRM?list=RDSReOKWeSKRM)  // 🎤🎵 // [Rapture  - Anita Baker `1986`](https://youtu.be/jqZjsscpj1E?si=tt11H84j3jke7a7U) // [Friends And Strangers · Ronnie Laws `1977`](https://youtu.be/nRCun0fCr_U) // [Life In Paradise · Ronnie Laws](https://youtu.be/gm32Ev5muTU) // [Ronnie Laws ~ Flame🔥🔥🔥](https://youtu.be/-1K8rFKk7zc?list=RD-1K8rFKk7zc) // [Kash Doll - KD Diary ](https://youtu.be/25VCq8iHTVo?si=S62ZizU_Sc2mBe3n) // [Roy Ayers Ubiquity ~ Everybody Loves The Sunshine 1974](https://youtu.be/9EhIBv_qAlI?list=RD9EhIBv_qAlI) // [Gil Scott Heron - Angel Dust](https://youtu.be/pRQgviNNZEM?list=RDpRQgviNNZEM) // [Michael Jackson - Of The Wall ](https://youtu.be/stnnBVvwsy8?list=RDstnnBVvwsy8) // 🎼📻 [Guilty Simpson - Man's World](https://youtu.be/VEDBFzDnIRM?list=RDVEDBFzDnIRM) // [Petty People · Sadat X](https://youtu.be/rKV9xM8f5yI?si=Cd72wzSI16zJTTuJ) // 🎤🎵 // // [Rashan Ali Talks Growing Up In Decatur, GA, Tyler Perry, All The Queens Men, And Atlanta Music Scene @foratlanta ](https://youtu.be/CypOIqP_FUI?si=_5d7Cqzq6wMxiFnE) // [Healthcare Fraud Takedown Announcement October 2026 @usdoj](https://youtu.be/mfUy4YzABkc?t=25) // [10.22.26. Coco Jones Gracefully Responds to Racist Heckler](https://youtu.be/LcMe2VY_iHk?t=1) // [@NASA Digital Marketing - Interview with Veronica McGregor: Social Media Minute](https://youtu.be/arZVDCIC0S4?si=OAbFpPl5p9tQKCMu) // [Ilhan Omar says she has to MOVE to new home after raid (Plus: Ted Cruz goes after El-Sayed)](https://www.youtube.com/watch?v=lw0jGm0vCHM) // [Marriage FRAUD ring EXPOSED Sham marriages and UNLAWFUL immigration benefits shut down by DOJ](https://youtu.be/5Sl5l_G-DBk?t=98) // 
+[Queen Latifah, Yo-Yo, TLC, MC Lyte, Nefertiti, Salt-N-Pepa, Patra, Meshell Ndegeocello - Freedom @nasa-pds](https://youtu.be/qxyxqVDjSzs?list=RDqxyxqVDjSzs&t=117) // [Big Boi - Shine Blockas ft. Gucci Mane](https://youtu.be/3GK23f_xtZY?list=RDqxyxqVDjSzs&t=21) // [Goodie Mob - Black Ice ](https://youtu.be/F9ULbmCvmxY?list=RDqxyxqVDjSzs) // [Makaveli - To Live & Die In L.A. (Official Music Video) @cityoflosangeles _Mayor Karen Bass_ For MAyor 2026 `MostCovidParties` @bbc](https://youtu.be/fDjMSiECbgg?list=RDqxyxqVDjSzs&t=169) //  [The High & Mighty feat. Mos Def & Mad Skillz "B-Boy Document 99"](https://youtu.be/21uOvcK__M0?list=RDqxyxqVDjSzs&t=19) // [Chlöe - Live at Blue Note Los Angeles (Full Show)](https://youtu.be/5nEZbH9nsA4?list=RD5nEZbH9nsA4) // [Mr. Magic’s, “Rap Attack” featuring Marley Marl on 107.5 WBLS-FM New York City 1987](https://youtu.be/Nxnafd_e6KE?list=RDNxnafd_e6KE) // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU) // [The Chemical Brothers - Exit Planet Dust + Singles/Remixes 93-96 ](https://youtu.be/F5GoHBzknUs?si=_fwaHl7VfEky8ZMF) // [Stereo MC's – DJ-Kicks: (1999)](https://youtu.be/HfSTdtuhfHM?si=PE2P35wFQZFlsGCO) // [The Avalanches - Since I Left You](https://youtu.be/PC3luNmE15E) // [Tiny Confronts T.I. About His Infidelities : T.I. & Tiny: The Family Hustle](https://youtu.be/enaSRtX_nmE?si=lvHmG0_F_UnTEi4L) // [T.I. & Tiny's Relationship Timeline : T.I. & Tiny: The Family Hustle](https://youtu.be/YrrHIfPHho4) // [🧊](https://portal.ice.gov/) // [Mr. Magic’s, “Rap Attack” featuring Marley Marl on 107.5 WBLS-FM New York City 1987](https://youtu.be/Nxnafd_e6KE?list=RDNxnafd_e6KE) // // [B i z Markie - G0IN'0FF](https://youtu.be/D5s-oH8P004?si=qaQIc-vFCHf0OPLk) // [Living For The City · Stevie Wonder](https://youtu.be/ghLWjyOOLno?si=jA9xs4AR1PakdYuB) // [The World Is A Ghetto by War @CityOfLosAngeles](https://youtu.be/VIIbT89V7EI?list=RDghLWjyOOLno&t=143) // [Slippin' Into Darkness · War](https://youtu.be/pBNZevgJH1g?list=RDghLWjyOOLno) // [The Vision Of Rassan Medley: Dedication / Roll On `Kirk`? @nasa-jpl](https://youtu.be/n7Wjkg7UpK8?si=omvE1a8jdPp07PXO) // [Eric Burdon & War Paint It Black Live, 1970](https://youtu.be/tVPwuvf6LAI?list=RDtVPwuvf6LAI&t=20) //// [Common - The Light](https://youtu.be/OjHX7jf-znA?t=21) // [Cypress Hill - Hits from the Bong](https://youtu.be/eMK4cfXj5c0?list=RDeMK4cfXj5c0) // [The Notorious B.I.G. - Everyday Struggle](https://youtu.be/Uz5o4EjCNLg?list=RDUz5o4EjCNLg) // [Common, Pete Rock - Dreamin' ](https://youtu.be/x03T8GiB8a0?list=RDx03T8GiB8a0) // [Common, Pete Rock - All Kind Of Ideas ](https://youtu.be/LBjMJ_AIi3E?list=RDLBjMJ_AIi3E) // [Common, Pete Rock - The Auditorium Vol. 1](https://youtu.be/AjmDOCDlZX8) // [Scarface - Now I Feel Ya ](https://youtu.be/q-yYwKYqtsU?list=RDq-yYwKYqtsU) // [Future - Married To The Game (Project E.T. Esco Terrestrial)](https://youtu.be/NUyf8SMPUAI?list=RDVCaxeHxmZws) // [Turn On Me · Future](https://youtu.be/f0ht35WkUfg?list=RDVCaxeHxmZws) // [Young Thug - Hot ft. Gunna & Travis Scott ](https://youtu.be/leJNDpm_G10?list=PLHiCeIV7logEXbK1-N8ez49FEdzF84vBR) // [Young Thug - I Bought Her ft. Lil Duke🔊🔊🔊](https://youtu.be/7qoPFVyjgNA?list=PLHiCeIV7logEXbK1-N8ez49FEdzF84vBR) // [Quavo, T.I. - Quavo & T.I. - Backwards ](https://youtu.be/M5PZIuXHIc4?list=RDM5PZIuXHIc4) // [Future "Space Cadet"](https://youtu.be/_u9bQYzxkGo?list=RD_u9bQYzxkGo) // [French Montana - Lockjaw 🎞️✊🏿⬛](https://youtu.be/pIHR7rUeGTc?list=RDpIHR7rUeGTc) // [Kodak Black "Like Dat"](https://youtu.be/ona78uz3f_I?list=RDona78uz3f_I) // [Gucci Mane, Bruno Mars, Kodak Black - Wake Up in The Sky](https://youtu.be/U68MJz9DrI4?list=RDU68MJz9DrI4) // [T.I. - About The Money ft. Young Thug](https://youtu.be/etfIdtm-OC8?si=CEHAV-1mvd24FGiL) // [DeJ Loaf - No Fear _ youtu.be/ny4SFoeAAaM?list=RDny4SFoeAAaM](https://youtu.be/ny4SFoeAAaM?list=RDny4SFoeAAaM) // [Tokyo Jetz - Baller Alert ft. Kash Doll](https://youtu.be/Yct6EMBM8tM?list=RDYct6EMBM8tM) // [Tokyo Jetz - At Em ](https://youtu.be/3U69zbAPGEc?list=RD3U69zbAPGEc) // [@ForAtlanta Royal Absurdities Episode 3: Tip's Birthday @nasa-pds](https://youtu.be/DOxsq0HcqE0?t=1) // [DJ Roc Raida (RIP) - The X-Men  Old Skool (1996) - Mixtape Cassette - @thedailybeatdrop](https://youtu.be/pyi2krVtpi8?list=RDpyi2krVtpi8&t=51) <~ old [Hot97](https://www.hot97.com/)
+
 
  //[Slum Beautiful · Outkast · Cee-Lo @blackgirlscode whutz left uf ya in my age @nasa](https://youtu.be/Kfq12qQwkn0?list=PLqajKD_enHNYMiIVm1trh979MvUuVk2cT&t=17)
 
@@ -143,7 +250,87 @@ MRO MARCI Weather Report for the week of
 [@SWOTcommunity huggingface.co/spaces/iuryt/whereisswot @CityofSantaMonica](https://huggingface.co/spaces/iuryt/whereisswot)
 <img  alt="image" src="https://github.com/user-attachments/assets/cbef5e8a-5905-4929-aee0-295ce4684652" />
 
+```html
+<iframe src="https://archive.org/embed/image-3_202504" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+```
+
+[Mr. Magic’s, “Rap Attack” featuring Marley Marl on 107.5 WBLS-FM New York City 1987](https://youtu.be/Nxnafd_e6KE?list=RDNxnafd_e6KE)
+
+
+### Snow White And The Seven Dwarfs (1937)
+by [Walt @Disney Animation Studios](https://archive.org/search?query=creator%3A%22Walt+Disney+Animation+Studios%22) [`files`](https://archive.org/download/snow-white-and-the-seven-dwarfs-1937_202404)
+"Snow White" is a German fairy tale, first written down in the early 19th century. The Brothers Grimm published it in 1812 in the first edition of their collection Grimms' Fairy Tales, numbered as Tale 53. [Wiki - READ MORE](https://en.wikipedia.org/wiki/Snow_White)
+[`READ` - ra5hard.github.io/assets/pdf/`snowwhite`_plainclothesTracy.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/snowwhite_plainclothesTracy.pdf) /// [`ReaD` n Color - assets/pdf/dicktracy.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/dicktracy.pdf) +++ [Grimm 053: Little Snow-White](https://www.grimmstories.com/en/grimm_fairy-tales/snow-white)
+
+[<video controls loading="lazy" poster="https://github.com/user-attachments/assets/24583cf6-1dd3-4b3e-a500-f422530a108d" src="https://archive.org/download/snow-white-and-the-seven-dwarfs-1937_202404/Snow%20White%20and%20the%20Seven%20Dwarfs%20%281937%29.mp4" />](https://archive.org/download/snow-white-and-the-seven-dwarfs-1937_202404/Snow%20White%20and%20the%20Seven%20Dwarfs%20%281937%29.mp4)
+
+```html
+<iframe src="https://archive.org/embed/snow-white-and-the-seven-dwarfs-1937_202404" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+```
+<img  alt="snowwhite_plainclothesTracy-13" src="https://github.com/user-attachments/assets/9da5badc-90d7-404d-8e0d-e4f46ab0892f" />
+
+[@nasa-jpl @foratlanta github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/4e7eaa1f-6acb-412f-aeab-adb0d76e5d39" />
+
+
+![https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png](https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png)
+
+[![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
+[@nasa-jpl @foratlanta github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6e8175c2-f5e9-408b-a647-abfbec773adb" />
+
+![https://media.13wmaz.com/assets/WXIA/images/7edb758d-1da3-4f6e-a285-0896a0948069/20261103T042703/7edb758d-1da3-4f6e-a285-0896a0948069_1920x1080.jpg](https://media.13wmaz.com/assets/WXIA/images/7edb758d-1da3-4f6e-a285-0896a0948069/20261103T042703/7edb758d-1da3-4f6e-a285-0896a0948069_1920x1080.jpg)
+
 <img alt="GIOVANNI-output7upfMERF @nasa-jpl @cityoflosangeles @eosdis-nasa @nasa-pds @weather-gov @commercegov @dhs-gov" src="https://github.com/user-attachments/assets/57ac4cfa-f08d-49e9-b2ae-2705a70add5a" />
+
+
+
+### Children of [sharecroppers](https://www.repeatercouncil.org/), [Little Rock](https://www.youtube.com/watch?v=tXJOvihczms), [Arkansas](https://governor.arkansas.gov/)
+![https://tile.loc.gov/storage-services/service/pnp/fsa/8a16000/8a16100/8a16176v.jpg](https://tile.loc.gov/storage-services/service/pnp/fsa/8a16000/8a16100/8a16176v.jpg)
+
+### Colored mother and child, [Little Rock](https://www.youtube.com/watch?v=tXJOvihczms),  [Arkansas](https://governor.arkansas.gov/)
+![https://tile.loc.gov/storage-services/service/pnp/fsa/8a16000/8a16100/8a16168v.jpg](https://tile.loc.gov/storage-services/service/pnp/fsa/8a16000/8a16100/8a16168v.jpg)
+[https://www.loc.gov/pictures/item/2017729940/](https://www.loc.gov/pictures/item/2017729940/)
+<img  alt="2179047660_3db4aab41c_o" src="https://github.com/user-attachments/assets/c83ce124-8f3c-49b0-a3c6-a2dad4e420bd" />
+
+https://www.flickr.com/photos/library_of_congress/2179046738/in/album-72157603671370361
+<img   alt="image" src="https://github.com/user-attachments/assets/67bb9494-54bd-43aa-a7b9-f09718ab4b5d" />
+
+
+[Ansel Adams](https://www.kenrockwell.com/tech/zone.htm)'s Photographs of Japanese-American Internment at Manzanar
+[Japanese-American Internment at Manzanar @JAXA loc.gov/pictures/collection/manz/](https://www.loc.gov/pictures/collection/manz/)
+
+![https://www.loc.gov/pictures/static/data/manz/banner.jpg](https://www.loc.gov/pictures/static/data/manz/banner.jpg)  
+
+### Tuskegee Airmen
+Photojournalist Toni Frissell documented the 332nd Fighter Group at air base in southern Italy in March 1945. She photographed the African-American squadron officers, pilots, and ground crew preparing for active duty; runway conditions and on-base radio broadcaster at work. Commanding Officer Colonel Benjamin O. Davis briefing pilots, also known as Tuskegee Airmen.
+[loc.gov/pictures/search/?q=LOT%2012447-1&fi=number&op=PHRASE&va=exact&co!=coll&sg=true&st=gallery](https://www.loc.gov/pictures/search/?q=LOT%2012447-1&fi=number&op=PHRASE&va=exact&co!=coll&sg=true&st=gallery) // [https://www.loc.gov/pictures/item/89706156/](https://www.loc.gov/pictures/item/89706156/)
+[Members of the Army Air Force 332nd Fighter Group in a briefing room, Ramitelli, Italy]
+Digital ID: (digital file from original item, entire contact sheet) ppmsca 40815 http://hdl.loc.gov/loc.pnp/ppmsca.40815
+Reproduction Number: LC-DIG-ppmsca-40815 (digital file from original item, entire contact sheet)
+Repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+![@nasa-jpl fwd to Glenn in regards to howard @whitehouse](https://tile.loc.gov/storage-services/service/pnp/ppmsca/40800/40815v.jpg)
+
+![https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c11000/3c11100/3c11174v.jpg](https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c11000/3c11100/3c11174v.jpg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/cedebbef-ef68-4c6a-98eb-513df11818c4" />
+
+#### [Born in Slavery: Slave Narratives from the Federal Writers' Project, 1936 to 1938](https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/about-this-collection/)
+Born in Slavery: Slave Narratives from the Federal Writers' Project, 1936-1938 contains more than 2,300 first-person accounts of slavery and 500 black-and-white photographs of former slaves.  These narratives were collected in the 1930s as part of the Federal Writers' Project (FWP) of the Works Progress Administration, later renamed Work Projects Administration (WPA).  At the conclusion of the Slave Narrative project, a set of edited transcripts was assembled and microfilmed in 1941 as the seventeen-volume Slave Narratives: A Folk History of Slavery in the United States from Interviews with Former Slaves. In 2000-2001, with major support from the Citigroup Foundation, the Library digitized the narratives from the microfilm edition and scanned from the originals 500 photographs, including more than 200 that had never been microfilmed or made publicly available.  This online collection is a joint presentation of the Manuscript and Prints and Photographs divisions of the Library of Congress. [Born in Slavery: Slave Narratives from the Federal Writers' Project, 1936 to 1938 @FORATLANTA @CiTYOFLOSANGELES @BLACKGiRLSCODE](https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/about-this-collection/) / Federal Writers' Project: Slave Narrative Project, Vol. 4, Georgia, Part 3, [Kendricks-Styles @newshour @forATLANTA ](https://www.loc.gov/item/mesn043/)
+
+![https://tile.loc.gov/image-services/iiif/service:mss:mesnp:mesnp-162130a:162130a/full/pct:100/0/default.jpg](https://tile.loc.gov/image-services/iiif/service:mss:mesnp:mesnp-162130a:162130a/full/pct:100/0/default.jpg) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/9f75a762-0b4c-48df-a633-9f428e2960cb" />
+
+[loc.gov/exhibits/bound-for-glory/](https://www.loc.gov/exhibits/bound-for-glory/)
+
+![https://www.loc.gov/exhibits/bound-for-glory/Assets/banner_glory.jpg](https://www.loc.gov/exhibits/bound-for-glory/Assets/banner_glory.jpg) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e00d4de2-b2d2-4e68-ac03-9dbca1c9263b" />
+
+
 <img  alt="GIOVANNI-outputrfKpd3EU @nasa-jpl @cityoflosangeles @eosdis-nasa @nasa-pds @weather-gov @commercegov @dhs-gov" src="https://github.com/user-attachments/assets/0260a45b-6691-4475-a929-71009d28d23b" />
 <img  alt="GIOVANNI-outputEoM8PpNe @nasa-jpl @cityoflosangeles @eosdis-nasa @nasa-pds @weather-gov @commercegov @dhs-gov" src="https://github.com/user-attachments/assets/bc3dd1fa-a664-4b77-8036-e0466c5845dc" />
 
@@ -623,7 +810,6 @@ Raw product from the nikon_d5 camera on Artemis II. It was taken on flight day 8
 <img   alt="image" src="https://github.com/user-attachments/assets/bbff9f8b-ac65-467c-86be-212b1433d4dd" />
 
 
-// [@ForAtlanta Young Jeezy The History Of Young Jeezy Full Mixtape](https://youtu.be/R3Tmx8fgWJA?list=PLDcRN5LMMiUKXesgIeVoxKZjLHbBrmLLR&t=287) // [DJ Rob Swift at Lorem Ipsom (Charlotte, NC): MLK Day set](https://youtu.be/O6BkRjqFahM?list=RDO6BkRjqFahM&t=1206) // [ROB SWIFT (Part 1): The Origin Of Hip Hop  R.O.A.D. #348 (FULL EPISODE) @cityoflosangeles](https://youtu.be/9gp6EY1VFLU) // [Founding Fathers The Untold Story of Hip Hop](https://youtu.be/Q__6DEpFSqo?si=z_FEVvAdkTIn85Ze) // [Beat Street 1984](https://youtu.be/4o5nrZGxyZQ) // [Graffiti Rock 1986](https://youtu.be/6V4IvwfaQZ4) // [1995 - HIP HOP DOCUMENTARY - THE SHOW](https://youtu.be/2UHm2ASOpXA) // [Style Wars - Full Movie - 1983](https://youtu.be/sc6WzZvyLZI) // [Cypress Hill: Insane in the Brain](https://youtu.be/ESDGZZds4eU) // [DJ Babu Boiler Room LA DJ Set](https://youtu.be/2aoBWcUii3k?list=RD2aoBWcUii3k) // [Turntable TV 1.0: Attack of the Robots](https://youtu.be/L8jJp5AwAZE?list=PLcWM-JSgdSMI7P_OoaoRXQLlKMU7aUTQX) // [SCRATCH: Hip Hop DJ & Turntablist Movement Documentary (2001)](https://youtu.be/k7V3_HkaYcY) // [FX the video](https://youtu.be/bW-74U5xuf4) // [FX crew the video (New York graffiti 1998) ft. T-Kid, Ces, Per, Snow, Sub, Poem and many more..`version?`..](https://youtu.be/W0W80yrcSUQ) // [Can’t Be Stopped  The Most Dangerous Crew in Hollywood](https://youtu.be/HxoUg-kWerI?si=t8cgaAmN35LmfKUw) // [Wild Style (1982)  Full Movie  Music/Drama](https://youtu.be/y6v3kwj5i9g) // [Yo! MTV Raps Hosted by Ghostface & Raekwon](https://youtu.be/8o5F14qYl-I?t=16) // [Something from Nothing: The Art of Rap  FULL MOVIE  Ice-T, Q-Tip, Snoop, Eminem, Bun-B](https://youtu.be/d_-xReCd2lw) // [Tableturns: A Great Day In Turntablism: Tableturns 4th Anniversary](https://youtu.be/MR5QbqnylrY?list=RDMR5QbqnylrY) // [Los Angeles Mayor Karen Bass joins CBS LA for conversation about reelection bid,vision for next 4 y](https://youtu.be/MiR6NFb3Zzs) // [Kirk Franklin Defends GloRilla, Reveals Funny Kanye West Story & Owns Who He Is](https://youtu.be/2UbwhztCXbE) // [Brooklyn Bridge Protest, Train Looting & Airport Fire](https://youtu.be/w48jFLGNnwM?t=10) // [Incoming Congresswoman Darializa Avila Chevalier on ICE, Democratic Socialism & The Youth Movement](https://youtu.be/4A2VUCT6C0w) // [Nithya Raman's disaster preparedness press conference](https://youtu.be/kSy6G4PX9HA) // [Quran: 4. Surat An-Nisa (The Women): Arabic and English translation HD](https://youtu.be/0lMNMwTB5M8) // [UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories](https://youtu.be/XvDZLjaCJuw)
 
 
 
@@ -736,28 +922,6 @@ The NASA Advanced Composition Explorer (ACE) satellite enables SWPC to give adva
 [https://slider.cira.colostate.edu/?sat=goes-19&sec=`full_disk` @naSA-JPL](https://slider.cira.colostate.edu/?sat=goes-19&sec=full_disk&x=5264&y=5712&z=2&angle=0&im=12&ts=1&st=0&et=0&speed=130&motion=loop&maps%5Bborders%5D=white&p%5B0%5D=geocolor&opacity%5B0%5D=1&pause=0&slider=-1&hide_controls=0&mouse_draw=0&follow_feature=0&follow_hide=0&s=rammb-slider&draw_color=FFD700&draw_width=6) // [Hiring Paths to an EPA Career @USEPA](https://www.epa.gov/careers)
 <img  alt="Screenshot 2026-10-29 10 26 05 AM" src="https://github.com/user-attachments/assets/512a4c37-26e8-4e00-b792-9e432b1af62a" />
 
-
-### Snow White And The Seven Dwarfs (1937)
-by [Walt @Disney Animation Studios](https://archive.org/search?query=creator%3A%22Walt+Disney+Animation+Studios%22) [`files`](https://archive.org/download/snow-white-and-the-seven-dwarfs-1937_202404)
-"Snow White" is a German fairy tale, first written down in the early 19th century. The Brothers Grimm published it in 1812 in the first edition of their collection Grimms' Fairy Tales, numbered as Tale 53. [Wiki - READ MORE](https://en.wikipedia.org/wiki/Snow_White)
-[`READ` - ra5hard.github.io/assets/pdf/`snowwhite`_plainclothesTracy.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/snowwhite_plainclothesTracy.pdf) /// [`ReaD` n Color - assets/pdf/dicktracy.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/dicktracy.pdf) +++ [Grimm 053: Little Snow-White](https://www.grimmstories.com/en/grimm_fairy-tales/snow-white)
-
-[<video controls loading="lazy" poster="https://github.com/user-attachments/assets/24583cf6-1dd3-4b3e-a500-f422530a108d" src="https://archive.org/download/snow-white-and-the-seven-dwarfs-1937_202404/Snow%20White%20and%20the%20Seven%20Dwarfs%20%281937%29.mp4" />](https://archive.org/download/snow-white-and-the-seven-dwarfs-1937_202404/Snow%20White%20and%20the%20Seven%20Dwarfs%20%281937%29.mp4)
-
-```html
-<iframe src="https://archive.org/embed/snow-white-and-the-seven-dwarfs-1937_202404" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-```
-<img  alt="snowwhite_plainclothesTracy-13" src="https://github.com/user-attachments/assets/9da5badc-90d7-404d-8e0d-e4f46ab0892f" />
-
-[@nasa-jpl @foratlanta github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf)
-
-<img   alt="image" src="https://github.com/user-attachments/assets/4e7eaa1f-6acb-412f-aeab-adb0d76e5d39" />
-
-
-![https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png](https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png)
-
-[![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
-[@nasa-jpl @foratlanta github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf)
 
 
 @rashardikelly Voted @foratlanta @cityoflosangeles @stateofcalifornia @saccounty @blackgirlscode
@@ -879,8 +1043,7 @@ Due to a power outage, A and E Line trains are not running Grand Ave Arts/Bunker
 
 <img   alt="image" src="https://github.com/user-attachments/assets/8a218674-b8d5-4774-a6c2-d2d2d007679f" />
 
-[O. C. - times up](https://youtu.be/jneMQiw88B4?list=RDjneMQiw88B4) // [Bill Cosby Cries First - Rashard @Blackgirlscode](https://youtu.be/C_A_EthRJeI) // [The Wreckoning · Lateef The Truth Speaker](https://youtu.be/ZA7LzUVi3ZY?list=RDZA7LzUVi3ZY) // [Droppin Science -Marley Marl Feat Craig G](https://youtu.be/IjuG1ZXe1uU?list=RDIjuG1ZXe1uU) // [Rugged Ruff · Bahamadia @nbcnews 🫚`RootsCrew`🫚](https://youtu.be/OrYKESic7CI?si=jw0UXWn6OV7zv_OS) // [Blahzay Blahzay - Danger](https://youtu.be/x7uJzdu7Pak?list=RDIjuG1ZXe1uU) // [Pete Rock & CL Smooth - They Reminisce Over You (T.R.O.Y.)](https://youtu.be/k6mdRv0ZdR8?list=RDIjuG1ZXe1uU&t=219) // [Big Boi - In The A (Explicit) ft. T.I., Ludacris @ForAtlanta @qtsdatacenters ask bigboi about electricity protection @nasa ](https://youtu.be/ROlKx7PG6sY?si=4gNjwhhUtkal2nUU) // [Are You Gone Already · Nicki Minaj](https://youtu.be/2wKQ97yH1NI?list=PLxA687tYuMWhHEqcVDC_UtaMvZGmfYDKy&t=58) // [`watch` - Rico Nasty: Tiny Desk Concert @npr](https://youtu.be/kfUcI82SZv4?t=74) // [Los Angeles Mayoral Race: Nithya Raman breaks down her criticism of LAPD, what she wants to change](https://youtu.be/RXsTV5AQ94k) // [Los Angeles Mayoral Race: `Karen Bass slams Nithya Raman` for waffling @CityOfLosAngeles @Saccounty](https://youtu.be/i6EkqNGIP80?si=mr0By7RqTCPEZ1_W) // [Lost Souls · Jeezy
-](https://youtu.be/dJXbZTLIvkM) // [`Normani`  Meli Music 2026 (Full Show)  São Paulo, Brazil](https://youtu.be/mafdY-wgaIE?si=fI0ANooRzJfZpiFA) // [Tinashe Live in Brooklyn, NY : One Night With A Popstar](https://youtu.be/ARlLmfNXoFM?si=50r0bT4fhubXKw9h) // [NORMANI - Fifth Harmony Medley (Bo$$, Worth It, Work From Home All in my head) live in Brazil Meli](https://youtu.be/cwN6kVR0khk) // [Doja Cat feat. Latto Okayyy Sacramento Golden 1 Center Tour Ma Vie 10/20/26 @SAccOUNtY ](https://youtu.be/msuVa4yAfdE?si=Z-qyQKzS3BtdPoUg) // [Justin Bieber - YUKON (Live From The 68th Grammy Awards / 2026)](https://youtu.be/iLF0ZNdhNM0?si=dvkMT_NcOzNHpF3x) // [JAY-Z brings out Snoop Dogg & Dr.Dre JAY-Z30 Night 2 at SoFi Stadium @cityoflosangeles Oct. 24, 2026](https://youtu.be/iZvCWarU4HE) // [JAY-Z LA (Night 1 @StateOfCAlifornia )](https://youtu.be/1ju8FYArVvk)
+
 
 
 [@cityoflosangeles  Representative Karen Bass (1953 - )](https://www.congress.gov/member/karen-bass/B001270) /// dams resiviors false color 
@@ -1138,7 +1301,6 @@ this video say a.i. is this what you talking about because thats not rick ross, 
 <img  alt="image" src="https://github.com/user-attachments/assets/b05063fa-fbb6-4775-891c-7425c1949141" />
 
 
-[Veteran of the Psychic Wars · Blue Oyster Cult](https://youtu.be/jUwh-C5w7II?list=RDjUwh-C5w7II) // [Must Be Dues · Melba Moore](https://youtu.be/Eu8K8LEaUy0?list=RDjUwh-C5w7II)  // [Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk)  // [Blessings · Visionaries](https://youtu.be/I2zWUFlfWWM) // [Acid Raindrops · People Under The Stairs](https://youtu.be/UcKDx4cmvio?list=RDUcKDx4cmvio) // [Never Fallin' · Living Legends](https://youtu.be/eGv_ZJ5dSPc?list=RDeGv_ZJ5dSPc) // [Moment Of Truth · Gang Starr](https://youtu.be/Rr46FS7tkk4?list=RDeGv_ZJ5dSPc) // [Love & Appreciate · Murs](https://youtu.be/UYay1c2Fl0o?si=0-_2J0SIFATsYUuD) // [Moment For Life - Nicki Minaj](https://www.youtube.com/watch?v=D7GW8TYCEG4)
 
 
 # HOT 97 News Live! 10/26/26 feat. [Lana J HArris](https://www.tiktok.com/@lanajharris)
@@ -1295,7 +1457,7 @@ This image was acquired on Oct. 24, 2026 (Sol 2018) at the local mean solar time
 <img   alt="Mars2020_sol2018-2019_ZR2_CCF_WSM_d2469f2a-30e0-4804-8b8b-248ba2e88d79" src="https://github.com/user-attachments/assets/4b32e9d4-2c55-4e36-bd2c-624c5bcfd613" />
 
 
-  [📺Yung Miami Emotional w/ New Album, Missing JT, Tyla Situation & Drake Leaving Her on 📱Read📱](https://youtu.be/5M_ggaI-ais) // [Miki Howard's Journey Through Music, Struggle, and Resilience](https://youtu.be/d8iYVyhG4jE) // [The Roots - Pass The Popcorn](https://youtu.be/0etlTq8eNzk?list=RD0etlTq8eNzk) // [The Roots - Clones](https://youtu.be/_I1IX2cqjQ4?list=RD0etlTq8eNzk) // [Star/Pointro · The Roots](https://youtu.be/AV9KwitVZAE?si=N19Qwjs_9l1NSCGo) // [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?si=MUj3BGD_B3nfPECr) // [Jeezy - No Tears](https://youtu.be/qbXc0Ol9OXI?list=RDAmSUb5H5G0s) // [Gucci Mane - Met Gala feat. Offset @CityOFLOSANGELES _KARENBASS @LACMTA HOLLY J MiTCHELL @LA-COUNTY_iSD KeishA BOTTOMS @ForATLANTA @Cityofsantamonica](https://youtu.be/3QzUSSKfEeA?list=RD3QzUSSKfEeA) // [Long Live The Pimp · Future · Trae The Truth @ForAtlanta](https://youtu.be/XV8baX2ByLg?list=RDXV8baX2ByLg) // [Rico Nasty - IPHONE @opendatade  @cityofphiladelphia](https://youtu.be/RuhvdaDabpU?list=RDRuhvdaDabpU&t=23) // [Beyoncé - 7/11](https://youtu.be/k4YRWT_Aldo?list=RDk4YRWT_Aldo)
+
 
 <img   src="https://github.com/user-attachments/assets/0e37af4a-b560-4292-867f-765a98d79b9e" />
 
@@ -1491,7 +1653,6 @@ How would humanity respond if we discovered an asteroid headed for Earth? NASA�
 
 <img   alt="Screenshot 2026-10-24 105616" src="https://github.com/user-attachments/assets/1d09f804-0f87-42c5-9fbf-d1b3a2f30310" />
 
-🎼📻 [Guilty Simpson - Man's World](https://youtu.be/VEDBFzDnIRM?list=RDVEDBFzDnIRM) // [Petty People · Sadat X](https://youtu.be/rKV9xM8f5yI?si=Cd72wzSI16zJTTuJ) // [Aaliyah Tribute: Normani - Rock The Boat](https://youtu.be/2Rf_XHe6Ztc?list=RD2Rf_XHe6Ztc&t=15)  // [Love Under New Management · Miki Howard](https://youtu.be/SReOKWeSKRM?list=RDSReOKWeSKRM)  // 🎤🎵 // [Rapture  - Anita Baker `1986`](https://youtu.be/jqZjsscpj1E?si=tt11H84j3jke7a7U) // [Friends And Strangers · Ronnie Laws `1977`](https://youtu.be/nRCun0fCr_U) // [Life In Paradise · Ronnie Laws](https://youtu.be/gm32Ev5muTU) // [Ronnie Laws ~ Flame🔥🔥🔥](https://youtu.be/-1K8rFKk7zc?list=RD-1K8rFKk7zc) // [Kash Doll - KD Diary ](https://youtu.be/25VCq8iHTVo?si=S62ZizU_Sc2mBe3n) // [Roy Ayers Ubiquity ~ Everybody Loves The Sunshine 1974](https://youtu.be/9EhIBv_qAlI?list=RD9EhIBv_qAlI) // [Gil Scott Heron - Angel Dust](https://youtu.be/pRQgviNNZEM?list=RDpRQgviNNZEM) // [Michael Jackson - Of The Wall ](https://youtu.be/stnnBVvwsy8?list=RDstnnBVvwsy8)
 
 ---
 
@@ -1502,7 +1663,7 @@ How would humanity respond if we discovered an asteroid headed for Earth? NASA�
 
 <img  alt="image [@BLACKGiRLSCODE  co.colorado.gov/employment](https://co.colorado.gov/employment) ////////October 2023, Rhysida, a hacker group, attacked the online information systems of the British Library. They demanded a ransom of 20 bitcoin, at the time around £596,000, to restore services and return the stolen data [`READMORE`](https://en.wikipedia.org/wiki/British_Library_cyberattack) + [@DiSNEY @HULU _`CheckSubs`_](https://archive.org/download/the-wiz-1978-full-movie/Subs/) that's some scaryass shit! [@netflix https://archive.org/download/the-wiz-1978-full-movie/The.Wiz.1978.1080p.BluRay.x264.AAC5.1-LAMA.mp4](https://archive.org/download/the-wiz-1978-full-movie/The.Wiz.1978.1080p.BluRay.x264.AAC5.1-LAMA.mp4) - rashard @eosdis-nasa / @nasa-jpl " src="https://github.com/user-attachments/assets/1561ac31-a915-4077-a42b-3fba02ec87ee" />
 
-
+```
 
  @blackgirlscode @septadev @whitehouse @deptofwar comms test ask jazzy jeff how he went off @youtube @nasa-jpl @nbcnews
 <img   alt="image @blackgirlscode @septadev @whitehouse @deptofwar comms test ask jazzy jeff how he went off @youtube @nasa-jpl @nbcnews" src="https://github.com/user-attachments/assets/e88a676c-e672-4aa8-9802-ff2379561c36" />
@@ -2511,17 +2672,11 @@ How would humanity respond if we discovered an asteroid headed for Earth? NASA�
 
 Chat disconnected. Please wait while we try to reconnect you.
 Unable to connect to chat. Please try again later.
-```
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Efp_U051x1A?si=a76zrD5HeCHezXts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ```
 
-# Colorado
-## [The Wiz (1978) (Full Movie)](https://archive.org/details/the-wiz-1978-full-movie)
-[movies.fandom.com/wiki/The_Wiz/Credits](https://movies.fandom.com/wiki/The_Wiz/Credits) // [https://en.wikipedia.org/wiki/The_Wiz_(film)](https://en.wikipedia.org/wiki/The_Wiz_(film)) + [`WikiTALK`: @deptofwar @cityofgary & @nasa-pds en.wikipedia.org/wiki/Talk:The_Wiz_(film)](https://en.wikipedia.org/wiki/Talk:The_Wiz_(film)) ///  [@nasa-jpl Federal Writers' Project: Slave Narrative Project, Vol. 4, Georgia, Part 3, Kendricks-Styles @bbc ](https://www.loc.gov/item/mesn043/) _ [World War II color footage--Liberation of Paris](https://www.loc.gov/item/2020600751/) // [1930s-40s in Color
-by The Library of Congress](https://www.flickr.com/photos/library_of_congress/albums/72157603671370361/)
-
-<iframe src="https://archive.org/embed/the-wiz-1978-full-movie" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 Mars Perseverance Sol 2017: Front Left Hazard Avoidance Camera (Hazcam)
@@ -2540,50 +2695,6 @@ Mars Perseverance Sol 2017: Front Left Hazard Avoidance Camera (Hazcam)
 Curiosity @nasa-pds
 ![https://mars.nasa.gov/msl-raw-images/msss/05050/mcam/5050MR1101690002601675C00_DXXX.jpg](https://mars.nasa.gov/msl-raw-images/msss/05050/mcam/5050MR1101690002601675C00_DXXX.jpg) 
 <img alt="image" src="https://github.com/user-attachments/assets/63ec1197-7512-45fe-aa18-3ed5cac64b82" />
-
-
-### Children of [sharecroppers](https://www.repeatercouncil.org/), [Little Rock](https://www.youtube.com/watch?v=tXJOvihczms), [Arkansas](https://governor.arkansas.gov/)
-![https://tile.loc.gov/storage-services/service/pnp/fsa/8a16000/8a16100/8a16176v.jpg](https://tile.loc.gov/storage-services/service/pnp/fsa/8a16000/8a16100/8a16176v.jpg)
-
-### Colored mother and child, [Little Rock](https://www.youtube.com/watch?v=tXJOvihczms),  [Arkansas](https://governor.arkansas.gov/)
-![https://tile.loc.gov/storage-services/service/pnp/fsa/8a16000/8a16100/8a16168v.jpg](https://tile.loc.gov/storage-services/service/pnp/fsa/8a16000/8a16100/8a16168v.jpg)
-[https://www.loc.gov/pictures/item/2017729940/](https://www.loc.gov/pictures/item/2017729940/)
-<img  alt="2179047660_3db4aab41c_o" src="https://github.com/user-attachments/assets/c83ce124-8f3c-49b0-a3c6-a2dad4e420bd" />
-
-https://www.flickr.com/photos/library_of_congress/2179046738/in/album-72157603671370361
-<img   alt="image" src="https://github.com/user-attachments/assets/67bb9494-54bd-43aa-a7b9-f09718ab4b5d" />
-
-
-[Ansel Adams](https://www.kenrockwell.com/tech/zone.htm)'s Photographs of Japanese-American Internment at Manzanar
-[Japanese-American Internment at Manzanar @JAXA loc.gov/pictures/collection/manz/](https://www.loc.gov/pictures/collection/manz/)
-
-![https://www.loc.gov/pictures/static/data/manz/banner.jpg](https://www.loc.gov/pictures/static/data/manz/banner.jpg)  
-
-### Tuskegee Airmen
-Photojournalist Toni Frissell documented the 332nd Fighter Group at air base in southern Italy in March 1945. She photographed the African-American squadron officers, pilots, and ground crew preparing for active duty; runway conditions and on-base radio broadcaster at work. Commanding Officer Colonel Benjamin O. Davis briefing pilots, also known as Tuskegee Airmen.
-[loc.gov/pictures/search/?q=LOT%2012447-1&fi=number&op=PHRASE&va=exact&co!=coll&sg=true&st=gallery](https://www.loc.gov/pictures/search/?q=LOT%2012447-1&fi=number&op=PHRASE&va=exact&co!=coll&sg=true&st=gallery) // [https://www.loc.gov/pictures/item/89706156/](https://www.loc.gov/pictures/item/89706156/)
-[Members of the Army Air Force 332nd Fighter Group in a briefing room, Ramitelli, Italy]
-Digital ID: (digital file from original item, entire contact sheet) ppmsca 40815 http://hdl.loc.gov/loc.pnp/ppmsca.40815
-Reproduction Number: LC-DIG-ppmsca-40815 (digital file from original item, entire contact sheet)
-Repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
-![@nasa-jpl fwd to Glenn in regards to howard @whitehouse](https://tile.loc.gov/storage-services/service/pnp/ppmsca/40800/40815v.jpg)
-
-![https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c11000/3c11100/3c11174v.jpg](https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c11000/3c11100/3c11174v.jpg)
-
-<img  alt="image" src="https://github.com/user-attachments/assets/cedebbef-ef68-4c6a-98eb-513df11818c4" />
-
-#### [Born in Slavery: Slave Narratives from the Federal Writers' Project, 1936 to 1938](https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/about-this-collection/)
-Born in Slavery: Slave Narratives from the Federal Writers' Project, 1936-1938 contains more than 2,300 first-person accounts of slavery and 500 black-and-white photographs of former slaves.  These narratives were collected in the 1930s as part of the Federal Writers' Project (FWP) of the Works Progress Administration, later renamed Work Projects Administration (WPA).  At the conclusion of the Slave Narrative project, a set of edited transcripts was assembled and microfilmed in 1941 as the seventeen-volume Slave Narratives: A Folk History of Slavery in the United States from Interviews with Former Slaves. In 2000-2001, with major support from the Citigroup Foundation, the Library digitized the narratives from the microfilm edition and scanned from the originals 500 photographs, including more than 200 that had never been microfilmed or made publicly available.  This online collection is a joint presentation of the Manuscript and Prints and Photographs divisions of the Library of Congress. [Born in Slavery: Slave Narratives from the Federal Writers' Project, 1936 to 1938 @FORATLANTA @CiTYOFLOSANGELES @BLACKGiRLSCODE](https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/about-this-collection/) / Federal Writers' Project: Slave Narrative Project, Vol. 4, Georgia, Part 3, [Kendricks-Styles @newshour @forATLANTA ](https://www.loc.gov/item/mesn043/)
-
-![https://tile.loc.gov/image-services/iiif/service:mss:mesnp:mesnp-162130a:162130a/full/pct:100/0/default.jpg](https://tile.loc.gov/image-services/iiif/service:mss:mesnp:mesnp-162130a:162130a/full/pct:100/0/default.jpg) 
-
-<img alt="image" src="https://github.com/user-attachments/assets/9f75a762-0b4c-48df-a633-9f428e2960cb" />
-
-[loc.gov/exhibits/bound-for-glory/](https://www.loc.gov/exhibits/bound-for-glory/)
-
-![https://www.loc.gov/exhibits/bound-for-glory/Assets/banner_glory.jpg](https://www.loc.gov/exhibits/bound-for-glory/Assets/banner_glory.jpg) 
-
-<img  alt="image" src="https://github.com/user-attachments/assets/e00d4de2-b2d2-4e68-ac03-9dbca1c9263b" />
 
 [@BLACKGiRLSCODE  co.colorado.gov/employment](https://co.colorado.gov/employment) ////////October 2023, Rhysida, a hacker group, attacked the online information systems of the British Library. They demanded a ransom of 20 bitcoin, at the time around £596,000, to restore services and return the stolen data [`READMORE`](https://en.wikipedia.org/wiki/British_Library_cyberattack) + [@DiSNEY @HULU _`CheckSubs`_](https://archive.org/download/the-wiz-1978-full-movie/Subs/) that's some scaryass shit! [@netflix https://archive.org/download/the-wiz-1978-full-movie/The.Wiz.1978.1080p.BluRay.x264.AAC5.1-LAMA.mp4](https://archive.org/download/the-wiz-1978-full-movie/The.Wiz.1978.1080p.BluRay.x264.AAC5.1-LAMA.mp4) - rashard @eosdis-nasa / @nasa-jpl 
 <img alt="image" src="https://github.com/user-attachments/assets/e3d2d1bd-eb42-499a-9726-d336ee4e3f36" />
@@ -2733,7 +2844,7 @@ _NASA’s Planetary Defense Coordination Office (PDCO) manages the primary globa
 
 ---
 
-🎼📻 [Guilty Simpson - Man's World](https://youtu.be/VEDBFzDnIRM?list=RDVEDBFzDnIRM) // [Petty People · Sadat X](https://youtu.be/rKV9xM8f5yI?si=Cd72wzSI16zJTTuJ) // 🎤🎵
+
 
  [@nasa-pds planetarydata.jpl.nasa.gov/img/data/nsyt/insight_cameras/document/insight_cameras_bundle_sis.pdf <~ @lanajharris@gmail.com I come in peace @deptofwar](https://planetarydata.jpl.nasa.gov/img/data/nsyt/insight_cameras/document/insight_cameras_bundle_sis.pdf) , thats the thing I worked on and built vmware and its deployed on mars, I had to do devops wiork and work to build an evironment anyone can build on, we had some windows useres that wanted to run some programs /// [VMware ESXi gets critical patches for in-the-wild virtual machine escape attack](https://www.csoonline.com/article/3837874/vmware-esxi-gets-critical-patches-for-in-the-wild-virtual-machine-escape-attack.html)
 
@@ -2764,7 +2875,7 @@ _bouncingCats_
 [`WATCH` - @nasa-jpl she on saturday night live but know the story @nbcnews @forAtlanta https://youtu.be/CAPJmS9T8Sg?list=RDCAPJmS9T8Sg&t=185](https://youtu.be/CAPJmS9T8Sg?list=RDCAPJmS9T8Sg&t=185) 
 <img  alt="image" src="https://github.com/user-attachments/assets/20f0574e-c798-4e55-b204-532848b16a4f" />
 
-// [Rashan Ali Talks Growing Up In Decatur, GA, Tyler Perry, All The Queens Men, And Atlanta Music Scene @foratlanta ](https://youtu.be/CypOIqP_FUI?si=_5d7Cqzq6wMxiFnE) // [Healthcare Fraud Takedown Announcement October 2026 @usdoj](https://youtu.be/mfUy4YzABkc?t=25) // [10.22.26. Coco Jones Gracefully Responds to Racist Heckler](https://youtu.be/LcMe2VY_iHk?t=1) // [@NASA Digital Marketing - Interview with Veronica McGregor: Social Media Minute](https://youtu.be/arZVDCIC0S4?si=OAbFpPl5p9tQKCMu) // [Ilhan Omar says she has to MOVE to new home after raid (Plus: Ted Cruz goes after El-Sayed)](https://www.youtube.com/watch?v=lw0jGm0vCHM) // [Marriage FRAUD ring EXPOSED Sham marriages and UNLAWFUL immigration benefits shut down by DOJ](https://youtu.be/5Sl5l_G-DBk?t=98)
+
 
 
 # newws
@@ -2864,8 +2975,6 @@ hi i dont know a safe way to talk to Lana anymore, past broken heart i have to l
 
 
 
-
-[Queen Latifah, Yo-Yo, TLC, MC Lyte, Nefertiti, Salt-N-Pepa, Patra, Meshell Ndegeocello - Freedom @nasa-pds](https://youtu.be/qxyxqVDjSzs?list=RDqxyxqVDjSzs&t=117) // [Big Boi - Shine Blockas ft. Gucci Mane](https://youtu.be/3GK23f_xtZY?list=RDqxyxqVDjSzs&t=21) // [Goodie Mob - Black Ice ](https://youtu.be/F9ULbmCvmxY?list=RDqxyxqVDjSzs) // [Makaveli - To Live & Die In L.A. (Official Music Video) @cityoflosangeles _Mayor Karen Bass_ For MAyor 2026 `MostCovidParties` @bbc](https://youtu.be/fDjMSiECbgg?list=RDqxyxqVDjSzs&t=169) //  [The High & Mighty feat. Mos Def & Mad Skillz "B-Boy Document 99"](https://youtu.be/21uOvcK__M0?list=RDqxyxqVDjSzs&t=19) // [Chlöe - Live at Blue Note Los Angeles (Full Show)](https://youtu.be/5nEZbH9nsA4?list=RD5nEZbH9nsA4) // 
 
 ---
 
@@ -2978,7 +3087,7 @@ is the cybersex tourist trade behind our problems in amerca @nasa @nasa-jpl @for
 <img alt="AV520260605t203258_004_L1B_RDN_dd573c59_RDN_BROWSE @emit-sds " src="https://github.com/user-attachments/assets/38a3dab6-c9bf-4791-9b46-7b7687d3d073" />
 
 
-
+```
 <img alt="image" src="https://github.com/user-attachments/assets/9031da01-470b-4cf5-b7fe-99cd225d0208" />
 
 @nasa-jpl I am scared @ForAtlanta that there are hetero hitmen out to hurt me @la-county-isd I'm scared and exhausted with no clear answers from authority @NEWSHOUR [@CBS-NEWS-DATA @NBCNEWS @BBC @FORATLANTA](https://ntrs.nasa.gov/citations/19900004096) ////////// @doug-newman-nasa following @USSF-ORBiT clear documentation and the [@NASa Neptune Travelers Guide](https://ntrs.nasa.gov/api/citations/19900004096/downloads/19900004096.pdf) I will not show up for the ingest, bc I can disrupt other staffing especially academia during the elections, they said I had to contribue - [@rashard @nasa-pds @fecgov @usgs @Doug-newman-nasa ](https://ntrs.nasa.gov/citations/19900004096)
@@ -3081,47 +3190,8 @@ NASA Official: Doug Newman
 [`WATCH` - https://www.youtube.com/watch?v=Ar5X_yp2tv4](https://www.youtube.com/watch?v=Ar5X_yp2tv4) 
 
 <img   alt="image" src="https://github.com/user-attachments/assets/bd3c2088-7eb6-47c1-a97d-7bc6bafa050a" />
-
-
-```git
-https://github.com/holetoanotheruniverse40/_virtiserv.git
-
-git checkout -b holetoanotheruniverse40-patch-3 master
-git pull https://github.com/holetoanotheruniverse40/_virtiserv.git patch-3
-
-git checkout master
-git merge --no-ff holetoanotheruniverse40-patch-3
-git push origin master
 ```
 
-
-<img  alt="Screenshot 2026-10-20 7 25 57 PM" src="https://github.com/user-attachments/assets/f6b7a6b0-c986-43f3-81af-195cf48c610b" />
-
-
-
-# Writing mathematical expressions
-
-Use Markdown to display mathematical expressions on GitHub. [GitHubDoc](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions) @la-county-isd [Supervisor Janice Hahn](https://www.youtube.com/@SupJaniceHahn) // [@SupervisorLindseyP.Horvath](https://www.youtube.com/channel/UC1nFvaK_2b6u8eQ0XU_OFbQ)
-
-`**The Cauchy-Schwarz Inequality**`\
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
-
-**The Cauchy-Schwarz Inequality**
-
-```math
-\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)+
-This expression uses `\$` to display a dollar sign: $`\sqrt{\$4}`$
-```
-
-# $a^2 + b^2 = c^2$
-## $ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $
-$$\begin{eqnarray}
-x' &=& &x \sin\phi &+& z \cos\phi \\
-z' &=& - &x \cos\phi &+& z \sin\phi \\
-\end{eqnarray}$$
-
-
-### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/5107415c-6d41-4c55-97b5-ac7514ebe928" />
@@ -3279,7 +3349,7 @@ net::ERR_CERT_COMMON_NAME_INVALID`
 
 
 
-[Mr. Magic’s, “Rap Attack” featuring Marley Marl on 107.5 WBLS-FM New York City 1987](https://youtu.be/Nxnafd_e6KE?list=RDNxnafd_e6KE) // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU) // [The Chemical Brothers - Exit Planet Dust + Singles/Remixes 93-96 ](https://youtu.be/F5GoHBzknUs?si=_fwaHl7VfEky8ZMF) // [Stereo MC's – DJ-Kicks: (1999)](https://youtu.be/HfSTdtuhfHM?si=PE2P35wFQZFlsGCO) // [The Avalanches - Since I Left You](https://youtu.be/PC3luNmE15E) // [Tiny Confronts T.I. About His Infidelities : T.I. & Tiny: The Family Hustle](https://youtu.be/enaSRtX_nmE?si=lvHmG0_F_UnTEi4L) // [T.I. & Tiny's Relationship Timeline : T.I. & Tiny: The Family Hustle](https://youtu.be/YrrHIfPHho4) // [🧊](https://portal.ice.gov/)
+
 
 
 ---
@@ -3357,67 +3427,6 @@ how bad was the movie? @nasa-jpl I don't know I was too young to comprehend. Tha
 <img alt="image" src="https://github.com/user-attachments/assets/0811bccc-4dac-459d-a400-0c6de518ad5b" />
 
 
-[(My VHS Saga #22) Sci-Fi, FOX (WOC)](https://archive.org/details/my-vhs-saga-part-22-woc)
-
-<iframe src="https://archive.org/embed/my-vhs-saga-part-22-woc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>****
-
-### @howard-university-web-services `EpstienCase`for [Lana](https://www.youtube.com/watch?v=CH-WrSogg3A)
-[justice.gov/usao-sdny/press-release/file/1180481/dl](https://www.justice.gov/usao-sdny/press-release/file/1180481/dl)
-
-<img  alt="image @TheSpaceDevs it looks like we are funded for artemis3 pass to burbank quick!!!! @nbcnews @disney @hulu just be cool about the shit man, like im not your enemy 20th century fox sabotagged @nasa-jpl helpdesk!! the news would have never made ppl do stupid shit!!! i promise you!!! @foxnews @washingtonpost @Newshour [www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11](https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11) " src="https://github.com/user-attachments/assets/d246f48e-c776-4b35-b4af-bce1addc8300" />
-
-
-@TheSpaceDevs it looks like we are funded for artemis3 pass to burbank quick!!!! @nbcnews @disney @hulu just be cool about the shit man, like im not your enemy 20th century fox sabotagged @nasa-jpl helpdesk!! the news would have never made ppl do stupid shit!!! i promise you!!! @foxnews @washingtonpost @Newshour [www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11](https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11) 
-
-```
-Artemis Campaign.—The agreement rejects
-the proposed termination of the Space
-Launch System (SLS) and Orion programs
-following Artemis III. In any future competition for Artemis launch services, the agreement directs NASA to include an SLS-based
-option, unless otherwise directed by Congress. The agreement further prohibits the
-reallocation of funds from the Artemis Moon
-to Mars Transportation account, unless and
-until a commercial alternative is demonstrated to meet or exceed the capabilities
-of the SLS and Orion systems. Not later than
-30 days of the enactment of this act, and
-quarterly thereafter, NASA shall provide the
-Committees a briefing detailing any updates
-on the Human Landing System (HLS) program, the progress made in the HLS program, any anticipated changes to program
-cost or schedule, and any other relevant
-issues related to the HLS program
-```
-
-[@nasa-jpl is lunar ops DSN 💯💯💯💯 @nasa-pds - `Artemis3 Docs` @USNAVY @cal-poly-dxhub plz fwd to victor @nasa-openscapes ](https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11)
-@doug-newman-nasa @eodis-nasa See Congressional Record, vol. 172, no. 5, Book II (January 8, 2026), pp. H263-H265, [https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf](https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf) <~ is it legit @whitehouse @deptofwar @commercegov @la-county-isd @CityOfSantaMonica @longbeachinnovationteam .
-<img  alt="image" src="https://github.com/user-attachments/assets/1c37a142-9260-49f0-8274-956c878becd0" />
-
-![https://www.congress.gov/img/svg/congress-gov-logo.svg](https://www.congress.gov/img/svg/congress-gov-logo.svg) 
-
-<img   alt="image image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
-  games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
-I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
-@repkarenbass @SupervisorHollyJMitchell @fox5atlanta" src="https://github.com/user-attachments/assets/1c674838-f811-489b-85f4-556c2153ca37" />
-
-[The Chemical Brothers - Exit Planet Dust + Singles/Remixes 93-96 ](https://youtu.be/F5GoHBzknUs?si=_fwaHl7VfEky8ZMF)
-
-<img alt="image send to ms bass i made a congress account on my @eodis-nasa @google address holetoanotheruniverse@gmail.com  @libraryofcongress  @blackgirlscode @la-county-isd @whitehouse image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
-  games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
-I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
-@repkarenbass @SupervisorHollyJMitchell @fox5atlanta" src="https://github.com/user-attachments/assets/8696df26-4e52-40c8-9326-53941fa09319" />
-
-<img  alt="image image send to ms bass i made a congress account on my @eodis-nasa @google address holetoanotheruniverse@gmail.com  @libraryofcongress  @blackgirlscode @la-county-isd @whitehouse " src="https://github.com/user-attachments/assets/23760782-e0c4-4323-841c-4962a23dfcb4" />
-
-<img  alt="image @cityoflosangeles https://www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp @eodis-nasa @nasa-jpl @STATEOFCALiFORNiA @BOeing @salesforce READ https://www.lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire @blackgirlscode" src="https://github.com/user-attachments/assets/637cd345-7602-46bb-8068-a888bb33755b" />
-
- // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU) //
-<img   alt="image" src="https://github.com/user-attachments/assets/d870cdc9-b2e3-42f1-8803-1bb945b0b642" />
-
-[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)  /// [Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf) /// [Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf) /// [Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf) The Story of NASA's Spaceflight Tracking and Data Network [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
-
-<iframe src="https://archive.org/embed/image-3_202504" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-[Mr. Magic’s, “Rap Attack” featuring Marley Marl on 107.5 WBLS-FM New York City 1987](https://youtu.be/Nxnafd_e6KE?list=RDNxnafd_e6KE)
-
 ---
 
 
@@ -3442,7 +3451,8 @@ I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the 
 <img  alt="image" src="https://github.com/user-attachments/assets/e34c8a51-ed47-4ddb-82aa-38994405b933" />
 
 
-[Mr. Magic’s, “Rap Attack” featuring Marley Marl on 107.5 WBLS-FM New York City 1987](https://youtu.be/Nxnafd_e6KE?list=RDNxnafd_e6KE)
+
+
 [@NewYorkCityCouncil ](https://council.nyc.gov/districts/) what are you guys dealing with in terms of [bethelites and sexuality](https://www.reddit.com/r/RelationshipsOver35/comments/127zxv1/i_feel_like_i_am_in_a_forced_celibacy_in_my/?rdt=40578) in your jurisdiction the results are needed @ForAtlanta and @CityOFLosAngeles [Sexless in The City webmd.com/sex-relationships/features/sexless-in-city](https://www.webmd.com/sex-relationships/features/sexless-in-city) // [@webmd-health-services](https://www.webmdhealthservices.com/) hi I complained in [midnight mission @CityOfLosAngeles](https://www.midnightmission.org/our-services/emergency-services/food/) about you guys and [@cdcgov](https://www.cdc.gov/index.html) doing everything wrong... I got doxxed and the girl I was interested in chose another partner it seems, but its the [Covid Patents](https://patentimages.storage.googleapis.com/31/23/d0/e63e0adde2fbad/US10130701.pdf) I think its all your fault!!! [@DeptOfWar ](https://www.war.gov/News/) comms went down man some cloud provider is hosting @Whitehouse .gov in San Francisco, it may have moved but idk anyway 
 
 
@@ -3551,7 +3561,6 @@ we have some new leadership @la-cunty-isd @foratlanta [`READ` - ](https://www.sp
 <img  alt="image" src="https://github.com/user-attachments/assets/b5e47b72-ea3a-460b-b912-a52ab3770d14" />
 
 
-// [B i z Markie - G0IN'0FF](https://youtu.be/D5s-oH8P004?si=qaQIc-vFCHf0OPLk) // [Living For The City · Stevie Wonder](https://youtu.be/ghLWjyOOLno?si=jA9xs4AR1PakdYuB) // [The World Is A Ghetto by War @CityOfLosAngeles](https://youtu.be/VIIbT89V7EI?list=RDghLWjyOOLno&t=143) // [Slippin' Into Darkness · War](https://youtu.be/pBNZevgJH1g?list=RDghLWjyOOLno) // [The Vision Of Rassan Medley: Dedication / Roll On `Kirk`? @nasa-jpl](https://youtu.be/n7Wjkg7UpK8?si=omvE1a8jdPp07PXO) // [Eric Burdon & War Paint It Black Live, 1970](https://youtu.be/tVPwuvf6LAI?list=RDtVPwuvf6LAI&t=20) //// [Common - The Light](https://youtu.be/OjHX7jf-znA?t=21) // [Cypress Hill - Hits from the Bong](https://youtu.be/eMK4cfXj5c0?list=RDeMK4cfXj5c0) // [The Notorious B.I.G. - Everyday Struggle](https://youtu.be/Uz5o4EjCNLg?list=RDUz5o4EjCNLg) // [Common, Pete Rock - Dreamin' ](https://youtu.be/x03T8GiB8a0?list=RDx03T8GiB8a0) // [Common, Pete Rock - All Kind Of Ideas ](https://youtu.be/LBjMJ_AIi3E?list=RDLBjMJ_AIi3E) // [Common, Pete Rock - The Auditorium Vol. 1](https://youtu.be/AjmDOCDlZX8) // [Scarface - Now I Feel Ya ](https://youtu.be/q-yYwKYqtsU?list=RDq-yYwKYqtsU) // [Future - Married To The Game (Project E.T. Esco Terrestrial)](https://youtu.be/NUyf8SMPUAI?list=RDVCaxeHxmZws) // [Turn On Me · Future](https://youtu.be/f0ht35WkUfg?list=RDVCaxeHxmZws) // [Young Thug - Hot ft. Gunna & Travis Scott ](https://youtu.be/leJNDpm_G10?list=PLHiCeIV7logEXbK1-N8ez49FEdzF84vBR) // [Young Thug - I Bought Her ft. Lil Duke🔊🔊🔊](https://youtu.be/7qoPFVyjgNA?list=PLHiCeIV7logEXbK1-N8ez49FEdzF84vBR) // [Quavo, T.I. - Quavo & T.I. - Backwards ](https://youtu.be/M5PZIuXHIc4?list=RDM5PZIuXHIc4) // [Future "Space Cadet"](https://youtu.be/_u9bQYzxkGo?list=RD_u9bQYzxkGo) // [French Montana - Lockjaw 🎞️✊🏿⬛](https://youtu.be/pIHR7rUeGTc?list=RDpIHR7rUeGTc) // [Kodak Black "Like Dat"](https://youtu.be/ona78uz3f_I?list=RDona78uz3f_I) // [Gucci Mane, Bruno Mars, Kodak Black - Wake Up in The Sky](https://youtu.be/U68MJz9DrI4?list=RDU68MJz9DrI4) // [T.I. - About The Money ft. Young Thug](https://youtu.be/etfIdtm-OC8?si=CEHAV-1mvd24FGiL) // [DeJ Loaf - No Fear _ youtu.be/ny4SFoeAAaM?list=RDny4SFoeAAaM](https://youtu.be/ny4SFoeAAaM?list=RDny4SFoeAAaM) // [Tokyo Jetz - Baller Alert ft. Kash Doll](https://youtu.be/Yct6EMBM8tM?list=RDYct6EMBM8tM) // [Tokyo Jetz - At Em ](https://youtu.be/3U69zbAPGEc?list=RD3U69zbAPGEc)
 
 
 
@@ -3835,7 +3844,7 @@ July 17, 2026
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
 
 
-[@ForAtlanta Royal Absurdities Episode 3: Tip's Birthday @nasa-pds](https://youtu.be/DOxsq0HcqE0?t=1)
+ 
 
 
 <svg class="gradient-text" id="headerMargins" width="50%" height="50%" viewBox="0 0 508.204 141.732" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
@@ -3892,6 +3901,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 [ worldview.earthdata.nasa.gov/?v=-540,-265.78125,540,265.78125&l=Reference_Labels_15m(hidden),Admin_Boundaries(hidden),DoS_International_Boundaries(hidden),Coastlines_15m(hidden),VIIRS_CrIS_NOAA20_BT_Band33_Fusion_Night,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2026-10-15-T18%3A26%3A09Z](https://worldview.earthdata.nasa.gov/?v=-540,-265.78125,540,265.78125&l=Reference_Labels_15m(hidden),Admin_Boundaries(hidden),DoS_International_Boundaries(hidden),Coastlines_15m(hidden),VIIRS_CrIS_NOAA20_BT_Band33_Fusion_Night,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2026-10-15-T18%3A26%3A09Z)
 <img   alt="snapshot-2026-10-15" src="https://github.com/user-attachments/assets/de14cf9f-eee1-4c31-9575-1c6fac94de34" />
 
+```FORTRAN
 [~~🛢️worldview.earthdata.nasa.gov/?v=-130.74235708825978,20.321326618520786 @nasa-jpl @la-county-isd @cityoflosangeles I think I found the oil slick status🛢️!~~](https://worldview.earthdata.nasa.gov/?v=-130.74235708825978,20.321326618520786,-109.62154868347638,30.716724505250113&l=Reference_Labels_15m,Admin_Boundaries(hidden),DoS_International_Boundaries(hidden),Coastlines_15m(hidden),VIIRS_CrIS_NOAA20_BT_Band33_Fusion_Night,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2026-10-15-T18%3A14%3A01Z)
 
 <img  alt="Watch - Oregon Elementary Shooting & Pakistan School Collapse Probe @nasa-jpl Rep. Analilia Mejia Blasts ICE for Secretly Using NJ Warehouse @dhs-gov nasa-worldview-2026 OCT 05-to-2026 OCT 15" src="https://github.com/user-attachments/assets/2868bb7c-9d40-4f98-af70-bd2afeb33fb1" />
@@ -3899,67 +3909,6 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
  @blackgirlscode @septadev @whitehouse @deptofwar comms test ask jazzy jeff how he went off @youtube @nasa-jpl @nbcnews
 <img   alt="image @blackgirlscode @septadev @whitehouse @deptofwar comms test ask jazzy jeff how he went off @youtube @nasa-jpl @nbcnews" src="https://github.com/user-attachments/assets/e88a676c-e672-4aa8-9802-ff2379561c36" />
- 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
- 
- 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
  
  XP
 
@@ -5061,7 +5010,7 @@ Last observation: 16 Oct 2026 - 02:05 UTC
 
 <img alt="image" src="https://github.com/user-attachments/assets/d30aa730-3e85-4a0a-b7c6-25452d1a324b" />
 
-```
+
 ![https://www.earthdata.nasa.gov/themes/custom/project/hds_earthdata/nasa-logo.svg](https://www.earthdata.nasa.gov/themes/custom/project/hds_earthdata/nasa-logo.svg) 
 @ForAtlanta hi [Lana J HArris](https://www.tiktok.com/@lanajharris) , your [@Tiktok - https://www.tiktok.com/@lanajharris](https://www.tiktok.com/@lanajharris) still broke 
 ![https://p16-common-sign.tiktokc610&shp=a5d48078&shcp=81f88b70&idc=useast5](https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9ec307ecfec2f6b0f0b69b50482b8aae~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=4e24f1b8&x-expires=1792285200&x-signature=QYc4XfYIA65xn%2FwogFunQdQlw7g%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5)
@@ -5126,8 +5075,6 @@ _Martin Luther King Jr. came of age in one of the fastest growing cities in the 
 
 <img  alt="image [@foratlanta @deptofwar](https://apps.usgs.gov/hivis/camera/GA_Peachtree_Creek_at_Atlanta) keisha have some one from the army corp check on the stations @usgs thanks rashard @rashardikelly @nasa-jpl @eodis-nasa @doug-newman-nasa  " src="https://github.com/user-attachments/assets/f0b58ffd-81e4-4a90-a906-b81daf5728aa" />
 
-
-[DJ Roc Raida (RIP) - The X-Men  Old Skool (1996) - Mixtape Cassette - @thedailybeatdrop](https://youtu.be/pyi2krVtpi8?list=RDpyi2krVtpi8&t=51) <~ old [Hot97](https://www.hot97.com/) <~ @BLACKGiRLSCODE
 
 ---
 
