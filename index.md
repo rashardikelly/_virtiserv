@@ -18,6 +18,22 @@ mathjax: true
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
+// [Latto Is Resilient While Eating Spicy Wings](https://youtu.be/i-DS4hrdmyQ?t=20) // [Inside LeBron and Savannah James's Home, Full of Wonderful Objects ](https://youtu.be/G7QspzZIpCY?t=14) // [Men Don't Do Closure: Move on With Your Life! ](https://youtu.be/1MMFLV9J_Zw?t=17) // [Woman pleads guilty after making false rape claim in Florida @FoxBroadcasting ](https://youtu.be/HpoyuyDwKYY?t=22) // ["A CITY AND ITS PEOPLE " A DAY IN 1960s LOS ANGELES CALIFORNIA EDUCATIONAL FILM XD72474](https://youtu.be/NHD5W-nj0Zo?t=13) // [“ LANDSCAPES WITH ANGELS / A HISTORY OF LOS ANGELES ” 1974 L.A. CALIFORNIA DOCUMENTARY SM10235](https://youtu.be/eIZYoraQIW8?si=EiP9u8tQhdPoNmTD) // [1970s BLACK FAMILY'S HOME MOVIE EXPOSITION PARK, LOS ANGELES & TRIP TO SAN FRANCISCO](https://youtu.be/FyAZMNXKmoI?t=15) // [“ WARD CARE OF PSYCHOTIC PATIENTS ” WWII U.S. ARMY TRAINING FILM SHELL SHOCKED SOLDIERS XD95765](https://youtu.be/puZ6SCkFQSw?t=12) // [1960s CALIFORNIA "WORLD IN A WEEK" UNITED AIRLINES TRAVELOGUE SAN FRANCISCO LOS ANGELES 72822](https://youtu.be/KXEpkOK2T0Y?t=11)
+
+
+
+## coastline 
+[https://storms.ngs.noaa.gov/storms/isaias_2026/index.html#6.98/30.262/-86.415](https://storms.ngs.noaa.gov/storms/isaias_2026/index.html#6.98/30.262/-86.415) 
+
+![https://lilbaby.store/cdn/shop/files/FRESH_PHOTO_LOGO_360x.png @blackgirlscode @foratlanta @ajcnews @latimes @CityOfLosAnmgeles](https://lilbaby.store/cdn/shop/files/FRESH_PHOTO_LOGO_360x.png) 
+
+## [Lil Baby](https://lilbaby.store/) on [Mental](https://www.youtube.com/watch?v=BANemtjT830) [Health](https://www.youtube.com/watch?v=t95sFoVBlq0) Struggles, [Young Thug](https://www.youtube.com/watch?v=3IW4ZIJpXOU), [Lil Durk](https://youtu.be/NijnAwhFUtA?t=5) & ‘[Dead Fresh](https://www.youtube.com/watch?v=PXxbEfhtDiM)’
+[`WATCH` -  youtu.be/Nyn0KbQdFP8?si=ILdkv_GWf8iolxqQ @datadesk @latimes @nasa-jpl](https://youtu.be/Nyn0KbQdFP8?si=ILdkv_GWf8iolxqQ)
+
+
+lil baby she came forward [Woman pleads guilty after making false rape claim in Florida @FoxBroadcasting ](https://youtu.be/HpoyuyDwKYY?t=22) // ["A CITY AND ITS PEOPLE " A DAY IN 1960s LOS ANGELES CALIFORNIA EDUCATIONAL FILM XD72474](https://youtu.be/NHD5W-nj0Zo?t=13) // [“ LANDSCAPES WITH ANGELS / A HISTORY OF LOS ANGELES ” 1974 L.A. CALIFORNIA DOCUMENTARY SM10235](https://youtu.be/eIZYoraQIW8?si=EiP9u8tQhdPoNmTD) // [1970s BLACK FAMILY'S HOME MOVIE EXPOSITION PARK, LOS ANGELES & TRIP TO SAN FRANCISCO](https://youtu.be/FyAZMNXKmoI?t=15) // [“ WARD CARE OF PSYCHOTIC PATIENTS ” WWII U.S. ARMY TRAINING FILM SHELL SHOCKED SOLDIERS XD95765](https://youtu.be/puZ6SCkFQSw?t=12) // [1960s CALIFORNIA "WORLD IN A WEEK" UNITED AIRLINES TRAVELOGUE SAN FRANCISCO LOS ANGELES 72822](https://youtu.be/KXEpkOK2T0Y?t=11)
+![https://lilbaby.store/cdn/shop/files/FRESH_VINYL_01-72aa8eaa15894144abb6ae589ef5afbc_360x.png](https://lilbaby.store/cdn/shop/files/FRESH_VINYL_01-72aa8eaa15894144abb6ae589ef5afbc_360x.png)
+<img alt="image" src="https://github.com/user-attachments/assets/f8df2560-9076-4885-92ca-bf9563218f3a" />
 
 # US Midterm Elections 2026
 
