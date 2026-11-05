@@ -18,6 +18,13 @@ mathjax: true
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
+
+# Artemis 2
+[@foratlanta @ajcnews @newshour rashardmro.tumblr.com/post/810854907513012224/why-go-to-the-moon-john-f-kennedy-at-rice](https://rashardmro.tumblr.com/post/810854907513012224/why-go-to-the-moon-john-f-kennedy-at-rice)
+
+
+--- 
+
 // [Latto Is Resilient While Eating Spicy Wings](https://youtu.be/i-DS4hrdmyQ?t=20) // [Inside LeBron and Savannah James's Home, Full of Wonderful Objects ](https://youtu.be/G7QspzZIpCY?t=14) // [Men Don't Do Closure: Move on With Your Life! ](https://youtu.be/1MMFLV9J_Zw?t=17) // [Woman pleads guilty after making false rape claim in Florida @FoxBroadcasting ](https://youtu.be/HpoyuyDwKYY?t=22) // ["A CITY AND ITS PEOPLE " A DAY IN 1960s LOS ANGELES CALIFORNIA EDUCATIONAL FILM XD72474](https://youtu.be/NHD5W-nj0Zo?t=13) // [“ LANDSCAPES WITH ANGELS / A HISTORY OF LOS ANGELES ” 1974 L.A. CALIFORNIA DOCUMENTARY SM10235](https://youtu.be/eIZYoraQIW8?si=EiP9u8tQhdPoNmTD) // [1970s BLACK FAMILY'S HOME MOVIE EXPOSITION PARK, LOS ANGELES & TRIP TO SAN FRANCISCO](https://youtu.be/FyAZMNXKmoI?t=15) // [“ WARD CARE OF PSYCHOTIC PATIENTS ” WWII U.S. ARMY TRAINING FILM SHELL SHOCKED SOLDIERS XD95765](https://youtu.be/puZ6SCkFQSw?t=12) // [1960s CALIFORNIA "WORLD IN A WEEK" UNITED AIRLINES TRAVELOGUE SAN FRANCISCO LOS ANGELES 72822](https://youtu.be/KXEpkOK2T0Y?t=11) // [“Georgia overcame every doubt and dirty trick.”  Election Night with Jon Ossoff  11.03.2026](https://youtu.be/fsoikoGhJW0?t=46) // [@ForATlanta Keisha Lance Bottoms reveals transition call with Kemp](https://youtu.be/v-Vo5dm0Cx8?si=iWxtDMAzcMZlnBXC)
 
 ---
