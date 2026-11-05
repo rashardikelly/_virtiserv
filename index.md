@@ -42,6 +42,7 @@ Aug. 6, 2026
 
 
 <img  alt="EMIT_L2A_RFL_001_20260609T203912_2616013_043" src="https://github.com/user-attachments/assets/6964bc23-3dd8-4cf3-9cfd-62f7b7a390b1" />
+
 ![https://earthdata.nasa.gov/s3fs-public/styles/hds_large/public/2023-06/EMIT%20webinar.jpg](https://earthdata.nasa.gov/s3fs-public/styles/hds_large/public/2023-06/EMIT%20webinar.jpg) 
 \\ [Meet EMIT, the Newest Imaging Spectrometer on the International Space Station](https://www.earthdata.nasa.gov/learn/webinars/meet-emit-newest-imaging-spectrometer-international-space-station) \\ 
 [search.earthdata.nasa.gov/search/granules/granule-details?p=C2076090826-LPCLOUD2-LPCLOUD&q=`ecostress`&s81.12493%2C32.03895%2C-80.98369%2C32.15895&lat=32.04004865&long=-81.46041545667215&zoom=9.745322053183893](https://search.earthdata.nasa.gov/search/granules/granule-details?p=C2076090826-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4392993772-LPCLOUD&q=ecostress&sb[0]=-81.12493%2C32.03895%2C-80.98369%2C32.15895&lat=32.04004865&long=-81.46041545667215&zoom=9.745322053183893)
