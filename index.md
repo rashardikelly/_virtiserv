@@ -23,8 +23,11 @@ mathjax: true
 ---
 
 
+[@foratlanta share.google/eTZwbgTztCoRRvsD3](share.google/eTZwbgTztCoRRvsD3)
+[@fecgov google.com/search?q=`keisha+lance+bottoms`&rlz=1C1GCEJ_enUS1239US1239&oq=keisha+lance+bottoms&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMg0IAhAAGIMBGLEDGIAEMhAIAxAAGIMBGLEDGIAEGLQHMg0IBBAAGIMBGLEDGIAEMgYIBRAAGAMyBggGEEUYPTIGCAcQRRg90gEIMzMxMGowajSoAgCwAgA&sourceid=chrome&source=chrome.ob&ie=UTF-8](https://www.google.com/search?q=keisha+lance+bottoms&rlz=1C1GCEJ_enUS1239US1239&oq=keisha+lance+bottoms&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMg0IAhAAGIMBGLEDGIAEMhAIAxAAGIMBGLEDGIAEGLQHMg0IBBAAGIMBGLEDGIAEMgYIBRAAGAMyBggGEEUYPTIGCAcQRRg90gEIMzMxMGowajSoAgCwAgA&sourceid=chrome&source=chrome.ob&ie=UTF-8)
+<img   alt="image" src="https://github.com/user-attachments/assets/3a1a1087-e797-4bf2-851a-b59c19b9f420" />
 
-[`WATCH` @CBS-NEWS-DATA @Datadesk @nsaa-jpl How Keisha Lance Bottoms found out she was elected governor of Georgia @ajcnews](https://youtu.be/OVfvuxpHZGc?t=29)
+[`WATCH` @CBS-NEWS-DATA @Datadesk @nsaa-jpl How Keisha Lance Bottoms found out she was elected governor of Georgia @ajcnews](https://youtu.be/OVfvuxpHZGc?t=29) /// [17 states elect female governors](https://youtu.be/TFpfz_P9Piw) // [Georgia Election 2026: Black women now hold nearly all state executive offices](https://youtu.be/PlpUC1kjRcw?si=FMFBbLkExQZAst2y)
 <img  alt="image" src="https://github.com/user-attachments/assets/af33b7aa-de3f-4132-80ff-62db3297e79a" />
 
 <img  alt="Screenshot 2026-11-04 161151" src="https://github.com/user-attachments/assets/66913125-e618-4df8-aee1-bb3206483871" />
