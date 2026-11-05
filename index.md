@@ -19,6 +19,7 @@ mathjax: true
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
 ### LIVE AT 5: [Rubio](https://www.newsweek.com/marco-rubio-jd-vance-midterm-elections-2026-12667056) on Resignation Watch After Trump’s Midterm Disaster | [Keisha Bottoms](https://awpc.cattcenter.iastate.edu/directory/keisha-lance-bottoms) & [Wes Moore](https://governor.maryland.gov/leadership/governor-wes-moore)
+[`WATCH` - _Keisha Bottoms_@foratlanta youtube.com/watch?v=-sCj5lRriSs @ajcnews](https://www.youtube.com/watch?v=-sCj5lRriSs)
 <img   alt="image" src="https://github.com/user-attachments/assets/8de6e251-24ad-439f-8202-f0d86dcb6787" />
 
 [@latimes @datadesk  nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html](https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html)
