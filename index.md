@@ -23,6 +23,9 @@ mathjax: true
 ---
 
 
+[@blackgirlscode @nasa-jpl Georgia Governor Results 2026](https://www.nbcnews.com/politics/2026-elections/georgia-governor-results)
+<img   alt="image" src="https://github.com/user-attachments/assets/2c0cb109-d025-485b-acaa-3c8898f42aca" />
+
 [@foratlanta share.google/eTZwbgTztCoRRvsD3](share.google/eTZwbgTztCoRRvsD3)
 [@fecgov google.com/search?q=`keisha+lance+bottoms`&rlz=1C1GCEJ_enUS1239US1239&oq=keisha+lance+bottoms&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMg0IAhAAGIMBGLEDGIAEMhAIAxAAGIMBGLEDGIAEGLQHMg0IBBAAGIMBGLEDGIAEMgYIBRAAGAMyBggGEEUYPTIGCAcQRRg90gEIMzMxMGowajSoAgCwAgA&sourceid=chrome&source=chrome.ob&ie=UTF-8](https://www.google.com/search?q=keisha+lance+bottoms&rlz=1C1GCEJ_enUS1239US1239&oq=keisha+lance+bottoms&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMg0IAhAAGIMBGLEDGIAEMhAIAxAAGIMBGLEDGIAEGLQHMg0IBBAAGIMBGLEDGIAEMgYIBRAAGAMyBggGEEUYPTIGCAcQRRg90gEIMzMxMGowajSoAgCwAgA&sourceid=chrome&source=chrome.ob&ie=UTF-8)
 <img   alt="image" src="https://github.com/user-attachments/assets/3a1a1087-e797-4bf2-851a-b59c19b9f420" />
