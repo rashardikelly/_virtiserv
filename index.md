@@ -22,6 +22,9 @@ mathjax: true
 </picture>
 
 [search.earthdata.nasa.gov/search/granules/granule-details?p=C2076090826-LPCLOUD2-LPCLOUD&q=`ecostress`&s81.12493%2C32.03895%2C-80.98369%2C32.15895&lat=32.04004865&long=-81.46041545667215&zoom=9.745322053183893](https://search.earthdata.nasa.gov/search/granules/granule-details?p=C2076090826-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4392993772-LPCLOUD&q=ecostress&sb[0]=-81.12493%2C32.03895%2C-80.98369%2C32.15895&lat=32.04004865&long=-81.46041545667215&zoom=9.745322053183893)
+
+<img   alt="ECOv002_L2T_LSTE_47094_009_17SMR_20261025T140649_0713_02_height" src="https://github.com/user-attachments/assets/0c2268d1-d0cb-494e-9e90-55e07a9ded61" />
+
 <img  alt="ECOv002_L2T_LSTE_savannah" src="https://github.com/user-attachments/assets/d7f2b58b-ac83-4c5b-85ee-b5f16ebf5f01" />
 
 ## Artemis 2
