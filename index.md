@@ -19,14 +19,15 @@ mathjax: true
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
 ### LIVE AT 5: [Rubio](https://www.newsweek.com/marco-rubio-jd-vance-midterm-elections-2026-12667056) on Resignation Watch After Trump’s Midterm Disaster | [Keisha Bottoms](https://awpc.cattcenter.iastate.edu/directory/keisha-lance-bottoms) & [Wes Moore](https://governor.maryland.gov/leadership/governor-wes-moore)
-[`WATCH` - _Keisha Bottoms_@foratlanta youtube.com/watch?v=-sCj5lRriSs @ajcnews](https://www.youtube.com/watch?v=-sCj5lRriSs)
+[`WATCH` - _Keisha Bottoms_@foratlanta youtube.com/watch?v=-sCj5lRriSs @ajcnews](https://www.youtube.com/watch?v=-sCj5lRriSs) // [@nasa-jpl @la-county-isd @CityOFLosAngeles files-do-not-link.udc.edu/docs/ga/federal_agency_contacts.pdf](http://files-do-not-link.udc.edu/docs/ga/federal_agency_contacts.pdf)
+
 <img   alt="image" src="https://github.com/user-attachments/assets/8de6e251-24ad-439f-8202-f0d86dcb6787" />
 
 [@latimes @datadesk  nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html](https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html)
 <img   alt="image" src="https://github.com/user-attachments/assets/06f4bd51-f9e4-4ab3-9666-57875e3a1013" />
 
 ### Aerial View of Port Arthur and Beaumont Texas after Hurricane Harvey
-[`WATCH` - Satellite Animation Shows Harvey Moving into Ohio Valley @NASA-GiSS]()
+[`WATCH` - Satellite Animation Shows Harvey Moving into Ohio Valley @NASA-GiSS](https://www.youtube.com/watch?v=abaZj_m77yQ) /// [GPM Video of Harvey's Rainfall](https://www.youtube.com/watch?v=JT8x0Dmn7O8)
 [dvidshub.net/image/3750186/aerial-view-port-arthur-and-beaumont-texas-after-hurricane-harvey](https://www.dvidshub.net/image/3750186/aerial-view-port-arthur-and-beaumont-texas-after-hurricane-harvey)
 ![https://d2cto119c3bgok.cloudfront.net/thumbs/photos/1709/3750186/1000w_q95.jpg](https://d2cto119c3bgok.cloudfront.net/thumbs/photos/1709/3750186/1000w_q95.jpg)
 [nasa.gov/centers-and-facilities/goddard/harvey-was-td-09-atlantic-ocean/](https://www.nasa.gov/centers-and-facilities/goddard/harvey-was-td-09-atlantic-ocean/)
