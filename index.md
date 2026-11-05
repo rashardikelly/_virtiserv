@@ -46,6 +46,12 @@ Data from NASA’s Soil Moisture Active Passive (SMAP) satellite have been used 
 
 <img   alt="image" src="https://github.com/user-attachments/assets/3a8d36fd-1ec1-4c91-90b7-fa361299ae23" />
 
+![https://www.nasa.gov/wp-content/uploads/2017/08/pia21951_0.jpg](https://www.nasa.gov/wp-content/uploads/2017/08/pia21951_0.jpg)
+![https://www.nasa.gov/wp-content/uploads/2017/08/harvey-goes-friday.jpg](https://www.nasa.gov/wp-content/uploads/2017/08/harvey-goes-friday.jpg)
+
+
+
+
 ## CentCOM [wiki](https://en.wikipedia.org/wiki/United_States_Central_Command)
 [centcom.mil/MEDIA/IMAGERY/igphoto/2003973286/](https://www.centcom.mil/MEDIA/IMAGERY/igphoto/2003973286/) // [war.gov/News/News-Stories/Article/Article/4641652/centcom-benefits-from-project-agincourt-drone-dominance-efforts/](http://war.gov/News/News-Stories/Article/Article/4641652/centcom-benefits-from-project-agincourt-drone-dominance-efforts/)
 @nasa-jpl hi, im struggling with people who were once jehovahs witnesses. People that are still in understand [Roman13](https://www.biblegateway.com/passage/?search=Romans%2013&version=NIV) .... `Let everyone be subject to the governing authorities, for there is no authority except that which God has established. The authorities that exist have been established by God`
