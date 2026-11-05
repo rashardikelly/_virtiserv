@@ -18,10 +18,24 @@ mathjax: true
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
+### LIVE AT 5: [Rubio](https://www.newsweek.com/marco-rubio-jd-vance-midterm-elections-2026-12667056) on Resignation Watch After Trump’s Midterm Disaster | [Keisha Bottoms](https://awpc.cattcenter.iastate.edu/directory/keisha-lance-bottoms) & [Wes Moore](https://governor.maryland.gov/leadership/governor-wes-moore)
+<img   alt="image" src="https://github.com/user-attachments/assets/8de6e251-24ad-439f-8202-f0d86dcb6787" />
 
+[@latimes @datadesk  nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html](https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html)
+<img   alt="image" src="https://github.com/user-attachments/assets/06f4bd51-f9e4-4ab3-9666-57875e3a1013" />
+
+### Aerial View of Port Arthur and Beaumont Texas after Hurricane Harvey
+[`WATCH` - Satellite Animation Shows Harvey Moving into Ohio Valley @NASA-GiSS]()
+[dvidshub.net/image/3750186/aerial-view-port-arthur-and-beaumont-texas-after-hurricane-harvey](https://www.dvidshub.net/image/3750186/aerial-view-port-arthur-and-beaumont-texas-after-hurricane-harvey)
+![https://d2cto119c3bgok.cloudfront.net/thumbs/photos/1709/3750186/1000w_q95.jpg](https://d2cto119c3bgok.cloudfront.net/thumbs/photos/1709/3750186/1000w_q95.jpg)
+[nasa.gov/centers-and-facilities/goddard/harvey-was-td-09-atlantic-ocean/](https://www.nasa.gov/centers-and-facilities/goddard/harvey-was-td-09-atlantic-ocean/)
+Data from NASA’s Soil Moisture Active Passive (SMAP) satellite have been used to create new surface flooding maps of Southeast Texas and the Tennessee Valley following Hurricane Harvey. 
+![https://www.nasa.gov/wp-content/uploads/2017/08/pia21951_0.jpg](https://www.nasa.gov/wp-content/uploads/2017/08/pia21951_0.jpg)
+[@doug-newman-nasa @eosdis-nasa @nasa-jpl @podaac intel.gov/mission/intel-stories/the-water-kept-rising#top](https://www.intel.gov/mission/intel-stories/the-water-kept-rising#top) // [@BLACKGiRLSCODE](https://www.spacecom.mil/Partnerships-and-Outreach/Careers/HQ-USSPACECOM-Civilian-Vacancies/)
+<img  alt="image" src="https://github.com/user-attachments/assets/80a5dfc7-7fdf-4a04-af6e-e952fa118dec" />
 
 ## CentCOM [wiki](https://en.wikipedia.org/wiki/United_States_Central_Command)
-[centcom.mil/MEDIA/IMAGERY/igphoto/2003973286/](https://www.centcom.mil/MEDIA/IMAGERY/igphoto/2003973286/) // [http://war.gov/News/News-Stories/Article/Article/4641652/centcom-benefits-from-project-agincourt-drone-dominance-efforts/](http://war.gov/News/News-Stories/Article/Article/4641652/centcom-benefits-from-project-agincourt-drone-dominance-efforts/)
+[centcom.mil/MEDIA/IMAGERY/igphoto/2003973286/](https://www.centcom.mil/MEDIA/IMAGERY/igphoto/2003973286/) // [war.gov/News/News-Stories/Article/Article/4641652/centcom-benefits-from-project-agincourt-drone-dominance-efforts/](http://war.gov/News/News-Stories/Article/Article/4641652/centcom-benefits-from-project-agincourt-drone-dominance-efforts/)
 @nasa-jpl hi, im struggling with people who were once jehovahs witnesses. People that are still in understand [Roman13](https://www.biblegateway.com/passage/?search=Romans%2013&version=NIV) .... `Let everyone be subject to the governing authorities, for there is no authority except that which God has established. The authorities that exist have been established by God`
 The issue is people who are disfellowshipped or disassociated or had double lives and the not learning war teaching helps secure friends in circles that are in appearance non violent. They learn non leathal weapons and menace a lot of people from the access they got when active with the watchtower. The need guidance @nasa @nasa-jpl @deptofwar because this photo is a problem for them [https://media.defense.gov/2026/Jul/31/2003973286/1088/820/0/260729-N-QP244-1122.JPG](https://media.defense.gov/2026/Jul/31/2003973286/1088/820/0/260729-N-QP244-1122.JPG) 
 
