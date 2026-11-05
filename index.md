@@ -19,6 +19,14 @@ mathjax: true
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
 
+## Artemis 2
+_orion_ @nasa-pds
+[_art002e031191_saw3_src_v01_ https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_orion_camera/data_raw_image/fd05/art002e031191_saw3_raw_v01.tif](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_orion_camera/data_raw_image/fd05/art002e031191_saw3_raw_v01.tif)
+Artemis 2 Mission SAW Observational Product - art002e031191_saw3_raw_v01.tif
+Raw product from the saw camera on Artemis II. It was taken on flight day 6 at 2026-04-06  and observes the following targets: Moon.
+<img  alt="art002e031191_saw3_src_v01" src="https://github.com/user-attachments/assets/d73cad5b-c479-4ca9-9860-07248d517e11" />
+
+
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 ### [Mars Reconnaissance Orbiter - hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) :
  [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)  
