@@ -24,10 +24,28 @@ _orion_ @nasa-pds Artemis 2 Mission SAW Observational Product - art002e009571_sa
 Raw product from the saw camera on Artemis II. It was taken on flight day 6 at 2026-04-07 01:10:44Z and observes the following targets: Moon.
 [art002e009571_saw3_raw_v01.tif  -  pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_orion_camera/data_raw_image/fd06/art002e009571_saw3_raw_v01.tif](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_orion_camera/data_raw_image/fd06/art002e009571_saw3_raw_v01.tif)
 <img   alt="art002e009571_saw3_src_v01" src="https://github.com/user-attachments/assets/e496fdc4-fda4-4e9d-b86d-9340cd9803a6" />
+
 Artemis 2 Mission SAW Observational Product - art002e009574_saw3_raw_v01.tif
 Raw product from the saw camera on Artemis II. It was taken on flight day 6 at 2026-04-07 01:28:09Z and observes the following targets: Moon, Sunrise.
 [pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_orion_camera/data_raw_image/fd06/art002e009574_saw3_raw_v01.tif](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_orion_camera/data_raw_image/fd06/art002e009574_saw3_raw_v01.tif)
+
 <img  alt="art002e009574_saw3_src_v01" src="https://github.com/user-attachments/assets/89256673-3a86-4dbc-8fd2-219e4e342669" />
+
+
+<img   alt="@nasa tumblr_025ea8d3e17d306f6fb8263b1f2fe1d1_2fbccf34_1280" src="https://github.com/user-attachments/assets/7631fd23-d19e-42cf-88ef-c68a3bf0162a" />
+<img   alt="@nasa-jpltumblr_03b15f6569b3addb837ea1acbb67422a_1b409e48_1280" src="https://github.com/user-attachments/assets/acab4264-d68b-4f39-a0b5-8e04abfea22a" />
+<img   alt="@AJCNEWS tumblr_03b15f6569b3addb837ea1acbb67422a_1b409e48_1280" src="https://github.com/user-attachments/assets/a3aa9cb3-3394-451d-a493-a43301d49c50" />
+
+<img   alt="tumblr_150e8de436ced2f7aa10a871d4e3e3ec_f51fd643_1280" src="https://github.com/user-attachments/assets/8448b7bf-2bc4-409a-ad7a-1c030400b39b" />
+
+[NASA’s Artemis III Announcement (Official NASA Trailer)](https://youtu.be/3Yqi3D4b2RQ)
+[https://rashardmro.tumblr.com/post/818969982521262080/hot-97-atlanta-news-live-6826?is_related_post=1](https://rashardmro.tumblr.com/post/818969982521262080/hot-97-atlanta-news-live-6826?is_related_post=1)
+[@foratlanta @ajcnews @newshour rashardmro.tumblr.com/post/810854907513012224/why-go-to-the-moon-john-f-kennedy-at-rice](https://rashardmro.tumblr.com/post/810854907513012224/why-go-to-the-moon-john-f-kennedy-at-rice) // [Mars Reconnaissance Orbiter - hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
+<img  alt="tumblr_9f13eb307d15bcc4cd92854c0bbbaf8d_0f97a05b_1280" src="https://github.com/user-attachments/assets/ad8a5355-08c6-4e1a-bdd2-21ce94879654" />
+[@nasa-jpl https://rashardmro.tumblr.com/post/813366066535366656/nasas-artemis-ii-daily-news-conference-april-8](https://rashardmro.tumblr.com/post/813366066535366656/nasas-artemis-ii-daily-news-conference-april-8)
+<img   alt="tumblr_fd41879206f1437e83ebd6e2114cd28b_86222b2e_1280" src="https://github.com/user-attachments/assets/5fbeb366-03a6-4216-835d-dc50276665ea" />
+<img  alt="tumblr_d74dbf8ecb05e26e023801de7f9c7bc4_7db278b7_1280" src="https://github.com/user-attachments/assets/fd1cc152-acd9-4b10-b610-015c14cbef1d" />
+
 
 [_art002e031191_saw3_src_v01_ https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_orion_camera/data_raw_image/fd05/art002e031191_saw3_raw_v01.tif](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_orion_camera/data_raw_image/fd05/art002e031191_saw3_raw_v01.tif)
 Artemis 2 Mission SAW Observational Product - art002e031191_saw3_raw_v01.tif
@@ -35,9 +53,11 @@ Raw product from the saw camera on Artemis II. It was taken on flight day 6 at 2
 <img  alt="art002e031191_saw3_src_v01" src="https://github.com/user-attachments/assets/d73cad5b-c479-4ca9-9860-07248d517e11" />
 
 
+
+
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 ### [Mars Reconnaissance Orbiter - hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) :
- [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)  
+ [Mission Objectives](https://mars.nasa.gov/internal_resources/819/) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)  
  ![@nasa-pds https://web.archive.org/web/20051110230730im_/http://mars.jpl.nasa.gov/mro/images/head_jpl.gif](https://web.archive.org/web/20051110230730im_/http://mars.jpl.nasa.gov/mro/images/head_jpl.gif) 
 
 [@asulibraries its blocked from my embed here @cityoflosangeles themis.asu.edu/livefrommars](https://themis.asu.edu/livefrommars) 
@@ -58,23 +78,6 @@ I like this live viewer, i tried to pull it out, but its more compluicated than 
   height="400px" />
   
 @Blackgirlscode at one point Tinashe was talking to me and i made her a pages blog, if thats glorilla / Latrice Fiz Patrick here is a link [https://thakarashard.github.io/BUBBLEGUMPOP_TiNASHE/](https://thakarashard.github.io/BUBBLEGUMPOP_TiNASHE/)
-
-# Artemis 2
-
-<img   alt="@nasa tumblr_025ea8d3e17d306f6fb8263b1f2fe1d1_2fbccf34_1280" src="https://github.com/user-attachments/assets/7631fd23-d19e-42cf-88ef-c68a3bf0162a" />
-<img   alt="@nasa-jpltumblr_03b15f6569b3addb837ea1acbb67422a_1b409e48_1280" src="https://github.com/user-attachments/assets/acab4264-d68b-4f39-a0b5-8e04abfea22a" />
-<img   alt="@AJCNEWS tumblr_03b15f6569b3addb837ea1acbb67422a_1b409e48_1280" src="https://github.com/user-attachments/assets/a3aa9cb3-3394-451d-a493-a43301d49c50" />
-
-<img   alt="tumblr_150e8de436ced2f7aa10a871d4e3e3ec_f51fd643_1280" src="https://github.com/user-attachments/assets/8448b7bf-2bc4-409a-ad7a-1c030400b39b" />
-
-[NASA’s Artemis III Announcement (Official NASA Trailer)](https://youtu.be/3Yqi3D4b2RQ)
-[https://rashardmro.tumblr.com/post/818969982521262080/hot-97-atlanta-news-live-6826?is_related_post=1](https://rashardmro.tumblr.com/post/818969982521262080/hot-97-atlanta-news-live-6826?is_related_post=1)
-[@foratlanta @ajcnews @newshour rashardmro.tumblr.com/post/810854907513012224/why-go-to-the-moon-john-f-kennedy-at-rice](https://rashardmro.tumblr.com/post/810854907513012224/why-go-to-the-moon-john-f-kennedy-at-rice) // [Mars Reconnaissance Orbiter - hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
-<img  alt="tumblr_9f13eb307d15bcc4cd92854c0bbbaf8d_0f97a05b_1280" src="https://github.com/user-attachments/assets/ad8a5355-08c6-4e1a-bdd2-21ce94879654" />
-[@nasa-jpl https://rashardmro.tumblr.com/post/813366066535366656/nasas-artemis-ii-daily-news-conference-april-8](https://rashardmro.tumblr.com/post/813366066535366656/nasas-artemis-ii-daily-news-conference-april-8)
-<img   alt="tumblr_fd41879206f1437e83ebd6e2114cd28b_86222b2e_1280" src="https://github.com/user-attachments/assets/5fbeb366-03a6-4216-835d-dc50276665ea" />
-<img  alt="tumblr_d74dbf8ecb05e26e023801de7f9c7bc4_7db278b7_1280" src="https://github.com/user-attachments/assets/fd1cc152-acd9-4b10-b610-015c14cbef1d" />
-
 
 --- 
 
