@@ -3,14 +3,6 @@ layout: default
 mathjax: true
 ---
 
-
-
-
-
-### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
-
-# Savannah @NAsa-jpl @foratlanta
-
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   
   <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
@@ -21,9 +13,16 @@ mathjax: true
   
 </picture>
 
+
+
+
+### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
+
+
+
 ### President Trump Participates in Signing Time, 
 Aug. 6, 2026
-@Whitehouse the Live signing feed in the /video dir is truncated and not live @nas-jpl it could be misleading @usgs [@CityOfLosAngeles _Karen Bass_](https://www.congress.gov/member/karen-bass/B001270) [@whitehouse .gov](https://www.whitehouse.gov/videos/president-trump-participates-in-signing-time-aug-6-2026/)
+@Whitehouse the Live signing feed in the /video dir is truncated and not live @nasa-jpl it could be misleading @usgs [@CityOfLosAngeles _Karen Bass_](https://www.congress.gov/member/karen-bass/B001270) [@whitehouse .gov](https://www.whitehouse.gov/videos/president-trump-participates-in-signing-time-aug-6-2026/)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/b8023f22-8575-496f-96a5-d2fb5976ced9" />
 
@@ -33,6 +32,7 @@ Aug. 6, 2026
 
 <img  alt="Screenshot 2026-11-05 133030" src="https://github.com/user-attachments/assets/d5e7f73b-4931-42fd-9bef-013ef8a12e41" />
 
+# Savannah @NAsa-jpl @foratlanta
 
 [@ajcnews @newshour @foratlanta  youtube.com/@HOT97ontv/videos](https://www.youtube.com/@HOT97ontv/videos)
 
