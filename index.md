@@ -1,4 +1,4 @@
-<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/c40e8e25-32fe-4d54-8a42-63b4810fbbeb" />---
+---
 layout: default
 mathjax: true
 ---
@@ -36,6 +36,8 @@ mathjax: true
 <img  alt="ECOv002_L2T_LSTE_savannah" src="https://github.com/user-attachments/assets/d7f2b58b-ac83-4c5b-85ee-b5f16ebf5f01" />
 
 <img  alt="ECOv002_L2T_LSTE_46952_006_17SMR_20261016T095049_0713_01" src="https://github.com/user-attachments/assets/b5b801b1-8ef2-404f-b0a5-df82c36cd0d4" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c40e8e25-32fe-4d54-8a42-63b4810fbbeb" />
 
 ## Artemis 2
 _orion_ @nasa-pds Artemis 2 Mission SAW Observational Product - art002e009571_saw3_raw_v01.tif
