@@ -32,7 +32,6 @@ Raw product from the saw camera on Artemis II. It was taken on flight day 6 at 2
 <img  alt="art002e009574_saw3_src_v01" src="https://github.com/user-attachments/assets/89256673-3a86-4dbc-8fd2-219e4e342669" />
 
 
-<img   alt="@nasa tumblr_025ea8d3e17d306f6fb8263b1f2fe1d1_2fbccf34_1280" src="https://github.com/user-attachments/assets/7631fd23-d19e-42cf-88ef-c68a3bf0162a" />
 Artemis 2 Mission NIKON_Z9 Observational Product - art002e012282_nkz9019_prc_v01.tif
 Processed product from the nikon_z9 camera on Artemis II. It was taken on flight day 6 at 2026-04-06 19:33:22Z and observes the following targets: Moon.
 <img  alt="art002e012282_nkz9019_prc_v01" src="https://github.com/user-attachments/assets/5fcb278a-03fc-4af6-8dab-8afc98462c69" />
@@ -89,6 +88,8 @@ I like this live viewer, i tried to pull it out, but its more compluicated than 
 
 ---
 
+
+<img   alt="@nasa tumblr_025ea8d3e17d306f6fb8263b1f2fe1d1_2fbccf34_1280" src="https://github.com/user-attachments/assets/7631fd23-d19e-42cf-88ef-c68a3bf0162a" />
 
 [`WATCH` @CBS-NEWS-DATA @Datadesk @nsaa-jpl How Keisha Lance Bottoms found out she was elected governor of Georgia @ajcnews](https://youtu.be/OVfvuxpHZGc?t=29) /// [17 states elect female governors](https://youtu.be/TFpfz_P9Piw) // [Georgia Election 2026: Black women now hold nearly all state executive offices](https://youtu.be/PlpUC1kjRcw?si=FMFBbLkExQZAst2y) // [Keisha Lance Bottoms Makes History With Georgia Governor’s Win @foxbroadcasting @foratlanta @npr @newshour](https://youtu.be/Tv88ByutVx0?t=3)
 <img  alt="image" src="https://github.com/user-attachments/assets/af33b7aa-de3f-4132-80ff-62db3297e79a" />
