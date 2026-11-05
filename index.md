@@ -22,7 +22,7 @@ mathjax: true
 
 ### President Trump Participates in Signing Time, 
 Aug. 6, 2026
-@Whitehouse the Live signing feed in the /video dir is truncated and not live @nasa-jpl it could be misleading @usgs [@CityOfLosAngeles _Karen Bass_](https://www.congress.gov/member/karen-bass/B001270) [@whitehouse .gov](https://www.whitehouse.gov/videos/president-trump-participates-in-signing-time-aug-6-2026/)
+@Whitehouse the Live signing feed in the /video dir is truncated and not live @nasa-jpl it could be misleading @usgs [@CityOfLosAngeles _Karen Bass_<~ @fecgov check on mayor bass @la-county-isd](https://www.congress.gov/member/karen-bass/B001270) [@whitehouse .gov](https://www.whitehouse.gov/videos/president-trump-participates-in-signing-time-aug-6-2026/)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/b8023f22-8575-496f-96a5-d2fb5976ced9" />
 
