@@ -20,7 +20,11 @@ mathjax: true
 
 
 ## Artemis 2
-_orion_ @nasa-pds Artemis 2 Mission SAW Observational Product - art002e009574_saw3_raw_v01.tif
+_orion_ @nasa-pds Artemis 2 Mission SAW Observational Product - art002e009571_saw3_raw_v01.tif
+Raw product from the saw camera on Artemis II. It was taken on flight day 6 at 2026-04-07 01:10:44Z and observes the following targets: Moon.
+[art002e009571_saw3_raw_v01.tif  -  pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_orion_camera/data_raw_image/fd06/art002e009571_saw3_raw_v01.tif](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_orion_camera/data_raw_image/fd06/art002e009571_saw3_raw_v01.tif)
+<img   alt="art002e009571_saw3_src_v01" src="https://github.com/user-attachments/assets/e496fdc4-fda4-4e9d-b86d-9340cd9803a6" />
+Artemis 2 Mission SAW Observational Product - art002e009574_saw3_raw_v01.tif
 Raw product from the saw camera on Artemis II. It was taken on flight day 6 at 2026-04-07 01:28:09Z and observes the following targets: Moon, Sunrise.
 [pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_orion_camera/data_raw_image/fd06/art002e009574_saw3_raw_v01.tif](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_orion_camera/data_raw_image/fd06/art002e009574_saw3_raw_v01.tif)
 <img  alt="art002e009574_saw3_src_v01" src="https://github.com/user-attachments/assets/89256673-3a86-4dbc-8fd2-219e4e342669" />
