@@ -4,6 +4,13 @@ mathjax: true
 ---
 
 
+
+
+
+### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
+
+# Savannah @NAsa-jpl @foratlanta
+
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   
   <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
@@ -13,11 +20,8 @@ mathjax: true
   <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
   
 </picture>
-
-
-
-### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
-
+[https://search.earthdata.nasa.gov/search/granules/granule-details?p=C2076090826-LPCLOUD2-LPCLOUD&q=`ecostress`&s81.12493%2C32.03895%2C-80.98369%2C32.15895&lat=32.04004865&long=-81.46041545667215&zoom=9.745322053183893](https://search.earthdata.nasa.gov/search/granules/granule-details?p=C2076090826-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4392993772-LPCLOUD&q=ecostress&sb[0]=-81.12493%2C32.03895%2C-80.98369%2C32.15895&lat=32.04004865&long=-81.46041545667215&zoom=9.745322053183893)
+<img  alt="ECOv002_L2T_LSTE_savannah" src="https://github.com/user-attachments/assets/d7f2b58b-ac83-4c5b-85ee-b5f16ebf5f01" />
 
 ## Artemis 2
 _orion_ @nasa-pds Artemis 2 Mission SAW Observational Product - art002e009571_saw3_raw_v01.tif
