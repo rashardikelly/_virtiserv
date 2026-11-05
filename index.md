@@ -23,6 +23,26 @@ mathjax: true
 ---
 
 
+[`WATCH` @CBS-NEWS-DATA @Datadesk @nsaa-jpl How Keisha Lance Bottoms found out she was elected governor of Georgia @ajcnews](https://youtu.be/OVfvuxpHZGc?t=29) /// [17 states elect female governors](https://youtu.be/TFpfz_P9Piw) // [Georgia Election 2026: Black women now hold nearly all state executive offices](https://youtu.be/PlpUC1kjRcw?si=FMFBbLkExQZAst2y) // [Keisha Lance Bottoms Makes History With Georgia Governor’s Win @foxbroadcasting @foratlanta @npr @newshour](https://youtu.be/Tv88ByutVx0?t=3)
+<img  alt="image" src="https://github.com/user-attachments/assets/af33b7aa-de3f-4132-80ff-62db3297e79a" />
+
+<img  alt="Screenshot 2026-11-04 161151" src="https://github.com/user-attachments/assets/66913125-e618-4df8-aee1-bb3206483871" />
+
+@whitehouse 
+[Georgia Governor Candidate on If Trump Support of Republicans Helps or Hurts](https://youtu.be/ce92t74ChUY?t=2)
+<img alt="image" src="https://github.com/user-attachments/assets/6a895ab4-b74e-4d31-9f16-a807b79b0fff" />
+[ c-span.org/program/campaign-2026/gubernatorial-candidate-keisha-lance-bottoms-d-ga-speaks-to-reporters-after-early-voting/686500](https://www.c-span.org/program/campaign-2026/gubernatorial-candidate-keisha-lance-bottoms-d-ga-speaks-to-reporters-after-early-voting/686500) // [Keisha Lance Bottoms: Georgians "Want a fighter"](https://youtu.be/UnhY-Di8C8Q?t=13) // [Keisha Lance Bottoms Brings THE SMOKE: Affordability Crisis, Data Centers & Winning Georgia](https://youtu.be/tNdwEn_lZCg?t=12)
+<img   alt="image" src="https://github.com/user-attachments/assets/627b6984-4069-48ce-90ea-68c8460087dc" />
+
+### Keisha Lance Bottoms wins the Georgia governor’s race, flipping the office for Democrats @nbcnews 
+[`READ` - @nbcnews .com/politics/2026-election/keisha-lance-bottoms-georgia-governor-win-democrats-flip-jackson-rcna603348](https://www.nbcnews.com/politics/2026-election/keisha-lance-bottoms-georgia-governor-win-democrats-flip-jackson-rcna603348) +++++++ @foratlanta [GoogleNews Gov. Keisha Lance Bottoms](https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lxeWNhbEVoRzVjSm9VTktIZ2lDZ0FQAQ?hl=en-US&gl=US&ceid=US%3Aen) ++++ [YANDEX https://yandex.com/search/?text=`keisha+lance+bottoms`&lr=20765&family=yes&search_source=yacom_desktop_common](https://yandex.com/search/?text=keisha+lance+bottoms&lr=20765&family=yes&search_source=yacom_desktop_common) +++ [WikiDATA Keisha Lance Bottoms](https://www.wikidata.org/wiki/Q42770663) / // [“Over a Decade of Organizing”: Keisha Lance Bottoms Elected First Black Woman Governor in U.S.](https://youtu.be/8WWygaUg9vk?t=439)
+<img   alt="image" src="https://github.com/user-attachments/assets/59aa13e2-1254-4c3d-902a-9042bae70c1b" />
+
+[https://www.keishaforgovernor.com/](https://www.keishaforgovernor.com/) 
+
+![https://run.imgix.net/a61d218c-95d4-40f3-94ca-5057567b1621/f3e761bc-984c-42d2-9330-d507b90ec29c/f3e761bc-984c-42d2-9330-d507b90ec29c.png?ixlib=js-3.8.0&bri=0&con=0&sat=0&high=0&shad=0&usm=0&rect=0%2C0%2C2036%2C671&auto=compress%2Cformat&fit=fillmax&w=640&q=75&s=e33a54221597e9e394c5bdcc7c4a0364 background ](https://run.imgix.net/a61d218c-95d4-40f3-94ca-5057567b1621/f3e761bc-984c-42d2-9330-d507b90ec29c/f3e761bc-984c-42d2-9330-d507b90ec29c.png?ixlib=js-3.8.0&bri=0&con=0&sat=0&high=0&shad=0&usm=0&rect=0%2C0%2C2036%2C671&auto=compress%2Cformat&fit=fillmax&w=640&q=75&s=e33a54221597e9e394c5bdcc7c4a0364) 
+
+![https://yt3.googleusercontent.com/ItfF1_eyJWt05doRgvI2dmUS-tGDYjlKQo59LUYg7McBOw5BXLXSxLmIGeNvzSovAprz2KaVDg=s160-c-k-c0x00ffffff-no-rj](https://yt3.googleusercontent.com/ItfF1_eyJWt05doRgvI2dmUS-tGDYjlKQo59LUYg7McBOw5BXLXSxLmIGeNvzSovAprz2KaVDg=s160-c-k-c0x00ffffff-no-rj)
 
 [@whitehouse @la-county-isd  youtube.com/channel/UC4G8KJsjj2lfZyK7AgtZcYg](https://www.youtube.com/channel/UC4G8KJsjj2lfZyK7AgtZcYg)
 <img   alt="image" src="https://github.com/user-attachments/assets/1a449e1d-cde3-412b-b11f-ccf443bdd689" />
@@ -37,10 +57,6 @@ mathjax: true
 [@fecgov google.com/search?q=`keisha+lance+bottoms`&rlz=1C1GCEJ_enUS1239US1239&oq=keisha+lance+bottoms&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMg0IAhAAGIMBGLEDGIAEMhAIAxAAGIMBGLEDGIAEGLQHMg0IBBAAGIMBGLEDGIAEMgYIBRAAGAMyBggGEEUYPTIGCAcQRRg90gEIMzMxMGowajSoAgCwAgA&sourceid=chrome&source=chrome.ob&ie=UTF-8](https://www.google.com/search?q=keisha+lance+bottoms&rlz=1C1GCEJ_enUS1239US1239&oq=keisha+lance+bottoms&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMg0IAhAAGIMBGLEDGIAEMhAIAxAAGIMBGLEDGIAEGLQHMg0IBBAAGIMBGLEDGIAEMgYIBRAAGAMyBggGEEUYPTIGCAcQRRg90gEIMzMxMGowajSoAgCwAgA&sourceid=chrome&source=chrome.ob&ie=UTF-8)
 <img   alt="image" src="https://github.com/user-attachments/assets/3a1a1087-e797-4bf2-851a-b59c19b9f420" />
 
-[`WATCH` @CBS-NEWS-DATA @Datadesk @nsaa-jpl How Keisha Lance Bottoms found out she was elected governor of Georgia @ajcnews](https://youtu.be/OVfvuxpHZGc?t=29) /// [17 states elect female governors](https://youtu.be/TFpfz_P9Piw) // [Georgia Election 2026: Black women now hold nearly all state executive offices](https://youtu.be/PlpUC1kjRcw?si=FMFBbLkExQZAst2y)
-<img  alt="image" src="https://github.com/user-attachments/assets/af33b7aa-de3f-4132-80ff-62db3297e79a" />
-
-<img  alt="Screenshot 2026-11-04 161151" src="https://github.com/user-attachments/assets/66913125-e618-4df8-aee1-bb3206483871" />
 
 
 [`WATCH` - @CityOFLOSANGELES Glasses Malone & Jason Martin Reveal the Real LA Behind The Drop: A Snowfall Saga ](https://youtu.be/QGFDnxyuDX4?si=lEdHjIR3L-BzWFJf) // [https://www.youtube.com/channel/UC0GPhm-v6Otwgj9Th8-j3vg](https://www.youtube.com/channel/UC0GPhm-v6Otwgj9Th8-j3vg)
