@@ -18,6 +18,26 @@ mathjax: true
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
+
+# Artemis 2
+
+<img   alt="@nasa tumblr_025ea8d3e17d306f6fb8263b1f2fe1d1_2fbccf34_1280" src="https://github.com/user-attachments/assets/7631fd23-d19e-42cf-88ef-c68a3bf0162a" />
+<img   alt="@nasa-jpltumblr_03b15f6569b3addb837ea1acbb67422a_1b409e48_1280" src="https://github.com/user-attachments/assets/acab4264-d68b-4f39-a0b5-8e04abfea22a" />
+<img   alt="@AJCNEWS tumblr_03b15f6569b3addb837ea1acbb67422a_1b409e48_1280" src="https://github.com/user-attachments/assets/a3aa9cb3-3394-451d-a493-a43301d49c50" />
+
+<img   alt="tumblr_150e8de436ced2f7aa10a871d4e3e3ec_f51fd643_1280" src="https://github.com/user-attachments/assets/8448b7bf-2bc4-409a-ad7a-1c030400b39b" />
+
+[NASA’s Artemis III Announcement (Official NASA Trailer)](https://youtu.be/3Yqi3D4b2RQ)
+[https://rashardmro.tumblr.com/post/818969982521262080/hot-97-atlanta-news-live-6826?is_related_post=1](https://rashardmro.tumblr.com/post/818969982521262080/hot-97-atlanta-news-live-6826?is_related_post=1)
+[@foratlanta @ajcnews @newshour rashardmro.tumblr.com/post/810854907513012224/why-go-to-the-moon-john-f-kennedy-at-rice](https://rashardmro.tumblr.com/post/810854907513012224/why-go-to-the-moon-john-f-kennedy-at-rice)
+<img  alt="tumblr_9f13eb307d15bcc4cd92854c0bbbaf8d_0f97a05b_1280" src="https://github.com/user-attachments/assets/ad8a5355-08c6-4e1a-bdd2-21ce94879654" />
+[@nasa-jpl https://rashardmro.tumblr.com/post/813366066535366656/nasas-artemis-ii-daily-news-conference-april-8](https://rashardmro.tumblr.com/post/813366066535366656/nasas-artemis-ii-daily-news-conference-april-8)
+<img   alt="tumblr_fd41879206f1437e83ebd6e2114cd28b_86222b2e_1280" src="https://github.com/user-attachments/assets/5fbeb366-03a6-4216-835d-dc50276665ea" />
+<img  alt="tumblr_d74dbf8ecb05e26e023801de7f9c7bc4_7db278b7_1280" src="https://github.com/user-attachments/assets/fd1cc152-acd9-4b10-b610-015c14cbef1d" />
+
+
+--- 
+
 // [Latto Is Resilient While Eating Spicy Wings](https://youtu.be/i-DS4hrdmyQ?t=20) // [Inside LeBron and Savannah James's Home, Full of Wonderful Objects ](https://youtu.be/G7QspzZIpCY?t=14) // [Men Don't Do Closure: Move on With Your Life! ](https://youtu.be/1MMFLV9J_Zw?t=17) // [Woman pleads guilty after making false rape claim in Florida @FoxBroadcasting ](https://youtu.be/HpoyuyDwKYY?t=22) // ["A CITY AND ITS PEOPLE " A DAY IN 1960s LOS ANGELES CALIFORNIA EDUCATIONAL FILM XD72474](https://youtu.be/NHD5W-nj0Zo?t=13) // [“ LANDSCAPES WITH ANGELS / A HISTORY OF LOS ANGELES ” 1974 L.A. CALIFORNIA DOCUMENTARY SM10235](https://youtu.be/eIZYoraQIW8?si=EiP9u8tQhdPoNmTD) // [1970s BLACK FAMILY'S HOME MOVIE EXPOSITION PARK, LOS ANGELES & TRIP TO SAN FRANCISCO](https://youtu.be/FyAZMNXKmoI?t=15) // [“ WARD CARE OF PSYCHOTIC PATIENTS ” WWII U.S. ARMY TRAINING FILM SHELL SHOCKED SOLDIERS XD95765](https://youtu.be/puZ6SCkFQSw?t=12) // [1960s CALIFORNIA "WORLD IN A WEEK" UNITED AIRLINES TRAVELOGUE SAN FRANCISCO LOS ANGELES 72822](https://youtu.be/KXEpkOK2T0Y?t=11) // [“Georgia overcame every doubt and dirty trick.”  Election Night with Jon Ossoff  11.03.2026](https://youtu.be/fsoikoGhJW0?t=46) // [@ForATlanta Keisha Lance Bottoms reveals transition call with Kemp](https://youtu.be/v-Vo5dm0Cx8?si=iWxtDMAzcMZlnBXC)
 
 ---
