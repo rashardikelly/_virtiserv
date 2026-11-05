@@ -23,6 +23,13 @@ mathjax: true
 ---
 
 
+
+[@whitehouse @la-county-isd  youtube.com/channel/UC4G8KJsjj2lfZyK7AgtZcYg](https://www.youtube.com/channel/UC4G8KJsjj2lfZyK7AgtZcYg)
+<img   alt="image" src="https://github.com/user-attachments/assets/1a449e1d-cde3-412b-b11f-ccf443bdd689" />
+
+[Who Is Keisha Lance Bottoms’ Husband? What to Know About Derek Bottoms](https://people.com/who-is-derek-bottoms-keisha-lance-bottoms-husband-12236225)
+![https://people.com/thmb/2RzzCIYlTea8Cw9FbOmAtETL2VI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(745x258:747x260):format(webp)/keisha-lance-bottoms-derek-w-bottoms-atlanta-symphony-110426-717b8a57be73434bb880e0699e383c4d.jpg](https://people.com/thmb/2RzzCIYlTea8Cw9FbOmAtETL2VI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(745x258:747x260):format(webp)/keisha-lance-bottoms-derek-w-bottoms-atlanta-symphony-110426-717b8a57be73434bb880e0699e383c4d.jpg) 
+
 [@blackgirlscode @nasa-jpl Georgia Governor Results 2026](https://www.nbcnews.com/politics/2026-elections/georgia-governor-results)
 <img   alt="image" src="https://github.com/user-attachments/assets/2c0cb109-d025-485b-acaa-3c8898f42aca" />
 
