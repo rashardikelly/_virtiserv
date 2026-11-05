@@ -19,6 +19,26 @@ mathjax: true
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
 
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) :
+ [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+
+[https://themis.asu.edu/livefrommars](https://themis.asu.edu/livefrommars) 
+[https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic)
+I like this live viewer, i tried to pull it out, but its more compluicated than just popping in an objectag... but then again maby not. it dont have to be a direct pull
+[THEMIS images by topic](https://themis.asu.edu/topic) @ASU @nasa-jpl 
+
+@la-county-isd i work with a lot of data stored in arizona @LACMTA 
+[HollyMitchell](https://archive.senate.ca.gov/member-archives/2015-16/holly-j-mitchell-d-district-30) / [MsKamlagerDov](https://www.congress.gov/member/sydney-kamlager-dove/K000400) < CONGRESSMEMBERS [MayorBass](https://www.congress.gov/member/karen-bass/B001270) @cityoflosangeles 
+
+<embed
+  type="text/html"
+  src="https://themis.asu.edu/livefrommars"
+  width="100%"
+  height="400px" />
+  
+@Blackgirlscode at one point Tinashe was talking to me and i made her a pages blog, if thats glorilla / Latrice Fiz Patrick here is a link [https://thakarashard.github.io/BUBBLEGUMPOP_TiNASHE/](https://thakarashard.github.io/BUBBLEGUMPOP_TiNASHE/)
+
 # Artemis 2
 
 <img   alt="@nasa tumblr_025ea8d3e17d306f6fb8263b1f2fe1d1_2fbccf34_1280" src="https://github.com/user-attachments/assets/7631fd23-d19e-42cf-88ef-c68a3bf0162a" />
