@@ -33,6 +33,10 @@ Raw product from the saw camera on Artemis II. It was taken on flight day 6 at 2
 
 
 <img   alt="@nasa tumblr_025ea8d3e17d306f6fb8263b1f2fe1d1_2fbccf34_1280" src="https://github.com/user-attachments/assets/7631fd23-d19e-42cf-88ef-c68a3bf0162a" />
+Artemis 2 Mission NIKON_Z9 Observational Product - art002e012282_nkz9019_prc_v01.tif
+Processed product from the nikon_z9 camera on Artemis II. It was taken on flight day 6 at 2026-04-06 19:33:22Z and observes the following targets: Moon.
+<img  alt="art002e012282_nkz9019_prc_v01" src="https://github.com/user-attachments/assets/5fcb278a-03fc-4af6-8dab-8afc98462c69" />
+
 <img   alt="@nasa-jpltumblr_03b15f6569b3addb837ea1acbb67422a_1b409e48_1280" src="https://github.com/user-attachments/assets/acab4264-d68b-4f39-a0b5-8e04abfea22a" />
 <img   alt="@AJCNEWS tumblr_03b15f6569b3addb837ea1acbb67422a_1b409e48_1280" src="https://github.com/user-attachments/assets/a3aa9cb3-3394-451d-a493-a43301d49c50" />
 
