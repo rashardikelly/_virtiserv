@@ -24,10 +24,13 @@ mathjax: true
  [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)  
  ![@nasa-pds https://web.archive.org/web/20051110230730im_/http://mars.jpl.nasa.gov/mro/images/head_jpl.gif](https://web.archive.org/web/20051110230730im_/http://mars.jpl.nasa.gov/mro/images/head_jpl.gif) 
 
-[https://themis.asu.edu/livefrommars](https://themis.asu.edu/livefrommars) 
-[https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic)
+[@asulibraries its blocked from my embed here @cityoflosangeles themis.asu.edu/livefrommars](https://themis.asu.edu/livefrommars) 
+[w3schools.com/html/tryit.asp?filename=tryhtml_basic](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic)
 I like this live viewer, i tried to pull it out, but its more compluicated than just popping in an objectag... but then again maby not. it dont have to be a direct pull
 [THEMIS images by topic](https://themis.asu.edu/topic) @ASU @nasa-jpl 
+[@nasa-pds themis.asu.edu/livefrommars](https://themis.asu.edu/livefrommars)
+<img  alt="image" src="https://github.com/user-attachments/assets/24d01242-98cf-49b0-b84e-7bbc2af14de0" />
+
 
 @la-county-isd i work with a lot of data stored in arizona @LACMTA 
 [HollyMitchell](https://archive.senate.ca.gov/member-archives/2015-16/holly-j-mitchell-d-district-30) / [MsKamlagerDov](https://www.congress.gov/member/sydney-kamlager-dove/K000400) < CONGRESSMEMBERS [MayorBass](https://www.congress.gov/member/karen-bass/B001270) @cityoflosangeles 
