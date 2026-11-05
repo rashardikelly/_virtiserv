@@ -20,7 +20,7 @@ mathjax: true
 
 
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
-### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) :
+### [Mars Reconnaissance Orbiter - hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) :
  [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)  
  ![@nasa-pds https://web.archive.org/web/20051110230730im_/http://mars.jpl.nasa.gov/mro/images/head_jpl.gif](https://web.archive.org/web/20051110230730im_/http://mars.jpl.nasa.gov/mro/images/head_jpl.gif) 
 
@@ -33,7 +33,7 @@ I like this live viewer, i tried to pull it out, but its more compluicated than 
 
 
 @la-county-isd i work with a lot of data stored in arizona @LACMTA 
-[HollyMitchell](https://archive.senate.ca.gov/member-archives/2015-16/holly-j-mitchell-d-district-30) / [MsKamlagerDov](https://www.congress.gov/member/sydney-kamlager-dove/K000400) < CONGRESSMEMBERS [MayorBass](https://www.congress.gov/member/karen-bass/B001270) @cityoflosangeles 
+[HollyMitchell](https://archive.senate.ca.gov/member-archives/2015-16/holly-j-mitchell-d-district-30) / [MsKamlagerDov](https://www.congress.gov/member/sydney-kamlager-dove/K000400) < CONGRESSMEMBERS [MayorBass](https://www.congress.gov/member/karen-bass/B001270) @cityoflosangeles [Mars Reconnaissance Orbiter - hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
 
 <embed
   type="text/html"
@@ -53,7 +53,7 @@ I like this live viewer, i tried to pull it out, but its more compluicated than 
 
 [NASA’s Artemis III Announcement (Official NASA Trailer)](https://youtu.be/3Yqi3D4b2RQ)
 [https://rashardmro.tumblr.com/post/818969982521262080/hot-97-atlanta-news-live-6826?is_related_post=1](https://rashardmro.tumblr.com/post/818969982521262080/hot-97-atlanta-news-live-6826?is_related_post=1)
-[@foratlanta @ajcnews @newshour rashardmro.tumblr.com/post/810854907513012224/why-go-to-the-moon-john-f-kennedy-at-rice](https://rashardmro.tumblr.com/post/810854907513012224/why-go-to-the-moon-john-f-kennedy-at-rice)
+[@foratlanta @ajcnews @newshour rashardmro.tumblr.com/post/810854907513012224/why-go-to-the-moon-john-f-kennedy-at-rice](https://rashardmro.tumblr.com/post/810854907513012224/why-go-to-the-moon-john-f-kennedy-at-rice) // [Mars Reconnaissance Orbiter - hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
 <img  alt="tumblr_9f13eb307d15bcc4cd92854c0bbbaf8d_0f97a05b_1280" src="https://github.com/user-attachments/assets/ad8a5355-08c6-4e1a-bdd2-21ce94879654" />
 [@nasa-jpl https://rashardmro.tumblr.com/post/813366066535366656/nasas-artemis-ii-daily-news-conference-april-8](https://rashardmro.tumblr.com/post/813366066535366656/nasas-artemis-ii-daily-news-conference-april-8)
 <img   alt="tumblr_fd41879206f1437e83ebd6e2114cd28b_86222b2e_1280" src="https://github.com/user-attachments/assets/5fbeb366-03a6-4216-835d-dc50276665ea" />
