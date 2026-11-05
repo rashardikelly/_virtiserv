@@ -22,6 +22,14 @@ mathjax: true
 
 ---
 
+
+
+[`WATCH` @CBS-NEWS-DATA @Datadesk @nsaa-jpl How Keisha Lance Bottoms found out she was elected governor of Georgia @ajcnews](https://youtu.be/OVfvuxpHZGc?t=29)
+<img  alt="image" src="https://github.com/user-attachments/assets/af33b7aa-de3f-4132-80ff-62db3297e79a" />
+
+<img  alt="Screenshot 2026-11-04 161151" src="https://github.com/user-attachments/assets/66913125-e618-4df8-aee1-bb3206483871" />
+
+
 [`WATCH` - @CityOFLOSANGELES Glasses Malone & Jason Martin Reveal the Real LA Behind The Drop: A Snowfall Saga ](https://youtu.be/QGFDnxyuDX4?si=lEdHjIR3L-BzWFJf) // [https://www.youtube.com/channel/UC0GPhm-v6Otwgj9Th8-j3vg](https://www.youtube.com/channel/UC0GPhm-v6Otwgj9Th8-j3vg)
 ![https://yt3.googleusercontent.com/xfyHAUiG88jfzUESddYg9eWlaiRTuSaK-ZhtgcpwWKPjj84B4jzQ-fAXEZ3AKUJL86Xuhn97=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/xfyHAUiG88jfzUESddYg9eWlaiRTuSaK-ZhtgcpwWKPjj84B4jzQ-fAXEZ3AKUJL86Xuhn97=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
 
