@@ -26,9 +26,11 @@ Aug. 6, 2026
 
 <img  alt="image" src="https://github.com/user-attachments/assets/b8023f22-8575-496f-96a5-d2fb5976ced9" />
 
+[whitehouse.gov/live/](https://www.whitehouse.gov/live/)
+<img   alt="image" src="https://github.com/user-attachments/assets/961cca1d-63c9-49bb-bd11-5be12b535549" />
 
 [whitehouse.gov/videos/president-trump-participates-in-signing-time-aug-6-2026/](https://www.whitehouse.gov/videos/president-trump-participates-in-signing-time-aug-6-2026/)
-[whitehouse.gov/live/](https://www.whitehouse.gov/live/)
+
 
 <img  alt="Screenshot 2026-11-05 133030" src="https://github.com/user-attachments/assets/d5e7f73b-4931-42fd-9bef-013ef8a12e41" />
 
