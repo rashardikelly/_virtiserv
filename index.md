@@ -21,6 +21,10 @@ mathjax: true
 
 # Artemis 2
 [@foratlanta @ajcnews @newshour rashardmro.tumblr.com/post/810854907513012224/why-go-to-the-moon-john-f-kennedy-at-rice](https://rashardmro.tumblr.com/post/810854907513012224/why-go-to-the-moon-john-f-kennedy-at-rice)
+<img  alt="tumblr_9f13eb307d15bcc4cd92854c0bbbaf8d_0f97a05b_1280" src="https://github.com/user-attachments/assets/ad8a5355-08c6-4e1a-bdd2-21ce94879654" />
+[@nasa-jpl https://rashardmro.tumblr.com/post/813366066535366656/nasas-artemis-ii-daily-news-conference-april-8](https://rashardmro.tumblr.com/post/813366066535366656/nasas-artemis-ii-daily-news-conference-april-8)
+<img   alt="tumblr_fd41879206f1437e83ebd6e2114cd28b_86222b2e_1280" src="https://github.com/user-attachments/assets/5fbeb366-03a6-4216-835d-dc50276665ea" />
+<img  alt="tumblr_d74dbf8ecb05e26e023801de7f9c7bc4_7db278b7_1280" src="https://github.com/user-attachments/assets/fd1cc152-acd9-4b10-b610-015c14cbef1d" />
 
 
 --- 
