@@ -20,6 +20,13 @@ mathjax: true
 
 
 
+## CentCOM [wiki](https://en.wikipedia.org/wiki/United_States_Central_Command)
+[centcom.mil/MEDIA/IMAGERY/igphoto/2003973286/](https://www.centcom.mil/MEDIA/IMAGERY/igphoto/2003973286/) // [http://war.gov/News/News-Stories/Article/Article/4641652/centcom-benefits-from-project-agincourt-drone-dominance-efforts/](http://war.gov/News/News-Stories/Article/Article/4641652/centcom-benefits-from-project-agincourt-drone-dominance-efforts/)
+@nasa-jpl hi, im struggling with people who were once jehovahs witnesses. People that are still in understand [Roman13](https://www.biblegateway.com/passage/?search=Romans%2013&version=NIV) .... `Let everyone be subject to the governing authorities, for there is no authority except that which God has established. The authorities that exist have been established by God`
+The issue is people who are disfellowshipped or disassociated or had double lives and the not learning war teaching helps secure friends in circles that are in appearance non violent. They learn non leathal weapons and menace a lot of people from the access they got when active with the watchtower. The need guidance @nasa @nasa-jpl @deptofwar because this photo is a problem for them [https://media.defense.gov/2026/Jul/31/2003973286/1088/820/0/260729-N-QP244-1122.JPG](https://media.defense.gov/2026/Jul/31/2003973286/1088/820/0/260729-N-QP244-1122.JPG) 
+
+![https://media.defense.gov/2026/Jul/31/2003973286/1088/820/0/260729-N-QP244-1122.JPG](https://media.defense.gov/2026/Jul/31/2003973286/1088/820/0/260729-N-QP244-1122.JPG) 
+
 ### President Trump Participates in Signing Time, 
 Aug. 6, 2026
 @Whitehouse the Live signing feed in the /video dir is truncated and not live @nasa-jpl it could be misleading @usgs [@CityOfLosAngeles _Karen Bass_<~ @fecgov check on mayor bass @la-county-isd](https://www.congress.gov/member/karen-bass/B001270) [@whitehouse .gov](https://www.whitehouse.gov/videos/president-trump-participates-in-signing-time-aug-6-2026/)
