@@ -21,6 +21,10 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
   
 </picture>
 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/3e647580-a7d4-4abc-abb5-ac8f0f1812ac" />
+
+
 ![https://governorsoffice.colorado.gov/governor/themes/custom/polis/logo.png](https://governorsoffice.colorado.gov/governor/themes/custom/polis/logo.png) 
 
 @github @nasa-jpl @doug-newman-nasa hi this GitHub account has tracings to Denver but the ips repeat
