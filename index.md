@@ -3,7 +3,7 @@ layout: rt_leap
 mathjax: true
 ---
 
-{% include HGROUP.HTML %}
+{% include hgroup.html %}
 
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   
@@ -4674,5 +4674,6 @@ The final element.
                 <div></div>
           
    </div>
+   
  {% include FOOTER.html %}  
 
