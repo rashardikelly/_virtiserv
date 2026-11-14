@@ -3,6 +3,8 @@ layout: rt_leap
 mathjax: true
 ---
 
+{% include HGROUP.HTML %}
+
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   
   <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
