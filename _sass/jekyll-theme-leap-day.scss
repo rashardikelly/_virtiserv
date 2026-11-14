@@ -101,12 +101,15 @@ box-shadow: rgba(255,255,255, 0.4) 5px 5px, rgba(255,255,255, 0.3) 10px 10px, rg
 overflow-y: auto;
 }
 
+img {
+  max-width: 100%;
+  display: block;
+  transition: all 0.5s linear;
+}
+
 section img {
   max-height: auto;
   max-width: 100%;
-
-
-
 }
 
 
@@ -346,10 +349,9 @@ p::first-letter {
     margin: auto;
     background: #454b1b50;
   }
-  
-  img {  max-height: 100%;
-    max-width: 100%;
-  display:block;} 
+
+
+
   
   figcaption {
     background-color: #22222250;
