@@ -5,6 +5,8 @@ mathjax: true
 
 {% include hgroup.html %}
 
+
+
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   
   <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
@@ -14,10 +16,13 @@ mathjax: true
   <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
   
 </picture>
+ 
+ 
+[![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day) // Jekyll {{ jekyll.version }} // {{ "now" | date: "%Y-%m-%d %H:%M:%S" }}
 
 
-
-# Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+# Currently Compling g_e, 
+{{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
 #### Della Reese - It Was A Very Good Year
 [@foratlanta @nasa-jpl @deptofwar @cityoflosangeles](https://www.clermontlounge.net/?srsltid=AYCX9vKpYWtnJfkqqfhJFL5H-KONoXq2GvmSLzuTQvqLIDs2u-wdRWXM) [Della Reese - It Was A Very Good Year](https://youtu.be/4B7nOT96nsE?si=nHtma7Fu4SUEXpuu)
