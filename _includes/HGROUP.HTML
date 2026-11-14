@@ -162,18 +162,23 @@ padding-bottom:280px;
 <HGROUP itemscope itemprop="workExample" itemtype="https://schema.org/WebPage" itemid="{{ site.url }}{{ site.baseurl }}">
   <img src="https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/default/public/2023-04/Tri_Color_Ribbon_6000x75_v2.png.webp" />
 
-    <h1>./RashardsData=></h1>
+    <h1>./virtiserv.sh {{ jekyll.version }}</h1>
+  
+<div class="box">
 
+   {% for post in site.posts %}
+             
+  <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>     
+             
+  {% endfor %}
+           
+</div> 
+
+  
+[![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 {% include swatch.html %}
 {% include nav.html %}
 
-{{ jekyll.version }}
+
   
-
-
-
-
-    <!--
-    <img src="https://mars.nasa.gov/system/internal_resources/details/original/1684_PIA25965-Enhanced-web.jpg" > 
-  -->
-  </HGROUP>
+</HGROUP>
