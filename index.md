@@ -26,6 +26,17 @@ mathjax: true
 
 # Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
+@nasa-jpl hi, just a code sample, the footer is still not right, but the nav is health and just need a little more play unser certain [media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Media_queries/Using) , in one try I got the menu working well with tablets, its just hard to put it all together @deptofwar I heard [Pete was Up for Impeachment](https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth) @nasa-gibs [@pages-themes](https://github.com/pages-themes/) [LeapDay](https://github.com/pages-themes/leap-day/graphs/contributors?from=8%2F8%2F2026) is amazing presentation software. @Virtiserv is really a merger of [HACKr](https://thakarashard.github.io/RESUME/) , My own web dev history and leapDay and what I have been using for my @USSF-ORBiT @Nasa-jpl blogging for a lot of things including [@CityOfLosAngeles Municipal Maps](https://thakarashard.github.io/rashardmro/2026/09/30/Los-Angeles-County-Fire_Data.html) for [wildfire recovery](https://recovery.lacounty.gov/), it works well if someone has to present! @gatech @caltech @whitehouse [Source code ](https://github.com/pages-themes/leap-day)[demo pages-themes.github.io/leap-day/](https://pages-themes.github.io/leap-day/) 
+
+# The Leap day theme
+
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
+
+*Leap day is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/leap-day), or even [use it today](#usage).*
+
+![Thumbnail of Leap day](thumbnail.png)
+<img  alt="image" src="https://github.com/user-attachments/assets/4f6f8bd2-dcc2-4cf2-ad5b-d553f65355e6" />
+
 @nasa-jpl I'm having problems with my Gmail I use for work @doug-newman-nasa @eosdis-nasa, @google 
 
 `You have reached a limit for sending mail. Your message was not sent.`
