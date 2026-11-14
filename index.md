@@ -14,19 +14,10 @@ mathjax: true
 </picture>
 
 
-	
-{% include swatch.html %}
-
-
-
-{% include nav.html %}
-
- [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
-
 
 # Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
-## Della Reese - It Was A Very Good Year
+#### Della Reese - It Was A Very Good Year
 [@foratlanta @nasa-jpl @deptofwar @cityoflosangeles](https://www.clermontlounge.net/?srsltid=AYCX9vKpYWtnJfkqqfhJFL5H-KONoXq2GvmSLzuTQvqLIDs2u-wdRWXM) [Della Reese - It Was A Very Good Year](https://youtu.be/4B7nOT96nsE?si=nHtma7Fu4SUEXpuu)
 
 [Virtiserv.github.io/ @nasa-jpl](https://virtiserv.github.io/) hi, just a code sample by [@rashardikelly](https://rashardikelly.github.io/) , the footer is still not right, but the nav is health and just need a little more play unser certain [media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Media_queries/Using) , in one try I got the menu working well with tablets, its just hard to put it all together @deptofwar I heard [Pete was Up for Impeachment](https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth) @nasa-gibs [@pages-themes](https://github.com/pages-themes/) [LeapDay](https://github.com/pages-themes/leap-day/graphs/contributors?from=8%2F8%2F2026) is amazing presentation software. @Virtiserv is really a merger of [HACKr](https://thakarashard.github.io/RESUME/) , My own web dev history and leapDay and what I have been using for my @USSF-ORBiT @Nasa-jpl blogging for a lot of things including [@CityOfLosAngeles Municipal Maps](https://thakarashard.github.io/rashardmro/2026/09/30/Los-Angeles-County-Fire_Data.html) for [wildfire recovery](https://recovery.lacounty.gov/), it works well if someone has to present! @gatech @caltech @whitehouse [Source code ](https://github.com/pages-themes/leap-day) // [demo pages-themes.github.io/leap-day/](https://pages-themes.github.io/leap-day/) 
