@@ -24,6 +24,8 @@ mathjax: true
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
+<img  alt="1570a0e010b0404a82d3fa4c9d1e6e36 @blackgirlscode" src="https://github.com/user-attachments/assets/7113c0c8-d45e-491c-a5ab-4e028a613b69" />
+
 [@nasa-pds @foratlanta codepen.io/ricoThaka/pen/azzqYBQ](https://codepen.io/ricoThaka/pen/azzqYBQ) // PinkFriday2 [Are You Gone Already? @Blackgirlscode](https://youtu.be/2wKQ97yH1NI?si=taTRJn7bipXZnWcC)
 <img  alt="image" src="https://github.com/user-attachments/assets/0eb37369-c1b6-4307-bca6-8109600ce4a8" />
 
