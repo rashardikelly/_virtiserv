@@ -24,6 +24,9 @@ mathjax: true
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
+[@foratlanta @ajcnews @bbc fwd to @cnn](https://youtu.be/ROlKx7PG6sY?si=YxF0BomoDyppmwBH) https://youtu.be/ROlKx7PG6sY?si=YxF0BomoDyppmwBH
+<img  alt="image" src="https://github.com/user-attachments/assets/630287f5-c1a8-42eb-868b-81bb2c90407a" />
+
 #### Della Reese - It Was A Very Good Year
 [@foratlanta @nasa-jpl @deptofwar @cityoflosangeles](https://www.clermontlounge.net/?srsltid=AYCX9vKpYWtnJfkqqfhJFL5H-KONoXq2GvmSLzuTQvqLIDs2u-wdRWXM) [Della Reese - It Was A Very Good Year](https://youtu.be/4B7nOT96nsE?si=nHtma7Fu4SUEXpuu)
 
