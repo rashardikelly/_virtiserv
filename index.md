@@ -24,6 +24,9 @@ mathjax: true
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
+[@nasa-pds @foratlanta codepen.io/ricoThaka/pen/azzqYBQ](https://codepen.io/ricoThaka/pen/azzqYBQ) // PinkFriday2 [Are You Gone Already? @Blackgirlscode](https://youtu.be/2wKQ97yH1NI?si=taTRJn7bipXZnWcC)
+<img  alt="image" src="https://github.com/user-attachments/assets/0eb37369-c1b6-4307-bca6-8109600ce4a8" />
+
 [@foratlanta @ajcnews @bbc fwd to @cnn](https://youtu.be/ROlKx7PG6sY?si=YxF0BomoDyppmwBH) https://youtu.be/ROlKx7PG6sY?si=YxF0BomoDyppmwBH
 <img  alt="image" src="https://github.com/user-attachments/assets/630287f5-c1a8-42eb-868b-81bb2c90407a" />
 
