@@ -23,7 +23,7 @@ mathjax: true
 
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
-
+// [Solid Steel Radio Show: Mixed by Coldcut, DJ Lazy, Strictly Kev (Dec 15, 2003)](https://youtu.be/ktZhRrH0bw0?list=RDktZhRrH0bw0) <~ @la-county-isd y'all too grown, just being honest @CityOfLosAngeles guide me . . . and help @blackgirlscode they was meandering around @nasa-jpl @ajcnews @latimes
 
 ![https://mars.nasa.gov/msl-raw-images/msss/05073/mcam/5073ML1102670021307123E01_DXXX.jpg](https://mars.nasa.gov/msl-raw-images/msss/05073/mcam/5073ML1102670021307123E01_DXXX.jpg) 
 
