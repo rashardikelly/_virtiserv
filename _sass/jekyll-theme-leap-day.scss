@@ -725,13 +725,8 @@ blockquote {
 }
 
 code {
-  font-family: 'Martian Mono', Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
-  font-size:13px;
-  color:#efefef;
-  text-shadow: 0px 1px 0px #000;
-  margin: 0 4px;
-  padding: 2px 6px;
-  background: #33333350;
+
+
   border-radius: 2px;
 }
 /*
@@ -749,18 +744,47 @@ pre {
   }
 }
 */
+
+
+
+
+code, pre {
+      font-family: 'Martian Mono', Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
+  font-size:13px;
+  margin-bottom: 30px;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+	word-break: break-word;
+  font-size: 13px;
+  color: #222;
+}
+
+code {
+  padding: 0 3px;
+  background-color: #f2f8fc;
+  border: solid 1px #dbe7f3;
+      color:#efefef;
+  text-shadow: 0px 1px 0px #000;
+  margin: 0 4px;
+  padding: 2px 6px;
+  background: #33333350;
+}
+
 pre {
-  padding:8px 15px;
-    border-radius: 3px;
-  border:1px solid #b5e853;
+  padding: 20px;
   overflow: auto;
-  overflow-y: hidden;
-  background: transparent
-  url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+  text-shadow: none;
+  background: #fff;
+  border: solid 1px #f2f2f2;
+}
+pre code {
+  padding: 0;
+  color: #2879d0;
+  background-color: #fff;
+  border: none;
+      background: transparent
+  url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-white.gif)
   center repeat;
   font: bold 14px/18px 'Martian Mono',Arial,  "Lucida Sans Unicode", verdana, lucida, sans-serif; 
-  color:white;
-
 }
 
 
