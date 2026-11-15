@@ -23,6 +23,10 @@ mathjax: true
 
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+
+[Holly Mitchell @cityoflosangeles virtiserv.github.io/losangeles](https://virtiserv.github.io/losangeles)
+<img   alt="image" src="https://github.com/user-attachments/assets/6c03a5db-0f6f-499a-b025-269d128e00f9" />
+
 // [Solid Steel Radio Show: Mixed by Coldcut, DJ Lazy, Strictly Kev (Dec 15, 2003)](https://youtu.be/ktZhRrH0bw0?list=RDktZhRrH0bw0) <~ @la-county-isd y'all too grown, just being honest @CityOfLosAngeles guide me . . . and help @blackgirlscode they was meandering around @nasa-jpl @ajcnews @latimes
 
 ![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05073/opgs/edr/ncam/NLB_847853302EDR_F1252490NCAM00354M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05073/opgs/edr/ncam/NLB_847853302EDR_F1252490NCAM00354M_.JPG)
