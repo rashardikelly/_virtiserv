@@ -25,6 +25,8 @@ mathjax: true
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 // [Solid Steel Radio Show: Mixed by Coldcut, DJ Lazy, Strictly Kev (Dec 15, 2003)](https://youtu.be/ktZhRrH0bw0?list=RDktZhRrH0bw0) <~ @la-county-isd y'all too grown, just being honest @CityOfLosAngeles guide me . . . and help @blackgirlscode they was meandering around @nasa-jpl @ajcnews @latimes
 
+![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05073/opgs/edr/ncam/NLB_847853302EDR_F1252490NCAM00354M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05073/opgs/edr/ncam/NLB_847853302EDR_F1252490NCAM00354M_.JPG)
+
 ![https://mars.nasa.gov/msl-raw-images/msss/05073/mcam/5073ML1102670021307123E01_DXXX.jpg](https://mars.nasa.gov/msl-raw-images/msss/05073/mcam/5073ML1102670021307123E01_DXXX.jpg) 
 
 [mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=2&mission=msl](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=2&mission=msl) // @nasa-pds a few of the machines seem slow Escapade was beaming in at 8kb/ps yesterday [@ucberkeley eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html) @nasa-jpl I assume its space weather and I just hit a plateu and still figurions the ins and outs of forecasting @blackgirlscode hi @hulu
