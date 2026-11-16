@@ -24,7 +24,8 @@ mathjax: true
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
-
+@stateofcalifornia [EMIT_L1B_RAD_001_20260805T174736_2621712_004](https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4274912788-LPCLOUD&q=emit&sb[0]=-124.33524%2C40.63406%2C-124.1759%2C40.81635&lat=40.525989550000006&long=-124.06240507840374&zoom=8.760279117584957)
+<img alt="EMIT_L1B_RAD_001_20260805T174736_2621712_004" src="https://github.com/user-attachments/assets/21ce6f4c-ca72-40d0-8593-18738b660f2a" />
 
 `EMIT_L1B_RAD_001_20260212T211050_2604314_004` [search.earthdata.nasa.gov/search/granules?p=C2408009906-L2520147778](https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4025183393-LPCLOUD&q=emit&sb[0]=-122.59652%2C37.34006%2C-121.91713%2C38.03596&lat=36.9341431&long=-121.86110258943661&zoom=8.941702520147778)
 <img alt="EMIT_L1B_RAD_001_20260212T211050_2604314_004" src="https://github.com/user-attachments/assets/f10d5833-7a6b-4538-b882-b39b413de0da" />
