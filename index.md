@@ -24,6 +24,7 @@ mathjax: true
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
+[@nasa-jpl @cityoflosangeles @foratlanta https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/283423](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/283423) 
 ![https://studio.m-anage.com/img/agu/agu26/banner_1280x100.png](https://studio.m-anage.com/img/agu/agu26/banner_1280x100.png) 
 
 [Holly Mitchell @cityoflosangeles virtiserv.github.io/losangeles](https://virtiserv.github.io/losangeles)
