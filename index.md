@@ -24,7 +24,13 @@ mathjax: true
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
-[@nasa-jpl @cityoflosangeles @foratlanta https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/283423](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/283423) 
+
+
+`EMIT_L1B_RAD_001_20260212T211050_2604314_004` [search.earthdata.nasa.gov/search/granules?p=C2408009906-L2520147778](https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4025183393-LPCLOUD&q=emit&sb[0]=-122.59652%2C37.34006%2C-121.91713%2C38.03596&lat=36.9341431&long=-121.86110258943661&zoom=8.941702520147778)
+<img alt="EMIT_L1B_RAD_001_20260212T211050_2604314_004" src="https://github.com/user-attachments/assets/f10d5833-7a6b-4538-b882-b39b413de0da" />
+
+
+[@nasa-jpl @cityoflosangeles @foratlanta studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/283423](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/283423) 
 ![https://studio.m-anage.com/img/agu/agu26/banner_1280x100.png](https://studio.m-anage.com/img/agu/agu26/banner_1280x100.png) 
 
 [Holly Mitchell @cityoflosangeles virtiserv.github.io/losangeles](https://virtiserv.github.io/losangeles)
