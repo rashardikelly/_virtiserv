@@ -24,6 +24,19 @@ mathjax: true
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
+
+# Charleston 
+[@cityoflosangeles @nasa-jpl @nasa  charleston-sc.gov/](https://www.charleston-sc.gov/)
+@blackgirlscode hi 
+<img alt="EMIT_L1B_RAD_001_20260823T145440_2623510_009" src="https://github.com/user-attachments/assets/77b4e05e-5f5e-4a14-9302-d7b47f3c6a65" />
+
+[@newshour @latimes https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD&p002938141674935](https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&q=emit&circle[0]=-79.86006%2C32.79028%2C11929&fi=EMIT%20Imaging%20Spectrometer&lat=32.870834349999996&long=-79.7874920233568&zoom=9.002938141674935)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/457ca8d4-2b37-4268-a23f-d21c7f914acb" />
+
+**EMIT_L1B_RAD_001_20260813T210908_2622514_005** - 
+<img alt="EMIT_L1B_RAD_001_20260813T210908_2622514_005" src="https://github.com/user-attachments/assets/827eddd4-5d97-4998-8b9a-9cfb34281f41" />
+
 @stateofcalifornia [EMIT_L1B_RAD_001_20260805T174736_2621712_004](https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4274912788-LPCLOUD&q=emit&sb[0]=-124.33524%2C40.63406%2C-124.1759%2C40.81635&lat=40.525989550000006&long=-124.06240507840374&zoom=8.760279117584957)
 <img alt="EMIT_L1B_RAD_001_20260805T174736_2621712_004" src="https://github.com/user-attachments/assets/21ce6f4c-ca72-40d0-8593-18738b660f2a" />
 
