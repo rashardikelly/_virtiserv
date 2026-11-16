@@ -25,6 +25,16 @@ mathjax: true
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
 
+
+### LA River
+[@Cityoflosangeles https://www.tumblr.com/rashardkelly/833460022385278976/aviso-calval?source=share](https://www.tumblr.com/rashardkelly/833460022385278976/aviso-calval?source=share)
+[https://www.tumblr.com/rashardkelly/833460022385278976/aviso-calval?source=share](https://www.tumblr.com/rashardkelly/833460022385278976/aviso-calval?source=share) 
+
+<img  alt="tumblr_7da3aed37a614d266b2b227261d0ca48_314a603a_2048" src="https://github.com/user-attachments/assets/683730df-e9c7-4e58-afd6-d019c829a1e5" />
+
+## @rashardikelly @blackgirlscode Scalp Cond
+<img   alt=" @rashardikelly @blackgirlscode Scalp Cond @nasa @la-counttumblr_8d59c8a1650fe7a2fb170711630d1af5_6f39f580_2048" src="https://github.com/user-attachments/assets/813b02a6-bbd1-494c-85cd-250e3e922817" />
+
 # Charleston 
 [@cityoflosangeles @nasa-jpl @nasa  charleston-sc.gov/](https://www.charleston-sc.gov/)
 @blackgirlscode hi 
