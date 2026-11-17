@@ -29,6 +29,14 @@ mathjax: true
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
+
+
+# Flooding risk of Long Beach during an intense El Niño storm [@nasa-pds @blackgirlscode usgs.gov/media/images/flooding-risk-long-beach-during-intense-el-nino-storm](https://www.usgs.gov/media/images/flooding-risk-long-beach-during-intense-el-nino-storm)
+This is an older report , and I want to figure out changes
+![@la-county-isd @stateofcalifornia @nasa-jpl @USGS @CityOFLOSANGELES @LongbeachinnovationTeam](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/images/r2-Flooding-Long-Beach.jpg)
+This is an older report 
+
+
 // [Latto - GOMF (Lyrics) ft. GloRilla](https://youtu.be/CNw2DgQMC74?si=dtO4APkCLd1Ci1Tb) // [Fifth Harmony - Write On Me](https://youtu.be/7WuggM1WBiU?list=RD7WuggM1WBiU&t=12) // [Fifth Harmony - Work from Home (Official Video) ft. Ty Dolla $ign](https://youtu.be/5GL9JoH4Sws?list=RD5GL9JoH4Sws&t=15) // [Fifth Harmony - Worth It (Official Video) ft. Kid Ink](https://youtu.be/YBHQbu5rbdQ?list=RDYBHQbu5rbdQ&t=14) // [Katy Perry - Roar](https://youtu.be/CevxZvSJLk8?list=RDCevxZvSJLk8&t=9) // [Katy Perry - Dark Horse ft. Juicy J](https://youtu.be/0KSOMA3QBU0?list=RD0KSOMA3QBU0&t=24) // [Katy Perry - California Gurls   ft. Snoop Dogg](https://youtu.be/F57P9C4SAW4?list=RDF57P9C4SAW4&t=12) // [Katy Perry - E.T. ft. Kanye West ](https://youtu.be/t5Sd5c4o9UM?list=RDt5Sd5c4o9UM&t=10) // [Drake - Worst Behavior](https://youtu.be/U5pzmGX8Ztg?si=czSrDQfUHCsZpinZ) // [Ariana Grande ft. Nicki Minaj - Side To Side (Official Video) ft. Nicki Minaj](https://youtu.be/SXiSVQZLje8?si=b85hN6CTEQUqYkpj) // [Cold Gettin Dumb · Just-Ice](https://youtu.be/bqiZP-XY1mE?list=RDbqiZP-XY1mE&t=34)
 
  ## The MAXX (Complete YTV Run)
