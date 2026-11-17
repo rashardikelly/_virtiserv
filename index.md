@@ -33,7 +33,7 @@ mathjax: true
 
 [@foratlanta @cityoflosangeles @deptofwar @blackgirlscode officialfifthharmony.blogspot.com](http://officialfifthharmony.blogspot.com) /// [OLD GitHub repos from ThakaSartu era @blackgirlscode](https://archive.org/download/saa2-master)
 
-<img  alt="image" src=" @foratlanta @cityoflosangeles @deptofwar @blackgirlscode officialfifthharmony.blogspot.com](http://officialfifthharmony.blogspot.com) https://github.com/user-attachments/assets/af31dd70-ec01-4525-a1e2-ddfaf3de1bc3" />
+<img  alt="imag @foratlanta @cityoflosangeles @deptofwar @blackgirlscode officialfifthharmony.blogspot.com](http://officialfifthharmony.blogspot.com)" src="  https://github.com/user-attachments/assets/af31dd70-ec01-4525-a1e2-ddfaf3de1bc3" />
 
 ---
 #### [የምስጢረ ስላሴ እና የሰው ተፈጥሮ ትምህርት እና የተሃድሶ (በግ ለምድ) ዘመቻ በመምህር ዶ/ር ዘበነ ለማ (Memher Dr Zebene Lemma)](https://www.youtube.com/watch?v=9OWX9q-YJMY)
