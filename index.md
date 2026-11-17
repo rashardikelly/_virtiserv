@@ -30,7 +30,7 @@ mathjax: true
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
 
-
+@nasa-jpl I hope the newsroom got my Kodachrome scans @cbs-news-data I got lost in data this [Long Beach is on the 101](https://www.co.pacific.wa.us/flood-control/index.htm) and since this url for flood control says Washington in the url I'm afraid it might be north , I'll get back on after I eat - @rashardikelly  `https://www.co.pacific.wa.us/flood-control/index.htm` 
 #### Flooding risk of Long Beach during an intense El Niño storm [@nasa-pds @blackgirlscode usgs.gov/media/images/flooding-risk-long-beach-during-intense-el-nino-storm](https://www.usgs.gov/media/images/flooding-risk-long-beach-during-intense-el-nino-storm)
 
 ![https://www.co.pacific.wa.us/images/fcab.gif](https://www.co.pacific.wa.us/images/fcab.gif)
