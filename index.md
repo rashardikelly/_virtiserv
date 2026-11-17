@@ -29,6 +29,11 @@ mathjax: true
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
+# [የምስጢረ ስላሴ እና የሰው ተፈጥሮ ትምህርት እና የተሃድሶ (በግ ለምድ) ዘመቻ በመምህር ዶ/ር ዘበነ ለማ (Memher Dr Zebene Lemma)](https://www.youtube.com/watch?v=9OWX9q-YJMY)
+# የብራናገፅ #ትረካ መፅሐፈ ሔኖክ ኢትዮጵያዊ - ሙሉ ትረካ 
+## የብራናገፅ #ትረካ መፅሐፈ ሔኖክ ኢትዮጵያዊ - ሙሉ ትረካ 
+[The Book Of Enoch Ethiopian](https://www.youtube.com/watch?v=KIChceXNWE0)
+[Bible audio wisdom Jeshua son of Sirak from 1-25 መጽሓፍ ቅዱስ ብድምጺ፡ መጽሓፍ ጥበብ ኢያሱ ወዲ ሲራክ ካብ ምዕራፍ 1-25](https://www.youtube.com/watch?v=NCVnkQYeI9c)
 
 ![https://www.mrlc.gov/viewer/6427a73690600093556729dcb0a538fa.png](https://www.mrlc.gov/viewer/6427a73690600093556729dcb0a538fa.png) 
 
@@ -40,6 +45,41 @@ mathjax: true
 
 
 
+
+    <img  alt="@nbcnews @cbs-news-data @nfl clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf @blackgirlscode @nasa-pds @nasa-jpl @whitehouse" src="https://github.com/user-attachments/assets/9414c4fc-4049-4be4-a424-b0afdab9c7f7" />
+
+@nbcnews @cbs-news-data there needs to be public education on choosing sex partners, new emplyees need to read our constitution about [reproductive freedom](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%201.1.&article=I) to ensure they are not stopping girls from choosing a partner [2019 - pdf @stateofcalifornia](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) /// [Proposition 3, titled Constitutional Right to Marry](https://en.wikipedia.org/wiki/2024_California_Proposition_3)
+
+* California Constitution - CONS
+
+ARTICLE I DECLARATION OF RIGHTS [SECTION 1 - SEC. 32]  ( Article 1 adopted 1879. )
+  
+# SEC. 1.1.  
+The state shall not deny or interfere with an individual’s reproductive freedom in their most intimate decisions, which includes their fundamental right to choose to have an abortion and their fundamental right to choose or refuse contraceptives. This section is intended to further the constitutional right to privacy guaranteed by Section 1, and the constitutional right to not be denied equal protection guaranteed by Section 7. Nothing herein narrows or limits the right to privacy or equal protection.
+
+_(Sec. 1.1 added Nov. 8, 2022, by Prop. 1. Res.Ch. 97, 2022. Effective December 21, 2022.)_
+`_clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf#page=167_`
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9ae1ac86-71f5-4fe1-b140-54478d86b82e" />
+
+[clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf](https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf)
+<img alt="image" src="https://github.com/user-attachments/assets/6bfe2d63-b12f-4d9f-b6cc-16dffde18293" />
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://upload.wikimedia.org/wikipedia/en/4/42/Mulatto_%22Bitch_from_Da_Souf%22.png" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://images.genius.com/e340ddf6971616a68049fecc163ec30c.1000x1000x1.png" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+  </div>
+ </div>
 
 ```html
 <iframe src="https://archive.org/embed/msdos_Number_Munchers_1990" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
