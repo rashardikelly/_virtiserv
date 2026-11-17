@@ -8,7 +8,13 @@
     font-weight: normal;
     font-style: normal;
   }   
-
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@100..800&family=Red+Hat+Text:ital,wght@0,300..700;1,300..700&family=Ubuntu+Sans:ital,wght@0,100..800;1,100..800&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Martian+Mono:wght@100..800&display=swap");
+@font-face {
+  font-family: Cluster;
+  src: url(https://raw.githubusercontent.com/ThakaRashard/thakarashardOLD/master/assets/fonts/clusrg__.ttf);
+}
 @font-face {
     font-family: gogo-five;
     src: url(https://raw.githubusercontent.com/ThakaRashard/thakarashardOLD/master/_sass/GOGOFA__.TTF);
@@ -604,10 +610,12 @@ h2 {
    url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg) center repeat;
     color: white; 
   font-size: 30pt;
-  color: white;
+
   font-family: Cluster;
-  word-break: break-all; 
+  word-break: break-word; 
   width: 100%;
+
+  background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
 }
 
 
@@ -635,6 +643,7 @@ h6 {
   font-weight: 900;
   margin: 5px;
   padding: 5px;
+	
 
 }
 
@@ -656,6 +665,7 @@ h1 {
 h2 {
   font-size: 24px;
   color:white;
+font-family: Cluster;
 }
 
 h3, h4, h5, h6 {
