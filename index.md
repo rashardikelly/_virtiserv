@@ -24,7 +24,16 @@ mathjax: true
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
+
+
+[@CityOfLosAngeles @CityOfSnataMonica mrlc.gov/viewer/](https://www.mrlc.gov/viewer/) @ThirdDistrict@bos.lacounty.gov SuperVisor Lindsey @HollyJMitchell@bos.lacounty.gov im not done contact brianna.key@noaa.gov/EDMjira.inport@noaa.gov, or Rog from jpl rog@jpl.nasa.gov to schedule pics of the los angeles santa barbara county coast I have no idea how to get the images, u have to use a tiff converter to see the tiffs @Earthdata Support // @douglas.j.newman@nasa.gov @Small Business Programs Office@roc@jpl.nasa.gov   In front of Homeland Security, I saw one of @normani@fifthharmonyofficial.com girlfriends from the atlanta studio. She was a baddie so idk how much they talk bc the brownies are used for different purposes, its that ala cart in los angeles @Keisha for Governor, I think you been there, or at least supported friends, Governor Bottoms, have you ever been a vixen ? Im really disallusioned, u know @normani@fifthharmonyofficial.comis brandy. And you know what happened in hollywood, how can I heal @letschat@virtiserv.com @chloe.bailey@gmail.com [aviris.jpl.nasa.gov/ask/index.html](https://aviris.jpl.nasa.gov/ask/index.html) // [mrlc.gov/viewer/](https://www.mrlc.gov/viewer/)
+
+<img alt="image" src="https://github.com/user-attachments/assets/59d77a82-b83d-4867-b615-e132c2f6ab54" />
+
+
+```html
 <iframe src="https://archive.org/embed/msdos_Number_Munchers_1990" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+```
 
 ### LA River
 [@Cityoflosangeles https://www.tumblr.com/rashardkelly/833460022385278976/aviso-calval?source=share](https://www.tumblr.com/rashardkelly/833460022385278976/aviso-calval?source=share)
