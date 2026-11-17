@@ -18,7 +18,12 @@ mathjax: true
 </picture>
  
  
-[![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day) // Jekyll {{ jekyll.version }} // {{ "now" | date: "%Y-%m-%d %H:%M:%S" }}
+[![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day) // Jekyll {{ jekyll.version }} // {{ "now" | date: "%Y-%m-%d %H:%M:%S" }} // `jekyll.version`  {{ jekyll.version }} 
+{{ page.date | date: "%m/%d/%Y/%r" }}
+ {{ site.time | date: '%B %d, %Y' }}
+{{ site.time }}
+ {{ site.title | default: site.github.repository_name }}
+         
 
 
 # Currently Compling g_e, 
