@@ -23,7 +23,12 @@ layout: rt_leap
 
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
-
+`jekyll.version`  {{ jekyll.version }} 
+{{ page.date | date: "%m/%d/%Y/%r" }}
+ {{ site.time | date: '%B %d, %Y' }}
+{{ site.time }}
+ {{ site.title | default: site.github.repository_name }}
+         
 <div class="post-content">
   <h1>
     {{ page.title }}
