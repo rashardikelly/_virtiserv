@@ -33,7 +33,9 @@ mathjax: true
 
 [@foratlanta @cityoflosangeles @deptofwar @blackgirlscode officialfifthharmony.blogspot.com](http://officialfifthharmony.blogspot.com) /// [OLD GitHub repos from ThakaSartu era @blackgirlscode](https://archive.org/download/saa2-master)
 
-<img  alt="imag @foratlanta @cityoflosangeles @deptofwar @blackgirlscode officialfifthharmony.blogspot.com http://officialfifthharmony.blogspot.com" src=" https://github.com/user-attachments/assets/af31dd70-ec01-4525-a1e2-ddfaf3de1bc3" />
+![https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2oQQ2m5rS5bqAQ2UGbyXGryTrEZQn518o8MhIva3907jjiTn9fplWVPTtEHBwdqGl0xRn5clktWnxHCbamEeJTcxYEnOJTwiWSzodAwywZDfiuY05l7qqMQ6G05lVuCdF1WAAMZgVxuo/s640/NOEmotionalbum.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2oQQ2m5rS5bqAQ2UGbyXGryTrEZQn518o8MhIva3907jjiTn9fplWVPTtEHBwdqGl0xRn5clktWnxHCbamEeJTcxYEnOJTwiWSzodAwywZDfiuY05l7qqMQ6G05lVuCdF1WAAMZgVxuo/s640/NOEmotionalbum.jpg)
+
+<img  alt="imag" src=" https://github.com/user-attachments/assets/af31dd70-ec01-4525-a1e2-ddfaf3de1bc3" />
 
 ---
 #### [የምስጢረ ስላሴ እና የሰው ተፈጥሮ ትምህርት እና የተሃድሶ (በግ ለምድ) ዘመቻ በመምህር ዶ/ር ዘበነ ለማ (Memher Dr Zebene Lemma)](https://www.youtube.com/watch?v=9OWX9q-YJMY)
