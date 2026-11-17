@@ -29,13 +29,16 @@ mathjax: true
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
-// [Latto - GOMF (Lyrics) ft. GloRilla](https://youtu.be/CNw2DgQMC74?si=dtO4APkCLd1Ci1Tb) // [Fifth Harmony - Write On Me](https://youtu.be/7WuggM1WBiU?list=RD7WuggM1WBiU&t=12) // [Fifth Harmony - Work from Home (Official Video) ft. Ty Dolla $ign](https://youtu.be/5GL9JoH4Sws?list=RD5GL9JoH4Sws&t=15) // [Fifth Harmony - Worth It (Official Video) ft. Kid Ink](https://youtu.be/YBHQbu5rbdQ?list=RDYBHQbu5rbdQ&t=14) // [Katy Perry - Roar](https://youtu.be/CevxZvSJLk8?list=RDCevxZvSJLk8&t=9)
+// [Latto - GOMF (Lyrics) ft. GloRilla](https://youtu.be/CNw2DgQMC74?si=dtO4APkCLd1Ci1Tb) // [Fifth Harmony - Write On Me](https://youtu.be/7WuggM1WBiU?list=RD7WuggM1WBiU&t=12) // [Fifth Harmony - Work from Home (Official Video) ft. Ty Dolla $ign](https://youtu.be/5GL9JoH4Sws?list=RD5GL9JoH4Sws&t=15) // [Fifth Harmony - Worth It (Official Video) ft. Kid Ink](https://youtu.be/YBHQbu5rbdQ?list=RDYBHQbu5rbdQ&t=14) // [Katy Perry - Roar](https://youtu.be/CevxZvSJLk8?list=RDCevxZvSJLk8&t=9) // [Katy Perry - Dark Horse ft. Juicy J](https://youtu.be/0KSOMA3QBU0?list=RD0KSOMA3QBU0&t=24) // [Katy Perry - California Gurls   ft. Snoop Dogg](https://youtu.be/F57P9C4SAW4?list=RDF57P9C4SAW4&t=12) // [Katy Perry - E.T. ft. Kanye West ](https://youtu.be/t5Sd5c4o9UM?list=RDt5Sd5c4o9UM&t=10) // [Drake - Worst Behavior](https://youtu.be/U5pzmGX8Ztg?si=czSrDQfUHCsZpinZ) // [Ariana Grande ft. Nicki Minaj - Side To Side (Official Video) ft. Nicki Minaj](https://youtu.be/SXiSVQZLje8?si=b85hN6CTEQUqYkpj) // [Cold Gettin Dumb · Just-Ice](https://youtu.be/bqiZP-XY1mE?list=RDbqiZP-XY1mE&t=34)
 
 [@foratlanta @cityoflosangeles @deptofwar @blackgirlscode officialfifthharmony.blogspot.com](http://officialfifthharmony.blogspot.com) /// [OLD GitHub repos from ThakaSartu era @blackgirlscode](https://archive.org/download/saa2-master)
 
 ![https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2oQQ2m5rS5bqAQ2UGbyXGryTrEZQn518o8MhIva3907jjiTn9fplWVPTtEHBwdqGl0xRn5clktWnxHCbamEeJTcxYEnOJTwiWSzodAwywZDfiuY05l7qqMQ6G05lVuCdF1WAAMZgVxuo/s640/NOEmotionalbum.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2oQQ2m5rS5bqAQ2UGbyXGryTrEZQn518o8MhIva3907jjiTn9fplWVPTtEHBwdqGl0xRn5clktWnxHCbamEeJTcxYEnOJTwiWSzodAwywZDfiuY05l7qqMQ6G05lVuCdF1WAAMZgVxuo/s640/NOEmotionalbum.jpg)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/49439c24-8f0a-46ee-b6da-9166d1900cca" />
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/979f502d-b662-42e5-aabb-38c59f8c59df" />
 
 ---
 #### [የምስጢረ ስላሴ እና የሰው ተፈጥሮ ትምህርት እና የተሃድሶ (በግ ለምድ) ዘመቻ በመምህር ዶ/ር ዘበነ ለማ (Memher Dr Zebene Lemma)](https://www.youtube.com/watch?v=9OWX9q-YJMY)
