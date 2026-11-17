@@ -30,6 +30,21 @@ mathjax: true
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
 
+![https://www.nih.gov/themes/custom/nih2_uswds/assets/img/nih-logo.png](https://www.nih.gov/themes/custom/nih2_uswds/assets/img/nih-logo.png) 
+
+
+
+
+[60 Minutes Havana Syndrome report finds U.S. government tested energy weapon @cbs-news-data @disney](https://www.cbsnews.com/news/60-minutes-havana-syndrome-report-finds-u-s-government-tested-energy-weapon/) // [Havana Syndrome—Americans Affected by Mysterious ...](https://www.gao.gov/blog/havana-syndrome-americans-affected-mysterious-symptoms-may-struggle-get-care)
+[“Havana Syndrome”: A post mortem](https://pmc.ncbi.nlm.nih.gov/articles/PMC10913303/) // [A decade ago, U.S. personnel in Havana, Cuba, began to suffer mysterious symptoms — piercing head pressure, dizziness, nausea, loss of balance and](https://www.facebook.com/newshour/videos/a-decade-ago-us-personnel-in-havana-cuba-began-to-suffer-mysterious-symptoms-pie/1117463634310951/) // [NIH studies find severe symptoms of “Havana Syndrome,” but no evidence of MRI-detectable brain injury or biological abnormalities](https://www.nih.gov/news-events/news-releases/nih-studies-find-severe-symptoms-havana-syndrome-no-evidence-mri-detectable-brain-injury-or-biological-abnormalities) // [Pentagon bought device through undercover operation some investigators suspect is linked to Havana Syndrome](https://www.cnn.com/2026/01/13/politics/havana-syndrome-device-pentagon-hsi)
+// [Sonic Scares: Havana Syndrome - mcpress.mayoclinic.org](https://mcpress.mayoclinic.org/research-innovation/sonic-scares-havana-syndrome/) // @nbcnews @ktla
+
+<img alt="tumblr_bcbdef2f9679a6e47915bf879133aae1_ea599c3b_1280" src="https://github.com/user-attachments/assets/c94ef4ab-f67d-4b9e-a129-c7d7fbeafdf2" />
+
+![https://www.gao.gov/themes/custom/gao_uswds/dist/gao-img/GAO-logo.png](https://www.gao.gov/themes/custom/gao_uswds/dist/gao-img/GAO-logo.png)
+
+<img alt="tumblr_beb910d4cb21af3e424c13ed4d52db00_9815a29c_1280" src="https://github.com/user-attachments/assets/3ddbc6ab-0155-4820-ab90-74d716f9f509" />
+
 @nasa-jpl I hope the newsroom got my Kodachrome scans @cbs-news-data I got lost in data this [Long Beach is on the 101](https://www.co.pacific.wa.us/flood-control/index.htm) and since this url for flood control says Washington in the url I'm afraid it might be north , I'll get back on after I eat - @rashardikelly  `https://www.co.pacific.wa.us/flood-control/index.htm` 
 #### Flooding risk of Long Beach during an intense El Niño storm [@nasa-pds @blackgirlscode usgs.gov/media/images/flooding-risk-long-beach-during-intense-el-nino-storm](https://www.usgs.gov/media/images/flooding-risk-long-beach-during-intense-el-nino-storm)
 
