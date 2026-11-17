@@ -30,15 +30,22 @@ mathjax: true
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
 
+![https://www.mrlc.gov/viewer/6427a73690600093556729dcb0a538fa.png](https://www.mrlc.gov/viewer/6427a73690600093556729dcb0a538fa.png) 
 
-[@CityOfLosAngeles @CityOfSnataMonica mrlc.gov/viewer/](https://www.mrlc.gov/viewer/) @ThirdDistrict@bos.lacounty.gov SuperVisor Lindsey @HollyJMitchell@bos.lacounty.gov im not done contact brianna.key@noaa.gov/EDMjira.inport@noaa.gov, or Rog from jpl rog@jpl.nasa.gov to schedule pics of the los angeles santa barbara county coast I have no idea how to get the images, u have to use a tiff converter to see the tiffs @Earthdata Support // @douglas.j.newman@nasa.gov @Small Business Programs Office@roc@jpl.nasa.gov   In front of Homeland Security, I saw one of @normani@fifthharmonyofficial.com girlfriends from the atlanta studio. She was a baddie so idk how much they talk bc the brownies are used for different purposes, its that ala cart in los angeles @Keisha for Governor, I think you been there, or at least supported friends, Governor Bottoms, have you ever been a vixen ? Im really disallusioned, u know @normani@fifthharmonyofficial.comis brandy. And you know what happened in hollywood, how can I heal @letschat@virtiserv.com @chloe.bailey@gmail.com [aviris.jpl.nasa.gov/ask/index.html](https://aviris.jpl.nasa.gov/ask/index.html) // [mrlc.gov/viewer/](https://www.mrlc.gov/viewer/)
-
+[@CityOfLosAngeles @CityOfSnataMonica mrlc.gov/viewer/](https://www.mrlc.gov/viewer/) @ThirdDistrict@bos.lacounty.gov SuperVisor Lindsey @HollyJMitchell@bos.lacounty.gov im not done contact brianna.key@noaa.gov/EDMjira.inport@noaa.gov, or Rog from jpl rog@jpl.nasa.gov to schedule pics of the los angeles santa barbara county coast I have no idea how to get the images, u have to [use a tiff converter](http://online-convert.com/result#j=150eb3e8-0dfe-46a7-a0cd-e0bb45729aae) to see the tiffs @Earthdata Support // @douglas.j.newman@nasa.gov @Small Business Programs Office@roc@jpl.nasa.gov   In front of Homeland Security, I saw one of @normani@fifthharmonyofficial.com girlfriends from the atlanta studio. She was a baddie so idk how much they talk bc the brownies are used for different purposes, its that ala cart in los angeles [@Keisha for Governor @ForAtlanta @ajcnews ](https://www.keishaforgovernor.com/bio), I think you been there, or at least supported friends, Governor Bottoms, have you ever been a vixen ? Im really disallusioned, u know @normani@fifthharmonyofficial.comis brandy. And you know what happened in hollywood, how can I heal @letschat@virtiserv.com @chloe.bailey@gmail.com [aviris.jpl.nasa.gov/ask/index.html @eosdis-nasa](https://aviris.jpl.nasa.gov/ask/index.html) // [mrlc.gov/viewer/](https://www.mrlc.gov/viewer/) // [nesdis.noaa.gov/imagery/satellite-maps/earth-real-time](https://www.nesdis.noaa.gov/imagery/satellite-maps/earth-real-time)
+[@la-county-isd coast.noaa.gov/digitalcoast/data/ @CityOfLosAngeles _Lindsey Horavath_](https://coast.noaa.gov/digitalcoast/data/)
 <img alt="image" src="https://github.com/user-attachments/assets/59d77a82-b83d-4867-b615-e132c2f6ab54" />
+
+![https://static.wixstatic.com/media/4ed5f_edited.png](https://static.wixstatic.com/media/4ed5f3_3f4a40efcfc5421f9622821e30043279~mv2.png/v1/fill/w_679,h_323,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/042_LindseyHorvath_LG_LR_V1_edited.png)
+
+
 
 
 ```html
 <iframe src="https://archive.org/embed/msdos_Number_Munchers_1990" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 ```
+
+![https://www.hollyjmitchell.com/_next/image?url=https%3A%2F%2Fmedia.designedtorun.com%2F5a7f31fb-4ca3-458b-86e1-c9a2c104048b%2FHolly_Mitchell-logo_designs_RE-ELECT-r0-14---runcbt%3A%3A0%2Ccbl%3A%3A140.71361502347418%2Ccbw%3A%3A406.57276995305165%2Ccbh%3A%3A300%2Cd%3A%3A1676042294918%2Co%3A%3Ahttps%3A--slash----slash--media.designedtorun.com--slash--5a7f31fb-4ca3-458b-86e1-c9a2c104048b--slash--1676042293913-Holly_Mitchell-logo_designs_RE-ELECT-r0-14-.pngrun--.png&w=384&q=75](https://www.hollyjmitchell.com/_next/image?url=https%3A%2F%2Fmedia.designedtorun.com%2F5a7f31fb-4ca3-458b-86e1-c9a2c104048b%2FHolly_Mitchell-logo_designs_RE-ELECT-r0-14---runcbt%3A%3A0%2Ccbl%3A%3A140.71361502347418%2Ccbw%3A%3A406.57276995305165%2Ccbh%3A%3A300%2Cd%3A%3A1676042294918%2Co%3A%3Ahttps%3A--slash----slash--media.designedtorun.com--slash--5a7f31fb-4ca3-458b-86e1-c9a2c104048b--slash--1676042293913-Holly_Mitchell-logo_designs_RE-ELECT-r0-14-.pngrun--.png&w=384&q=75)
 
 ### LA River
 [@Cityoflosangeles https://www.tumblr.com/rashardkelly/833460022385278976/aviso-calval?source=share](https://www.tumblr.com/rashardkelly/833460022385278976/aviso-calval?source=share)
