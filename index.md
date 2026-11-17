@@ -35,7 +35,7 @@ mathjax: true
 
 ![https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2oQQ2m5rS5bqAQ2UGbyXGryTrEZQn518o8MhIva3907jjiTn9fplWVPTtEHBwdqGl0xRn5clktWnxHCbamEeJTcxYEnOJTwiWSzodAwywZDfiuY05l7qqMQ6G05lVuCdF1WAAMZgVxuo/s640/NOEmotionalbum.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2oQQ2m5rS5bqAQ2UGbyXGryTrEZQn518o8MhIva3907jjiTn9fplWVPTtEHBwdqGl0xRn5clktWnxHCbamEeJTcxYEnOJTwiWSzodAwywZDfiuY05l7qqMQ6G05lVuCdF1WAAMZgVxuo/s640/NOEmotionalbum.jpg)
 
-<img  alt="imag" src=" https://github.com/user-attachments/assets/af31dd70-ec01-4525-a1e2-ddfaf3de1bc3" />
+<img  alt="image" src="https://github.com/user-attachments/assets/49439c24-8f0a-46ee-b6da-9166d1900cca" />
 
 ---
 #### [የምስጢረ ስላሴ እና የሰው ተፈጥሮ ትምህርት እና የተሃድሶ (በግ ለምድ) ዘመቻ በመምህር ዶ/ር ዘበነ ለማ (Memher Dr Zebene Lemma)](https://www.youtube.com/watch?v=9OWX9q-YJMY)
