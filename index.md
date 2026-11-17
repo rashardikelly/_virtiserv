@@ -29,6 +29,7 @@ mathjax: true
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
+\\ [Eric Burdon - The Vision Of Rassan @hulu](https://youtu.be/14iUJFTmWJE?t=18)
 
 ![https://www.nih.gov/themes/custom/nih2_uswds/assets/img/nih-logo.png](https://www.nih.gov/themes/custom/nih2_uswds/assets/img/nih-logo.png) 
 
@@ -62,6 +63,8 @@ This is an older report [The Long Beach Peninsula separates Alamitos Bay from th
 ![https://www.longbeach.gov/globalassets/park/development-assets/prmlogo.png](https://www.longbeach.gov/globalassets/park/development-assets/prmlogo.png)
 
 // [Latto - GOMF (Lyrics) ft. GloRilla](https://youtu.be/CNw2DgQMC74?si=dtO4APkCLd1Ci1Tb) // [Fifth Harmony - Write On Me](https://youtu.be/7WuggM1WBiU?list=RD7WuggM1WBiU&t=12) // [Fifth Harmony - Work from Home (Official Video) ft. Ty Dolla $ign](https://youtu.be/5GL9JoH4Sws?list=RD5GL9JoH4Sws&t=15) // [Fifth Harmony - Worth It (Official Video) ft. Kid Ink](https://youtu.be/YBHQbu5rbdQ?list=RDYBHQbu5rbdQ&t=14) // [Katy Perry - Roar](https://youtu.be/CevxZvSJLk8?list=RDCevxZvSJLk8&t=9) // [Katy Perry - Dark Horse ft. Juicy J](https://youtu.be/0KSOMA3QBU0?list=RD0KSOMA3QBU0&t=24) // [Katy Perry - California Gurls   ft. Snoop Dogg](https://youtu.be/F57P9C4SAW4?list=RDF57P9C4SAW4&t=12) // [Katy Perry - E.T. ft. Kanye West ](https://youtu.be/t5Sd5c4o9UM?list=RDt5Sd5c4o9UM&t=10) // [Drake - Worst Behavior](https://youtu.be/U5pzmGX8Ztg?si=czSrDQfUHCsZpinZ) // [Ariana Grande ft. Nicki Minaj - Side To Side (Official Video) ft. Nicki Minaj](https://youtu.be/SXiSVQZLje8?si=b85hN6CTEQUqYkpj) // [Cold Gettin Dumb · Just-Ice](https://youtu.be/bqiZP-XY1mE?list=RDbqiZP-XY1mE&t=34)
+
+<img alt="tumblr_e121e0cff6327799d2e2e11147d2338f_860ea676_1280" src="https://github.com/user-attachments/assets/25cefb4e-6613-487e-8ad9-497ed2f377b0" />
 
  ## The MAXX (Complete YTV Run)
 <iframe src="https://archive.org/embed/the-maxx-complete-ytv-run" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
