@@ -42,7 +42,11 @@
 
 <section class="floatleft ">
   
-
+`jekyll.version`  {{ jekyll.version }} 
+{{ page.date | date: "%m/%d/%Y/%r" }}
+ {{ site.time | date: '%B %d, %Y' }}
+{{ site.time }}
+ {{ site.title | default: site.github.repository_name }}
          
         {{ content }}
 
