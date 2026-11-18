@@ -33,6 +33,10 @@ mathjax: true
 
 ---
 
+![https://upload.wikimedia.org/wikipedia/commons/9/9d/SpaceX_CRS-35_Patch.png](https://upload.wikimedia.org/wikipedia/commons/9/9d/SpaceX_CRS-35_Patch.png)
+
+![https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg](https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg)
+
 [@cityoflosangeles .spacex.com/launches/crs35](https://www.spacex.com/launches/crs35)
 
 ![https://www.nesdis.noaa.gov/s3/styles/webp/s3/migrated/DSCOVR-Logo_NOAA_NASA_USAF.png.webp](https://www.nesdis.noaa.gov/s3/styles/webp/s3/migrated/DSCOVR-Logo_NOAA_NASA_USAF.png.webp)
