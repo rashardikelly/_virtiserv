@@ -65,6 +65,7 @@ The PowerEdge R9815 delivers up to 256 cores with flagship 6th Gen AMD EPYC 9006
 [@blackgirlscode @hulu @deptofwar rashardkelly.tumblr.com/post/833574247487160320/nintendo-brandybrandybrandy-its-a-little](https://rashardkelly.tumblr.com/post/833574247487160320/nintendo-brandybrandybrandy-its-a-little)
 <img  alt="image" src="https://github.com/user-attachments/assets/431fea06-ef16-4824-a879-c1d35f6d406d" />
 
+![https://i.dell.com/assetlink/img/global/bulkshoot-woman-working-from-data-center-2266x1536-dl12w4h1-original.png @whitehouse @deptofwar @blackgirlscode @cityoflosangeles](https://i.dell.com/assetlink/img/global/bulkshoot-woman-working-from-data-center-2266x1536-dl12w4h1-original.png)
 ![https://assets.motorola.com/global/nevada/motorola_moto_g_play_2026_pdp_camera_02_d_.jpg](https://assets.motorola.com/global/nevada/motorola_moto_g_play_2026_pdp_camera_02_d_.jpg) 
 
 
