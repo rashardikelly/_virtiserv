@@ -33,7 +33,24 @@ mathjax: true
 
 ---
 
-![hi @nasa insight running ehkl 8, like that's some scary shit to leave it up there talking about the mission over](https://sso.redhat.com/auth/resources/79aa9/account/my-account/logo.svg)
+
+
+<iframe src="https://abcnews.com/video/embed?id=abc_live11" width="640" height="360" allow="encrypted-media" allowFullScreen frameBorder="0"></iframe>
+
+## LA CITYVIEW TV
+[`WATCH` - https://lacity.gov/tv](https://lacity.gov/tv)
+@CityOFLosAngeles The City of Los Angeles’ official TV channel. We broadcast live City Council meetings, government meetings, and press conferences, while also producing original stories about the communities and neighborhoods that shape Los Angeles. Watch us online or on cable channel 35.
+
+![https://lacity.gov/sites/g/files/wph2451/themes/site/logo.svg](https://lacity.gov/sites/g/files/wph2451/themes/site/logo.svg)
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/a0afca12-e5f6-4e07-8a4c-e0c7786a45f7" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/0a50d92a-89f3-4d32-b3b2-7a9dd4e4ff0a" />
+
+
+![hi @nasa insight running ehkl 8, like that's some scary shit to leave it up there talking about the mission over @nasa-jpl @nasa-pds @doug-newmna-nasa](https://sso.redhat.com/auth/resources/79aa9/account/my-account/logo.svg)
 
 <img alt="image" src="https://github.com/user-attachments/assets/dbca6855-74eb-458e-af10-31a061ca9d06" />
 
