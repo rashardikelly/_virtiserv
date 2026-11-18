@@ -33,10 +33,16 @@ mathjax: true
 
 ---
 
-
+# CRS-35 Mission 
 ## NAsA spaceX CRS-35 Cargo spacecraft Undocking from spacestation
 [`WATCH` - https://www.youtube.com/live/-EgvXNis4rQ?si=ECdOqrER02m9TV4U](https://www.youtube.com/live/-EgvXNis4rQ?si=ECdOqrER02m9TV4U) SpaceX’s Dragon spacecraft supporting the 35th Commercial Resupply Services (CRS-35) mission is set to undock the International Space Station no earlier than Friday, November 20 at 12:05 p.m. ET and return to Earth ahead of splashing down off the coast of [@StateOfCalifornia. @ajcnews @newshour @nbcnews @hulu @netflix @github](https://www.wearebgc.org/BGC%20Logo%2004%20v1.mp4) [@blackgirlscode](https://www.wearebgc.org/)
 @nasa-jpl hi I hope someone got my emails about [longbeach.org](https://web.archive.org/web/20130901000000*/www.longbeach.org) + [Longbeach.gov](https://www.longbeach.gov/lgb/)
+
+
+[spaceexplorationtechnologies.com/](https://spaceexplorationtechnologies.com/) // [spacex.com/launches/crs35](https://www.spacex.com/launches/crs35) @cbs-news-data 
+<img  alt="image" src="https://github.com/user-attachments/assets/8f7bac3d-29b0-47e5-89d3-0d652a19f5bc" />
+
+
 
 ![https://www.longbeach.gov/globalassets/lgb/development-assets/logovertical92.png](https://www.longbeach.gov/globalassets/lgb/development-assets/logovertical92.png) 
 
