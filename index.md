@@ -37,9 +37,15 @@ mathjax: true
 
 <iframe src="https://abcnews.com/video/embed?id=abc_live11" width="640" height="360" allow="encrypted-media" allowFullScreen frameBorder="0"></iframe>
 
+
 ## LA CITYVIEW TV
 [`WATCH` - https://lacity.gov/tv](https://lacity.gov/tv)
-@CityOFLosAngeles The City of Los Angeles’ official TV channel. We broadcast live City Council meetings, government meetings, and press conferences, while also producing original stories about the communities and neighborhoods that shape Los Angeles. Watch us online or on cable channel 35. / / / @nasa-jpl @doug-newman-nasa @eosdis-nasa . . . @longbeachinnovationteam might need some help with the local TV `Long Beach, CA Video Archive / Login / Powered by` [Swagit](https://granicus.com/product/video-swagit-partially-and-fully-managed-video-solutions/ <~ a lot of young locals were managing neglected infrastructure staffing wise and when the party was over had to go back home, @blackgirlscode just another California summer
+@CityOFLosAngeles The City of Los Angeles’ official TV channel. We broadcast live City Council meetings, government meetings, and press conferences, while also producing original stories about the communities and neighborhoods that shape Los Angeles. Watch us online or on cable channel 35. / / / @nasa-jpl @doug-newman-nasa @eosdis-nasa . . . @longbeachinnovationteam might need some help with the local TV `Long Beach, CA Video Archive / Login / Powered by` [Swagit](https://granicus.com/product/video-swagit-partially-and-fully-managed-video-solutions/) <~ a lot of young locals were managing neglected infrastructure staffing wise and when the party was over had to go back home, @blackgirlscode just another California summer
+
+[`WATCH` - longbeach.gov/lbtv/](https://www.longbeach.gov/lbtv/)
+<img  alt="image" src="https://github.com/user-attachments/assets/a453fa8b-87ad-4926-9da3-02310a7eb735" />
+
+![https://www.longbeach.gov/globalassets/lbtv/development-assets/lbtvlogo.jpg](https://www.longbeach.gov/globalassets/lbtv/development-assets/lbtvlogo.jpg)
 
 ![https://lacity.gov/sites/g/files/wph2451/themes/site/logo.svg](https://lacity.gov/sites/g/files/wph2451/themes/site/logo.svg)
 
