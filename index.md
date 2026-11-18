@@ -33,12 +33,17 @@ mathjax: true
 
 ---
 
+[`WATCH` - Jensen Huang & George Kurian, NVIDIA & NetApp - Revolutionary AI products](https://youtu.be/55Wz2C6Di2k?t=193)
+![https://static.netapp.com/v3/assets/blt8710a579a77cafed/bltd25bbe3528af81cc/69fdca6e92f2b86d8d1a83da/AFX-tech-spec-table_tcm19-146029.avif](https://static.netapp.com/v3/assets/blt8710a579a77cafed/bltd25bbe3528af81cc/69fdca6e92f2b86d8d1a83da/AFX-tech-spec-table_tcm19-146029.avif) 
+
 
 ## PowerEdge R9815
 Flagship single-socket performance, on air, on your terms
 The PowerEdge R9815 delivers up to 256 cores with flagship 6th Gen AMD EPYC 9006 SP7 performance in a new efficient air-cooled design.
 ![@nasa-jpl what happens to that netapp I was promised  I would have access to ? @nasa-pds @Cityoflosangeles](https://i.dell.com/assetlink/img/global/server-dell-r9815-lf-gallery-2-dl12t5zq-large.png)
 ![https://i.dell.com/assetlink/img/global/server-dell-r9815-off-gallery-4-dl12t5zp-large.png @isro @gatech](https://i.dell.com/assetlink/img/global/server-dell-r9815-off-gallery-4-dl12t5zp-large.png) 
+
+![https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/geforce-rtx-graphics-cards/geforce-rtx-2080-stylized-photography-001-850px.png](https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/geforce-rtx-graphics-cards/geforce-rtx-2080-stylized-photography-001-850px.png) 
 
 ![https://www.netapp.com/media/cardband-2-bluexp-cloud-backup_tcm19-124928.jpg](https://www.netapp.com/media/cardband-2-bluexp-cloud-backup_tcm19-124928.jpg) 
 
