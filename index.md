@@ -33,6 +33,10 @@ mathjax: true
 
 ---
 
+![hi @nasa insight running ehkl 8, like that's some scary shit to leave it up there talking about the mission over](https://sso.redhat.com/auth/resources/79aa9/account/my-account/logo.svg)
+
+<img alt="image" src="https://github.com/user-attachments/assets/dbca6855-74eb-458e-af10-31a061ca9d06" />
+
 [`WATCH` - Jensen Huang & George Kurian, NVIDIA & NetApp - Revolutionary AI products](https://youtu.be/55Wz2C6Di2k?t=193)
 
 ![https://static.netapp.com/v3/assets/blt8710a579a77cafed/bltf5d51f329dbb9343/6a90adaed62e118532e36899/hero-afx.jpg](https://static.netapp.com/v3/assets/blt8710a579a77cafed/bltf5d51f329dbb9343/6a90adaed62e118532e36899/hero-afx.jpg)
