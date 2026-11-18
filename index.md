@@ -36,6 +36,7 @@ mathjax: true
 [`WATCH` - Jensen Huang & George Kurian, NVIDIA & NetApp - Revolutionary AI products](https://youtu.be/55Wz2C6Di2k?t=193)
 ![https://static.netapp.com/v3/assets/blt8710a579a77cafed/bltd25bbe3528af81cc/69fdca6e92f2b86d8d1a83da/AFX-tech-spec-table_tcm19-146029.avif](https://static.netapp.com/v3/assets/blt8710a579a77cafed/bltd25bbe3528af81cc/69fdca6e92f2b86d8d1a83da/AFX-tech-spec-table_tcm19-146029.avif) 
 
+![https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/geforce-rtx-graphics-cards/geforce-rtx-2080-technical-photography-vapor-chamber-and-finstack-002-850px.png](https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/geforce-rtx-graphics-cards/geforce-rtx-2080-technical-photography-vapor-chamber-and-finstack-002-850px.png)
 
 ## PowerEdge R9815
 Flagship single-socket performance, on air, on your terms
