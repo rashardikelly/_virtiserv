@@ -32,8 +32,15 @@ mathjax: true
 \\ [Eric Burdon - The Vision Of Rassan @hulu](https://youtu.be/14iUJFTmWJE?t=18)
 
 ---
+
+![https://www.metrobyt-mobile.com/content/dam/digx/metro/us/en/branding/logos/corporate/metro-d-light-2022.svg](https://www.metrobyt-mobile.com/content/dam/digx/metro/us/en/branding/logos/corporate/metro-d-light-2022.svg) 
+
 ![https://s7d1.scene7.com/is/content/dish/Boost _ Mobile?ts=1754525389797&fmt=png-alpha&dpr=off](https://s7d1.scene7.com/is/content/dish/Boost _ Mobile?ts=1754525389797&fmt=png-alpha&dpr=off)
-[https://s7d1.scene7.com/is/content/dish/Boost](https://s7d1.scene7.com/is/content/dish/Boost)
+
+![https://www.mediatek.com/hubfs/MediaTek%20Assets/Images/ChipSets/Dimensity_6300%20chipset.png](https://www.mediatek.com/hubfs/MediaTek%20Assets/Images/ChipSets/Dimensity_6300%20chipset.png) 
+
+[@nasa-pds mediatek.com/products/smartphones/mediatek-dimensity-6300 @podaac](https://www.mediatek.com/products/smartphones/mediatek-dimensity-6300)
+[motorola.com/us/en/p/phones/moto-g/moto-g-play-2026/pmipmja42mq?pn=PB9H0004US](https://www.motorola.com/us/en/p/phones/moto-g/moto-g-play-2026/pmipmja42mq?pn=PB9H0004US)
 
 [https://www.boostmobile.com/shop/moto-g-play-002722.html](https://www.boostmobile.com/shop/moto-g-play-002722.html)
 ![https://s7d1.scene7.com/is/image/dish/motogplay_Hero?$productHero$&fmt=webp-alpha](https://s7d1.scene7.com/is/image/dish/motogplay_Hero?$productHero$&fmt=webp-alpha)
