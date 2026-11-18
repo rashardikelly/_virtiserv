@@ -33,11 +33,19 @@ mathjax: true
 
 ---
 
+
+
+# latrice ? @nasa-jpl I'm trying 
+![https://assets.motorola.com/global/nevada/motorola_moto_g_play_2026_pdp_camera_02_d_.jpg](https://assets.motorola.com/global/nevada/motorola_moto_g_play_2026_pdp_camera_02_d_.jpg) 
+
+
 ![https://www.metrobyt-mobile.com/content/dam/digx/metro/us/en/branding/logos/corporate/metro-d-light-2022.svg](https://www.metrobyt-mobile.com/content/dam/digx/metro/us/en/branding/logos/corporate/metro-d-light-2022.svg) 
 
 ![https://s7d1.scene7.com/is/content/dish/Boost _ Mobile?ts=1754525389797&fmt=png-alpha&dpr=off](https://s7d1.scene7.com/is/content/dish/Boost _ Mobile?ts=1754525389797&fmt=png-alpha&dpr=off)
 
 ![https://www.mediatek.com/hubfs/MediaTek%20Assets/Images/ChipSets/Dimensity_6300%20chipset.png](https://www.mediatek.com/hubfs/MediaTek%20Assets/Images/ChipSets/Dimensity_6300%20chipset.png) 
+
+[https://nanoreview.net/en/soc/mediatek-dimensity-6300](https://nanoreview.net/en/soc/mediatek-dimensity-6300)
 
 [@nasa-pds mediatek.com/products/smartphones/mediatek-dimensity-6300 @podaac](https://www.mediatek.com/products/smartphones/mediatek-dimensity-6300)
 [motorola.com/us/en/p/phones/moto-g/moto-g-play-2026/pmipmja42mq?pn=PB9H0004US](https://www.motorola.com/us/en/p/phones/moto-g/moto-g-play-2026/pmipmja42mq?pn=PB9H0004US)
