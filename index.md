@@ -34,6 +34,11 @@ mathjax: true
 ---
 
 # CRS-35 Mission 
+## @NAsA to Cover 35th spaceX Resupply Mission spacestation Departure
+[`READ` @cbs-news-data @newshour @ajcnews https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/ @nasa-pds](https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1aa9e627-323e-486b-807f-5ee37d09aa4e" />
+
 ## NAsA spaceX CRS-35 Cargo spacecraft Undocking from spacestation
 [`WATCH` - https://www.youtube.com/live/-EgvXNis4rQ?si=ECdOqrER02m9TV4U](https://www.youtube.com/live/-EgvXNis4rQ?si=ECdOqrER02m9TV4U) SpaceX’s Dragon spacecraft supporting the 35th Commercial Resupply Services (CRS-35) mission is set to undock the International Space Station no earlier than Friday, November 20 at 12:05 p.m. ET and return to Earth ahead of splashing down off the coast of [@StateOfCalifornia. @ajcnews @newshour @nbcnews @hulu @netflix @github](https://www.wearebgc.org/BGC%20Logo%2004%20v1.mp4) [@blackgirlscode](https://www.wearebgc.org/)
 @nasa-jpl hi I hope someone got my emails about [longbeach.org](https://web.archive.org/web/20130901000000*/www.longbeach.org) + [Longbeach.gov](https://www.longbeach.gov/lgb/)
