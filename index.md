@@ -39,7 +39,10 @@ mathjax: true
 
 ![@NBCNEWS CAN U FWD TO ADAM AT @ABCNEWS IN CALIFORNIA ? @CBS-NEWS-DATA](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/DayNightCloudMicroCombo/GOES18-CONUS-DayNightCloudMicroCombo-625x375.gif)
 
-## LA CITYVIEW TV
+<img  alt="image" src="https://github.com/user-attachments/assets/6762531c-3e11-466f-8309-12de75aa637b" />
+
+
+## LA CITYVIEW TV [@CITYOFLOSANGELES @LIBRETRO](https://archive.org/download/ultimate-rom-collection/Sony%20-%20PS1/Future%20Cop%20-%20L.A.P.D.%20%28USA%29.chd) + [.M3U](https://archive.org/download/ultimate-rom-collection/Sony%20-%20PS1/Future%20Cop%20-%20L.A.P.D.%20%28USA%29.m3u)
 [`WATCH` - https://lacity.gov/tv](https://lacity.gov/tv)
 @CityOFLosAngeles The City of Los Angeles’ official TV channel. We broadcast live City Council meetings, government meetings, and press conferences, while also producing original stories about the communities and neighborhoods that shape Los Angeles. Watch us online or on cable channel 35. / / / @nasa-jpl @doug-newman-nasa @eosdis-nasa . . . @longbeachinnovationteam might need some help with the local TV `Long Beach, CA Video Archive / Login / Powered by` [Swagit](https://granicus.com/product/video-swagit-partially-and-fully-managed-video-solutions/) <~ a lot of young locals were managing neglected infrastructure staffing wise and when the party was over had to go back home, @blackgirlscode just another California summer [@NASA-jpl ASK @AJCNEWS `MEANING` Future - Life Is Good (Official Music Video) ft. Drake @LA-COUNTY-ISD](https://youtu.be/l0U7SxXHkPY?t=119)
 
