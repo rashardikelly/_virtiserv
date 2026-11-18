@@ -66,6 +66,10 @@ mathjax: true
 
 ![https://static.netapp.com/v3/assets/blt8710a579a77cafed/bltf5d51f329dbb9343/6a90adaed62e118532e36899/hero-afx.jpg](https://static.netapp.com/v3/assets/blt8710a579a77cafed/bltf5d51f329dbb9343/6a90adaed62e118532e36899/hero-afx.jpg)
 
+[atlantanewsfirst.com/livestream/ @FORATLANTA @AJCNEWS](https://www.atlantanewsfirst.com/livestream/)
+<img   alt="image" src="https://github.com/user-attachments/assets/c546b659-4d92-4bfa-a960-68717165c77d" />
+
+
 ![https://static.netapp.com/v3/assets/blt8710a579a77cafed/bltd25bbe3528af81cc/69fdca6e92f2b86d8d1a83da/AFX-tech-spec-table_tcm19-146029.avif](https://static.netapp.com/v3/assets/blt8710a579a77cafed/bltd25bbe3528af81cc/69fdca6e92f2b86d8d1a83da/AFX-tech-spec-table_tcm19-146029.avif) 
 
 
