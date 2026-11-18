@@ -39,7 +39,7 @@ mathjax: true
 
 ## LA CITYVIEW TV
 [`WATCH` - https://lacity.gov/tv](https://lacity.gov/tv)
-@CityOFLosAngeles The City of Los Angeles’ official TV channel. We broadcast live City Council meetings, government meetings, and press conferences, while also producing original stories about the communities and neighborhoods that shape Los Angeles. Watch us online or on cable channel 35.
+@CityOFLosAngeles The City of Los Angeles’ official TV channel. We broadcast live City Council meetings, government meetings, and press conferences, while also producing original stories about the communities and neighborhoods that shape Los Angeles. Watch us online or on cable channel 35. / / / @nasa-jpl @doug-newman-nasa @eosdis-nasa . . . @longbeachinnovationteam might need some help with the local TV `Long Beach, CA Video Archive / Login / Powered by` [Swagit](https://granicus.com/product/video-swagit-partially-and-fully-managed-video-solutions/ <~ a lot of young locals were managing neglected infrastructure staffing wise and when the party was over had to go back home, @blackgirlscode just another California summer
 
 ![https://lacity.gov/sites/g/files/wph2451/themes/site/logo.svg](https://lacity.gov/sites/g/files/wph2451/themes/site/logo.svg)
 
