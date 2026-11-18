@@ -33,7 +33,7 @@ mathjax: true
 
 ---
 
-
+![https://www.nesdis.noaa.gov/s3/styles/webp/s3/migrated/DSCOVR-Logo_NOAA_NASA_USAF.png.webp](https://www.nesdis.noaa.gov/s3/styles/webp/s3/migrated/DSCOVR-Logo_NOAA_NASA_USAF.png.webp)
 
 <iframe src="https://abcnews.com/video/embed?id=abc_live11" width="640" height="360" allow="encrypted-media" allowFullScreen frameBorder="0"></iframe>
 
