@@ -29,7 +29,7 @@ mathjax: true
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
-\\ [Eric Burdon - The Vision Of Rassan @hulu](https://youtu.be/14iUJFTmWJE?t=18) // [@NASAjpl ASK @AJCNEWS `MEANING` Future - Life Is Good (Official Music Video) ft. Drake](https://youtu.be/l0U7SxXHkPY?t=119)
+\\ [Eric Burdon - The Vision Of Rassan @hulu](https://youtu.be/14iUJFTmWJE?t=18) // [@NASA-jpl ASK @AJCNEWS `MEANING` Future - Life Is Good (Official Music Video) ft. Drake @NASA-PDS](https://youtu.be/l0U7SxXHkPY?t=119)
 
 ---
 
@@ -40,7 +40,7 @@ mathjax: true
 
 ## LA CITYVIEW TV
 [`WATCH` - https://lacity.gov/tv](https://lacity.gov/tv)
-@CityOFLosAngeles The City of Los Angeles’ official TV channel. We broadcast live City Council meetings, government meetings, and press conferences, while also producing original stories about the communities and neighborhoods that shape Los Angeles. Watch us online or on cable channel 35. / / / @nasa-jpl @doug-newman-nasa @eosdis-nasa . . . @longbeachinnovationteam might need some help with the local TV `Long Beach, CA Video Archive / Login / Powered by` [Swagit](https://granicus.com/product/video-swagit-partially-and-fully-managed-video-solutions/) <~ a lot of young locals were managing neglected infrastructure staffing wise and when the party was over had to go back home, @blackgirlscode just another California summer [@NASAjpl ASK @AJCNEWS `MEANING` Future - Life Is Good (Official Music Video) ft. Drake](https://youtu.be/l0U7SxXHkPY?t=119)
+@CityOFLosAngeles The City of Los Angeles’ official TV channel. We broadcast live City Council meetings, government meetings, and press conferences, while also producing original stories about the communities and neighborhoods that shape Los Angeles. Watch us online or on cable channel 35. / / / @nasa-jpl @doug-newman-nasa @eosdis-nasa . . . @longbeachinnovationteam might need some help with the local TV `Long Beach, CA Video Archive / Login / Powered by` [Swagit](https://granicus.com/product/video-swagit-partially-and-fully-managed-video-solutions/) <~ a lot of young locals were managing neglected infrastructure staffing wise and when the party was over had to go back home, @blackgirlscode just another California summer [@NASA-jpl ASK @AJCNEWS `MEANING` Future - Life Is Good (Official Music Video) ft. Drake @LA-COUNTY-ISD](https://youtu.be/l0U7SxXHkPY?t=119)
 
 [`WATCH` - longbeach.gov/lbtv/](https://www.longbeach.gov/lbtv/)
 <img  alt="image" src="https://github.com/user-attachments/assets/a453fa8b-87ad-4926-9da3-02310a7eb735" />
