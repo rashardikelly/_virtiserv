@@ -38,6 +38,9 @@ mathjax: true
 [`READ` @cbs-news-data @newshour @ajcnews https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/ @nasa-pds](https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1aa9e627-323e-486b-807f-5ee37d09aa4e" />
+<img  alt="image" src="https://github.com/user-attachments/assets/5971798d-9b97-447b-b997-b16ad88036a9" />
+
+<img  alt="image @microsoftresearch https://outlook.live.com/mail/drafts?culture=en-us&country=us @nasa-jpl @sonyresearch @nvidia" src="https://github.com/user-attachments/assets/ea1023dd-04da-4ff1-9c62-c841ff59c56f" />
 
 ## NAsA spaceX CRS-35 Cargo spacecraft Undocking from spacestation
 [`WATCH` - https://www.youtube.com/live/-EgvXNis4rQ?si=ECdOqrER02m9TV4U](https://www.youtube.com/live/-EgvXNis4rQ?si=ECdOqrER02m9TV4U) SpaceX’s Dragon spacecraft supporting the 35th Commercial Resupply Services (CRS-35) mission is set to undock the International Space Station no earlier than Friday, November 20 at 12:05 p.m. ET and return to Earth ahead of splashing down off the coast of [@StateOfCalifornia. @ajcnews @newshour @nbcnews @hulu @netflix @github](https://www.wearebgc.org/BGC%20Logo%2004%20v1.mp4) [@blackgirlscode](https://www.wearebgc.org/)
