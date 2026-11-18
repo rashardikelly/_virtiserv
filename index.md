@@ -33,6 +33,10 @@ mathjax: true
 
 ---
 
+[@la-county-isd @cityoflosangeles https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fire_layers_basic,active-ca,active-usa,fire-perimeter,countries,noaa21_crtc,earth;@-95.4,37.9,5.4z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fire_layers_basic,active-ca,active-usa,fire-perimeter,countries,noaa21_crtc,earth;@-95.4,37.9,5.4z)
+<img  alt="image" src="https://github.com/user-attachments/assets/bf7e2688-9499-4228-9627-00e0f30b8a51" />
+
+<img  alt="image @eosdis-nasa" src="https://github.com/user-attachments/assets/2bb63a87-80c5-4d68-900b-b84568ca0847" />
 
 
 # latrice ? @nasa-jpl I'm trying 
