@@ -37,6 +37,12 @@ mathjax: true
 
 ![https://static.netapp.com/v3/assets/blt8710a579a77cafed/bltd25bbe3528af81cc/69fdca6e92f2b86d8d1a83da/AFX-tech-spec-table_tcm19-146029.avif](https://static.netapp.com/v3/assets/blt8710a579a77cafed/bltd25bbe3528af81cc/69fdca6e92f2b86d8d1a83da/AFX-tech-spec-table_tcm19-146029.avif) 
 
+
+
+[@netapp .com/pdf.html?item=/media/159595-nva-1184-superpod-gb300-afx-design-guide.pdf](https://www.netapp.com/pdf.html?item=/media/159595-nva-1184-superpod-gb300-afx-design-guide.pdf)
+<img  alt="image" src="https://github.com/user-attachments/assets/b73dc03a-cc48-4f08-bfdf-973a7659dbfb" />
+
+
 ## @nvidia graphics card breakdown
 [nvidia.com/en-us/geforce/news/geforce-rtx-founders-graphics-card-breakdown/](https://www.nvidia.com/en-us/geforce/news/geforce-rtx-founders-graphics-card-breakdown/)
 
