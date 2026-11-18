@@ -35,7 +35,7 @@ mathjax: true
 
 # CRS-35 Mission 
 ## @NAsA to Cover 35th spaceX Resupply Mission spacestation Departure
-[`READ` @cbs-news-data @newshour @ajcnews https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/ @nasa-pds](https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/)
+[`READ` @cbs-news-data @newshour @ajcnews https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/ @nasa-pds](https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/) // / [Massive geyser of rotting trash erupts from Southern California landfill @emit-sds @nasa-openscapes @la-county-isd](https://youtu.be/PZWSpb0GkfM?t=48)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1aa9e627-323e-486b-807f-5ee37d09aa4e" />
 <img  alt="image" src="https://github.com/user-attachments/assets/5971798d-9b97-447b-b997-b16ad88036a9" />
