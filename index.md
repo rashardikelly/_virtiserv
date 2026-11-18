@@ -45,6 +45,8 @@ mathjax: true
 [`WATCH` - longbeach.gov/lbtv/](https://www.longbeach.gov/lbtv/)
 <img  alt="image" src="https://github.com/user-attachments/assets/a453fa8b-87ad-4926-9da3-02310a7eb735" />
 
+![https://www.longbeach.gov/globalassets/logo-small-city-long-beach.png](https://www.longbeach.gov/globalassets/logo-small-city-long-beach.png) 
+
 ![https://www.longbeach.gov/globalassets/lbtv/development-assets/lbtvlogo.jpg](https://www.longbeach.gov/globalassets/lbtv/development-assets/lbtvlogo.jpg)
 
 ![https://lacity.gov/sites/g/files/wph2451/themes/site/logo.svg](https://lacity.gov/sites/g/files/wph2451/themes/site/logo.svg)
