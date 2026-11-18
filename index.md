@@ -37,6 +37,7 @@ mathjax: true
 
 <iframe src="https://abcnews.com/video/embed?id=abc_live11" width="640" height="360" allow="encrypted-media" allowFullScreen frameBorder="0"></iframe>
 
+![@NBCNEWS CAN U FWD TO ADAM AT @ABCNEWS IN CALIFORNIA ? @CBS-NEWS-DATA](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/DayNightCloudMicroCombo/GOES18-CONUS-DayNightCloudMicroCombo-625x375.gif)
 
 ## LA CITYVIEW TV
 [`WATCH` - https://lacity.gov/tv](https://lacity.gov/tv)
