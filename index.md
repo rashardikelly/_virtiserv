@@ -33,6 +33,10 @@ mathjax: true
 
 ---
 
+[@la-county-isd @cityoflosangeles  firms.modaps.eosdis.nasa.gov/usfs/map/#m:advanced;d:24hrs,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,active-ca,active-usa,fire-perimeter,cement_plants,gas_flares=2023,gi_steel_plants,mineral_resources,nonferrous_metal,petro_chemical,power_biomass,power_coal,power_gas,power_geothermal,power_hydro,power_oil,power_other,power_solar,power_storage,power_wind,sta_detections,sta_mask,steel_plants,countries,earth;@-117.7,33.5,8.9z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#m:advanced;d:24hrs,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,active-ca,active-usa,fire-perimeter,cement_plants,gas_flares=2023,gi_steel_plants,mineral_resources,nonferrous_metal,petro_chemical,power_biomass,power_coal,power_gas,power_geothermal,power_hydro,power_oil,power_other,power_solar,power_storage,power_wind,sta_detections,sta_mask,steel_plants,countries,earth;@-117.7,33.5,8.9z)
+<img  alt="image" src="https://github.com/user-attachments/assets/8c256874-dd8e-43df-9c69-78ee8789ebe1" />
+
+
 [@la-county-isd @cityoflosangeles https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fire_layers_basic,active-ca,active-usa,fire-perimeter,countries,noaa21_crtc,earth;@-95.4,37.9,5.4z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fire_layers_basic,active-ca,active-usa,fire-perimeter,countries,noaa21_crtc,earth;@-95.4,37.9,5.4z)
 <img  alt="image" src="https://github.com/user-attachments/assets/bf7e2688-9499-4228-9627-00e0f30b8a51" />
 
