@@ -36,6 +36,10 @@ mathjax: true
 
 
 # latrice ? @nasa-jpl I'm trying 
+
+[@blackgirlscode @hulu @deptofwar rashardkelly.tumblr.com/post/833574247487160320/nintendo-brandybrandybrandy-its-a-little](https://rashardkelly.tumblr.com/post/833574247487160320/nintendo-brandybrandybrandy-its-a-little)
+<img  alt="image" src="https://github.com/user-attachments/assets/431fea06-ef16-4824-a879-c1d35f6d406d" />
+
 ![https://assets.motorola.com/global/nevada/motorola_moto_g_play_2026_pdp_camera_02_d_.jpg](https://assets.motorola.com/global/nevada/motorola_moto_g_play_2026_pdp_camera_02_d_.jpg) 
 
 
