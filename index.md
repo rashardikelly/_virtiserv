@@ -33,6 +33,13 @@ mathjax: true
 
 ---
 
+
+## PowerEdge R9815
+Flagship single-socket performance, on air, on your terms
+The PowerEdge R9815 delivers up to 256 cores with flagship 6th Gen AMD EPYC 9006 SP7 performance in a new efficient air-cooled design.
+![@nasa-jpl what happens to that netapp I was promised  I would have access to ? @nasa-pds @Cityoflosangeles](https://i.dell.com/assetlink/img/global/server-dell-r9815-lf-gallery-2-dl12t5zq-large.png)
+![https://i.dell.com/assetlink/img/global/server-dell-r9815-off-gallery-4-dl12t5zp-large.png @isro @gatech](https://i.dell.com/assetlink/img/global/server-dell-r9815-off-gallery-4-dl12t5zp-large.png) 
+
 @isro Nov 7 NISAR_L2_PR_GSLC_035_034_A_019_4005_DHDH_A_20261107T130823_20261107T130858_P05036_N_F_J_001_NATIVE
 <img  alt="NISAR_L2_PR_GSLC_035_034_A_019_4005_DHDH_A_20261107T130823_20261107T130858_P05036_N_F_J_001_NATIVE" src="https://github.com/user-attachments/assets/9f5e230a-3bfa-4c48-b763-5554b2cb2dbf" />
 <img  alt="NISAR_L2_PR_GSLC_035_034_A_018_4005_DHDH_A_20261107T130750_20261107T130824_P05036_N_F_J_001_NATIVE" src="https://github.com/user-attachments/assets/713cafa2-7b48-46d9-8ef3-883a2b4a39d6" />
