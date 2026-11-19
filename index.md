@@ -33,10 +33,16 @@ mathjax: true
 
 ---
 
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5226d53d-aa4e-487a-b850-385ee0ca5fe6" />
+
 ## Displacement Portal
 
+[@nasa-jpl jpl.nasa.gov/go/opera/](https://www.jpl.nasa.gov/go/opera/)
 
-@StateOfCAlifornia @CityOFLosAngeles [MAyor Bass](https://www.congress.gov/member/karen-bass/B001270) / [Mayor RichardSon - climatemayors.org/mayor/rex-richardson/](https://www.climatemayors.org/mayor/rex-richardson/) / [Mayor Raman](https://nypost.com/2026/02/09/us-news/master-manipulator-nithya-raman-spotted-at-2m-la-home/) please share with your peers to identify flood zones in ned, that's what I'm seeing , [Flood zones @usgs.gov/tools/`real-time-flood-impact-map` ](https://www.usgs.gov/tools/real-time-flood-impact-map) --- [@LAcOuntyDPH @NBCNEWS  displacement.asf.alaska.edu/#/?dispOverview=VEL&zoom=11.336&center=-118.034,33.647&flightDirs=DESCENDING](https://displacement.asf.alaska.edu/#/?dispOverview=VEL&zoom=11.336&center=-118.034,33.647&flightDirs=DESCENDING)
+@StateOfCAlifornia @CityOFLosAngeles [MAyor Bass](https://www.congress.gov/member/karen-bass/B001270) / [Mayor RichardSon - climatemayors.org/mayor/rex-richardson/](https://www.climatemayors.org/mayor/rex-richardson/) / [Mayor Raman](https://nypost.com/2026/02/09/us-news/master-manipulator-nithya-raman-spotted-at-2m-la-home/) please share with your peers to identify flood zones in ned, that's what I'm seeing , [Flood zones @usgs.gov/tools/`real-time-flood-impact-map` ](https://www.usgs.gov/tools/real-time-flood-impact-map) --- [@LAcOuntyDPH @NBCNEWS  displacement.asf.alaska.edu/#/?dispOverview=VEL&zoom=11.336&center=-118.034,33.647&flightDirs=DESCENDING](https://displacement.asf.alaska.edu/#/?dispOverview=VEL&zoom=11.336&center=-118.034,33.647&flightDirs=DESCENDING) //////// [https://storymaps.arcgis.com/collections/c52e34d6f5a34538a45a9c9c4dfbc3dc?item=1](https://storymaps.arcgis.com/collections/c52e34d6f5a34538a45a9c9c4dfbc3dc?item=1)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/c378baee-312e-4359-be60-adcba307ad7c" />
 
@@ -51,6 +57,9 @@ The Displacement Portal provides the ability to visualize and interact with the 
 [NASA ARSET: NISAR for Deformation Mapping in Support of Disaster Response Part 1/2 @nasa-jpl @nasa @deptofwar @cbs-news-data @latimes](https://youtu.be/cv9sYdZRJUw?t=39)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/4e2e7939-7f4f-4836-8558-bd671395b160" />
+
+OPERA Surface Displacement Products [https://storymaps.arcgis.com/collections/c52e34d6f5a34538a45a9c9c4dfbc3dc?item=1](https://storymaps.arcgis.com/collections/c52e34d6f5a34538a45a9c9c4dfbc3dc?item=1)
+![https://d2pn8kiwq2w21t.cloudfront.net/images/Opera-Hero-Overview-Infographic-v6.width-640.jpg](https://d2pn8kiwq2w21t.cloudfront.net/images/Opera-Hero-Overview-Infographic-v6.width-640.jpg)
 
 ![ @nasaq-jpl @nasa-pds @cityoflosangeles @la-county-isd @whiteouse ~> @blackgirlscode](https://upload.wikimedia.org/wikipedia/commons/f/f9/Cisco_Webex_logo_-_Brandlogos.net.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original) 
 
