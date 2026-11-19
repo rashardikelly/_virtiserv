@@ -35,7 +35,7 @@ mathjax: true
 
 
 
-[@EosDis-Nasa @nasa-openscapes @emit-sds github.com/ @opera-adt](https://github.com/opera-adt)
+[@EosDis-Nasa @nasa-openscapes @emit-sds github.com/ @opera-adt](https://github.com/opera-adt) // [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opera-adt/DSWX-SAR.git/HEAD) <~ [@blackgirlscode @whitehouse  obamawhitehouse.archives.gov/champions/tech-inclusion/kimberly-bryant](https://obamawhitehouse.archives.gov/champions/tech-inclusion/kimberly-bryant)
 <img  alt="image" src="https://github.com/user-attachments/assets/5226d53d-aa4e-487a-b850-385ee0ca5fe6" />
 
 ## Displacement Portal
