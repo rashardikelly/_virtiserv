@@ -33,6 +33,15 @@ mathjax: true
 
 ---
 
+## NAsA spaceX CRS-35 Cargo spacecraft Undocking from spacestation
+[`WATCH` - https://www.youtube.com/live/-EgvXNis4rQ?si=ECdOqrER02m9TV4U](https://www.youtube.com/live/-EgvXNis4rQ?si=ECdOqrER02m9TV4U) @whitehouse I'm about to do some mapping for [President Trump](https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-secures-historic-economic-deals-for-american-workers-and-strengthens-americas-leadership-in-asia/) , Meeting in [China  @nasa-jpl](https://www.war.gov/News/Publications/Search/china/ ) @eosdi-nasa @doug-newman-nasa imma do it on my blog and link here, she wanted my traffick, so we still friend at least @cia @fbicyber [Deputy Assistant Secretary of War for China, Taiwan and Mongolia](https://policy.war.gov/Offices/ASW-for-Indo-Pacific-Security-Affairs/China-Taiwan-and-Mongolia/)
+
+![https://media.defense.gov/2025/Jul/02/2003747799/825/780/0/250702-D-D0439-030.JPG](https://media.defense.gov/2025/Jul/02/2003747799/825/780/0/250702-D-D0439-030.JPG) 
+
+![https://assets.motorola.com/global/nevada/motorola_moto_g_play_2026_pdp_camera_02_d_.jpg](https://assets.motorola.com/global/nevada/motorola_moto_g_play_2026_pdp_camera_02_d_.jpg) 
+<img   alt="image" src="https://github.com/user-attachments/assets/b59a2d3c-6413-446b-a677-aa932d8a52d3" />
+
+
 # CRS-35 Mission 
 ## @NAsA to Cover 35th spaceX Resupply Mission spacestation Departure
 [`READ` @cbs-news-data @newshour @ajcnews https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/ @nasa-pds](https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/) // / [Massive geyser of rotting trash erupts from Southern California landfill @emit-sds @nasa-openscapes @la-county-isd](https://youtu.be/PZWSpb0GkfM?t=48) @usepa
