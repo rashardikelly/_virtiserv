@@ -40,6 +40,10 @@ mathjax: true
 @USNavy @La-County-isd
 Joint Team to Recover Crew, Orion After Moon Missions
 [splashdown - READ](https://www.nasa.gov/missions/artemis/artemis-2/splashdown-101-joint-team-to-recover-crew-orion-after-moon-missions/)
+
+## Apollo 17 splashdown [https://science.nasa.gov/resource/apollo-17-splashdown/](https://science.nasa.gov/resource/apollo-17-splashdown/) @teslamotors @northropgrumman
+![https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/08/detail_607306main_GPN-2002-000059_full.jpg?w=1041&h=1311&fit=clip](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/08/detail_607306main_GPN-2002-000059_full.jpg?w=1041&h=1311&fit=clip) 
+
 <img   alt="image" src="https://github.com/user-attachments/assets/6404eb20-efc9-4a15-8362-18c982e156f6" />
 
 <img   alt="image" src="https://github.com/user-attachments/assets/bc55494b-9f30-4814-898e-54e3d33be7df" />
