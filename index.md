@@ -34,6 +34,14 @@ mathjax: true
 ---
 
 
+## Splashdown 101:
+@USNavy @La-County-isd
+Joint Team to Recover Crew, Orion After Moon Missions
+[splashdown - READ](https://www.nasa.gov/missions/artemis/artemis-2/splashdown-101-joint-team-to-recover-crew-orion-after-moon-missions/)
+
+![https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240225-ph-kaa01-0071orig.jpg?resize=600,400](https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240225-ph-kaa01-0071orig.jpg?resize=600,400)
+
+![https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240225-ph-jbp02-0006orig.jpg?resize=1024,768](https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240225-ph-jbp02-0006orig.jpg?resize=1024,768)
 
 ![https://web.archive.org/web/20070205200246im_/http://deepspace.jpl.nasa.gov/dsn/images/banner-dsn.jpg](https://web.archive.org/web/20070205200246im_/http://deepspace.jpl.nasa.gov/dsn/images/banner-dsn.jpg)
 
