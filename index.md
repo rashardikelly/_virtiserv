@@ -33,6 +33,10 @@ mathjax: true
 
 ---
 
+[NASA ARSET: NISAR for Deformation Mapping in Support of Disaster Response Part 1/2 @nasa-jpl @nasa @deptofwar @cbs-news-data @latimes](https://youtu.be/cv9sYdZRJUw?t=39)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/4e2e7939-7f4f-4836-8558-bd671395b160" />
+
 ![ @nasaq-jpl @nasa-pds @cityoflosangeles @la-county-isd @whiteouse ~> @blackgirlscode](https://upload.wikimedia.org/wikipedia/commons/f/f9/Cisco_Webex_logo_-_Brandlogos.net.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original) 
 
 <img alt="image" src="https://github.com/user-attachments/assets/ed981d2f-f6ee-4b6c-9fea-d5012c216a34" />
