@@ -37,8 +37,15 @@ mathjax: true
 
 ![https://english.www.gov.cn/static/common/img/GOV_Logo1.png](https://english.www.gov.cn/static/common/img/GOV_Logo1.png)
 
-[@ajcnews @newshour @cbs-news-data @latimes @datadesk `Xi` hosts welcome banquet for guests attending APEC meeting @nvidia](https://english.www.gov.cn/news/202611/18/content_WS6afd8a90c6d00ca5f9a0e691.html) 
+[@ajcnews @newshour @cbs-news-data @latimes @datadesk `Xi` hosts welcome banquet for guests attending APEC meeting @nvidia](https://english.www.gov.cn/news/202611/18/content_WS6afd8a90c6d00ca5f9a0e691.html) // [Chairman of the Central Military Commission (China)](https://en.wikipedia.org/wiki/Chairman_of_the_Central_Military_Commission_(China)) [@howard-university-web-services @blackgirlscode @hulu : `TALK`](https://en.wikipedia.org/wiki/Talk:Chairman_of_the_Central_Military_Commission_(China))
 ![@nasa-jpl https://english.www.gov.cn/images/202611/19/6afe5796c6d00ca5a3e32418.jpeg](https://english.www.gov.cn/images/202611/19/6afe5796c6d00ca5a3e32418.jpeg) 
+
+
+EMIT_L2A_RFL_001_20260724T052042_2620504_021 @CityOfLosanGeles @STATEOFCALiFORNiA [Keisha bottoms @ForATlanta](https://www.usatoday.com/story/news/politics/2026/11/18/kandi-burruss-joins-keisha-lance-bottoms-transition-team/92844486007/) @usatoday
+<img alt="EMIT_L2A_RFL_001_20260724T052042_2620504_021" src="https://github.com/user-attachments/assets/9d0a08d1-de0f-46fe-84b8-823f392ccf89" />
+
+[@emit-sds @ucla search.earthdata.nasa.gov/search/granules?p=C2408750690-LPCLOUD ](https://search.earthdata.nasa.gov/search/granules?p=C2408750690-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4288791043-LPCLOUD&q=emit&sb[0]=113.85721%2C21.42981%2C114.66426%2C22.66552&lat=22.379360793879453&long=113.68209367152728&zoom=8.968244853402526)
+<img   alt="image" src="https://github.com/user-attachments/assets/99439150-6896-4529-b09d-a70d7cee7f6d" />
 
 ![https://english.www.gov.cn/images/202611/19/6afe5796c6d00ca5a3e3241b.jpeg @deptofwar @cityoflosangeles](https://english.www.gov.cn/images/202611/19/6afe5796c6d00ca5a3e3241b.jpeg)
 
