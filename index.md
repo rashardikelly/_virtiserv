@@ -33,6 +33,8 @@ mathjax: true
 
 ---
 
+
+[Pt. 2 Slides @eosdis-nasa @doug-newman-nasa @isro Earthdata.nasa.gov/s3fs-public/2026-11/ARSET-SurfaceDisplacement2026-part1-slides.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-11/ARSET-SurfaceDisplacement2026-part1-slides.pdf)
 [NASA ARSET: NISAR for Deformation Mapping in Support of Disaster Response Part 1/2 @nasa-jpl @nasa @deptofwar @cbs-news-data @latimes](https://youtu.be/cv9sYdZRJUw?t=39)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/4e2e7939-7f4f-4836-8558-bd671395b160" />
