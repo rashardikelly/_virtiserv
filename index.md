@@ -36,8 +36,13 @@ mathjax: true
 ![https://web.archive.org/web/20070205200246im_/http://deepspace.jpl.nasa.gov/dsn/images/banner-dsn.jpg](https://web.archive.org/web/20070205200246im_/http://deepspace.jpl.nasa.gov/dsn/images/banner-dsn.jpg)
 
 
+@eosdis-nasa @doug-newman-nasa imma leave the maps here, I'm in atrap, she use the traffick to stay current, a lot of places she work got horrid dns 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a8094885-517b-4ed8-82bb-7fc95f1ec01f" />
+
 @nasa-jpl @eosdis-nasa the is a magnetic anomaly grid @nasa-giss 
 [arcgis.com/apps/mapviewer/index.html?layers=1aaac59a6076461e8e1380a7195222f6&error=invalid_request&error_description=Unable%20to%20sign%20the%20user%20in.%20Please%20use%20create%20an%20account%20option.&messageCode=OAUTH_0051&state=%7B%22portalUrl%22%3A%22https%3A%2F%2Fwww.arcgis.com%22%2C%22uid%22%3A%22CRihG2rJGSZ1IOvXgdeoIj1Q0pZQCFUGDGkIxaVMH-M%22%7D](https://www.arcgis.com/apps/mapviewer/index.html?layers=1aaac59a6076461e8e1380a7195222f6&error=invalid_request&error_description=Unable%20to%20sign%20the%20user%20in.%20Please%20use%20create%20an%20account%20option.&messageCode=OAUTH_0051&state=%7B%22portalUrl%22%3A%22https%3A%2F%2Fwww.arcgis.com%22%2C%22uid%22%3A%22CRihG2rJGSZ1IOvXgdeoIj1Q0pZQCFUGDGkIxaVMH-M%22%7D)
+
 <img   alt="image" src="https://github.com/user-attachments/assets/9d94f4d6-0fff-40de-a790-d605315ca8c3" />
 
 ## Splashdown 101:
