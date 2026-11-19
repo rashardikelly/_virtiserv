@@ -34,6 +34,12 @@ mathjax: true
 ---
 
 ## Displacement Portal
+
+
+@StateOfCAlifornia @CityOFLosAngeles [MAyor Bass](https://www.congress.gov/member/karen-bass/B001270) / [Mayor RichardSon - climatemayors.org/mayor/rex-richardson/](https://www.climatemayors.org/mayor/rex-richardson/) / [Mayor Raman](https://nypost.com/2026/02/09/us-news/master-manipulator-nithya-raman-spotted-at-2m-la-home/) please share with your peers to identify flood zones in ned, that's what I'm seeing , [Flood zones @usgs.gov/tools/`real-time-flood-impact-map` ](https://www.usgs.gov/tools/real-time-flood-impact-map)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c378baee-312e-4359-be60-adcba307ad7c" />
+
 The Displacement Portal provides the ability to visualize and interact with the OPERA Surface Displacement (DISP) Products. [launch displacement.asf.alaska.edu/#/?dispOverview=VEL](https://displacement.asf.alaska.edu/#/?dispOverview=VEL)
 
 <img  alt="image @foratlanta @ajcnews " src="https://github.com/user-attachments/assets/72e01450-a4b5-4e09-9345-d905e9611eff" />
