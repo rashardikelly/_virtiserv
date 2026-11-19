@@ -33,6 +33,11 @@ mathjax: true
 
 ---
 
+## Displacement Portal
+The Displacement Portal provides the ability to visualize and interact with the OPERA Surface Displacement (DISP) Products. [launch displacement.asf.alaska.edu/#/?dispOverview=VEL](https://displacement.asf.alaska.edu/#/?dispOverview=VEL)
+
+<img  alt="image @foratlanta @ajcnews " src="https://github.com/user-attachments/assets/72e01450-a4b5-4e09-9345-d905e9611eff" />
+
 [Pt. 1 Slides @eosdis-nasa @doug-newman-nasa @isro Earthdata.nasa.gov/s3fs-public/2026-11/ARSET-SurfaceDisplacement2026-part1-slides.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-11/ARSET-SurfaceDisplacement2026-part1-slides.pdf)
 
 [Pt. 2 Slides @eosdis-nasa @doug-newman-nasa @isro _E_ arthdata.nasa.gov/s3fs-public/2026-11/ARSET-SurfaceDisplacement2026-part2-slides.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-11/ARSET-SurfaceDisplacement2026-part2-slides.pdf)
