@@ -35,6 +35,8 @@ mathjax: true
 
 ![https://web.archive.org/web/20070205200246im_/http://deepspace.jpl.nasa.gov/dsn/images/banner-dsn.jpg](https://web.archive.org/web/20070205200246im_/http://deepspace.jpl.nasa.gov/dsn/images/banner-dsn.jpg)
 
+
+![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05078/opgs/edr/ncam/NRB_848273198EDR_M1252490NCAM00579M_-br.jpg](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05078/opgs/edr/ncam/NRB_848273198EDR_M1252490NCAM00579M_-br.jpg)
 ![https://english.www.gov.cn/static/common/img/GOV_Logo1.png](https://english.www.gov.cn/static/common/img/GOV_Logo1.png)
 
 
