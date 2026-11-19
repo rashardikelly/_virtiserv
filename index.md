@@ -33,6 +33,12 @@ mathjax: true
 
 ---
 
+![ @nasaq-jpl @nasa-pds @cityoflosangeles @la-county-isd @whiteouse ~> @blackgirlscode](https://upload.wikimedia.org/wikipedia/commons/f/f9/Cisco_Webex_logo_-_Brandlogos.net.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/ed981d2f-f6ee-4b6c-9fea-d5012c216a34" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8e378a19-ce56-4ea8-b817-df590e1b80e7" />
+
 [CRS-35 Launches from Cape CanaveralSpaceForceStation @la-county-isd](https://www.dvidshub.net/video/1027552/crs-35-launches-cape-canaveral-space-force-station)
 
 ![https://web.archive.org/web/20070205200246im_/http://deepspace.jpl.nasa.gov/dsn/images/banner-dsn.jpg](https://web.archive.org/web/20070205200246im_/http://deepspace.jpl.nasa.gov/dsn/images/banner-dsn.jpg)
