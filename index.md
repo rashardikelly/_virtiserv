@@ -33,6 +33,14 @@ mathjax: true
 
 ---
 
+
+
+![https://web.archive.org/web/20070205200246im_/http://deepspace.jpl.nasa.gov/dsn/images/banner-dsn.jpg](https://web.archive.org/web/20070205200246im_/http://deepspace.jpl.nasa.gov/dsn/images/banner-dsn.jpg)
+- from crs 34 @cityoflosangeles @newshour
+@nasa-jpl io did my launch duty like chris said @nasa-pds but ppl still making me itch i dont know the solution  @la-county-isd i wanna understand the torture @Blackgirlscode 
+We were so glad to host you virtually for the launch of NASA's SpaceX CRS-34 Mission!
+
+<img width="288" height="89" alt="image" src="https://github.com/user-attachments/assets/63523a49-c9b1-46fa-8ae5-5d82649eabd6" />
 ## NAsA spaceX CRS-35 Cargo spacecraft Undocking from spacestation
 [`WATCH` - https://www.youtube.com/live/-EgvXNis4rQ?si=ECdOqrER02m9TV4U](https://www.youtube.com/live/-EgvXNis4rQ?si=ECdOqrER02m9TV4U) @whitehouse I'm about to do some mapping for [President Trump](https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-secures-historic-economic-deals-for-american-workers-and-strengthens-americas-leadership-in-asia/) , Meeting in [China  @nasa-jpl](https://www.war.gov/News/Publications/Search/china/ ) @eosdis-nasa @doug-newman-nasa imma do it on my blog and link here, she wanted my traffick, so we still friend at least @cia @fbicyber [Deputy Assistant Secretary of War for China, Taiwan and Mongolia](https://policy.war.gov/Offices/ASW-for-Indo-Pacific-Security-Affairs/China-Taiwan-and-Mongolia/)
 
