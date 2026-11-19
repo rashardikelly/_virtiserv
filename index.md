@@ -33,6 +33,9 @@ mathjax: true
 
 ---
 
+[@EosDis-Nasa @nasa-openscapes @emit-sds github.com/ @opera-adt](https://github.com/opera-adt) // [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opera-adt/DSWX-SAR.git/HEAD) @newshour @ajcnews @latimes . . .  @hulu @disney // @netflix
+<img   alt="image" src="https://github.com/user-attachments/assets/7064b77c-e53b-41af-950f-2e51cb8cfe6b" />
+
 [@Usgs.gov/programs/landslide-hazards/landslide-basics](https://www.usgs.gov/programs/landslide-hazards/landslide-basics) 
 Landslides occur in all 50 states and territories and they affect lives, property, infrastructure, and the environment.  Understanding when, where, and how landslides occur can help to reduce the risk of living with these natural hazards. 
 <img  alt="image" src="https://github.com/user-attachments/assets/90b56fc6-412e-4832-b947-4e1890142e19" />
