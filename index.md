@@ -33,6 +33,8 @@ mathjax: true
 
 ---
 
+![https://avatars.githubusercontent.com/u/93566417?s=200&v=4](https://avatars.githubusercontent.com/u/93566417?s=200&v=4)
+
 [@EosDis-Nasa @nasa-openscapes @emit-sds github.com/ @opera-adt](https://github.com/opera-adt) // [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opera-adt/DSWX-SAR.git/HEAD) @newshour @ajcnews @latimes . . .  @hulu @disney // @netflix
 <img   alt="image" src="https://github.com/user-attachments/assets/7064b77c-e53b-41af-950f-2e51cb8cfe6b" />
 
