@@ -36,7 +36,7 @@ mathjax: true
 ## Displacement Portal
 
 
-@StateOfCAlifornia @CityOFLosAngeles [MAyor Bass](https://www.congress.gov/member/karen-bass/B001270) / [Mayor RichardSon - climatemayors.org/mayor/rex-richardson/](https://www.climatemayors.org/mayor/rex-richardson/) / [Mayor Raman](https://nypost.com/2026/02/09/us-news/master-manipulator-nithya-raman-spotted-at-2m-la-home/) please share with your peers to identify flood zones in ned, that's what I'm seeing , [Flood zones @usgs.gov/tools/`real-time-flood-impact-map` ](https://www.usgs.gov/tools/real-time-flood-impact-map) --- [@LAcuntyDPH @NBCNEWS  displacement.asf.alaska.edu/#/?dispOverview=VEL&zoom=11.336&center=-118.034,33.647&flightDirs=DESCENDING](https://displacement.asf.alaska.edu/#/?dispOverview=VEL&zoom=11.336&center=-118.034,33.647&flightDirs=DESCENDING)
+@StateOfCAlifornia @CityOFLosAngeles [MAyor Bass](https://www.congress.gov/member/karen-bass/B001270) / [Mayor RichardSon - climatemayors.org/mayor/rex-richardson/](https://www.climatemayors.org/mayor/rex-richardson/) / [Mayor Raman](https://nypost.com/2026/02/09/us-news/master-manipulator-nithya-raman-spotted-at-2m-la-home/) please share with your peers to identify flood zones in ned, that's what I'm seeing , [Flood zones @usgs.gov/tools/`real-time-flood-impact-map` ](https://www.usgs.gov/tools/real-time-flood-impact-map) --- [@LAcOuntyDPH @NBCNEWS  displacement.asf.alaska.edu/#/?dispOverview=VEL&zoom=11.336&center=-118.034,33.647&flightDirs=DESCENDING](https://displacement.asf.alaska.edu/#/?dispOverview=VEL&zoom=11.336&center=-118.034,33.647&flightDirs=DESCENDING)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/c378baee-312e-4359-be60-adcba307ad7c" />
 
