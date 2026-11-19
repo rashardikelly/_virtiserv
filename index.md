@@ -42,12 +42,14 @@ Joint Team to Recover Crew, Orion After Moon Missions
 [splashdown - READ](https://www.nasa.gov/missions/artemis/artemis-2/splashdown-101-joint-team-to-recover-crew-orion-after-moon-missions/)
 
 ## Apollo 17 splashdown [https://science.nasa.gov/resource/apollo-17-splashdown/](https://science.nasa.gov/resource/apollo-17-splashdown/) @teslamotors @northropgrumman
+
 ![https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/08/detail_607306main_GPN-2002-000059_full.jpg?w=1041&h=1311&fit=clip](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/08/detail_607306main_GPN-2002-000059_full.jpg?w=1041&h=1311&fit=clip) 
 
 <img   alt="image" src="https://github.com/user-attachments/assets/6404eb20-efc9-4a15-8362-18c982e156f6" />
 
 <img   alt="image" src="https://github.com/user-attachments/assets/bc55494b-9f30-4814-898e-54e3d33be7df" />
 
+![https://www.nasa.gov/wp-content/uploads/2023/03/s69-22271.jpg](https://www.nasa.gov/wp-content/uploads/2023/03/s69-22271.jpg)
 
 ## Artemis II splashdown and Recovery
 [ nasa.gov/gallery/artemis-ii-splashdown-and-recovery/page/2/](https://www.nasa.gov/gallery/artemis-ii-splashdown-and-recovery/page/2/)
@@ -85,7 +87,7 @@ We were so glad to host you virtually for the launch of NASA's SpaceX CRS-34 Mis
 <img width="288" height="89" alt="image" src="https://github.com/user-attachments/assets/63523a49-c9b1-46fa-8ae5-5d82649eabd6" />
 
 ## NAsA spaceX CRS-35 Cargo spacecraft Undocking from spacestation
-[`WATCH` - https://www.youtube.com/live/-EgvXNis4rQ?si=ECdOqrER02m9TV4U](https://www.youtube.com/live/-EgvXNis4rQ?si=ECdOqrER02m9TV4U) @whitehouse I'm about to do some mapping for [President Trump](https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-secures-historic-economic-deals-for-american-workers-and-strengthens-americas-leadership-in-asia/) , Meeting in [China  @nasa-jpl](https://www.war.gov/News/Publications/Search/china/ ) @eosdis-nasa @doug-newman-nasa imma do it on my blog and link here, she wanted my traffick, so we still friend at least @cia @fbicyber [Deputy Assistant Secretary of War for China, Taiwan and Mongolia](https://policy.war.gov/Offices/ASW-for-Indo-Pacific-Security-Affairs/China-Taiwan-and-Mongolia/)
+[`WATCH` - https://www.youtube.com/live/-EgvXNis4rQ?si=ECdOqrER02m9TV4U](https://www.youtube.com/live/-EgvXNis4rQ?si=ECdOqrER02m9TV4U) @whitehouse I'm about to do some mapping for [President Trump](https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-secures-historic-economic-deals-for-american-workers-and-strengthens-americas-leadership-in-asia/) , Meeting in [China  @nasa-jpl](https://www.war.gov/News/Publications/Search/china/ ) @eosdis-nasa @doug-newman-nasa imma do it on my blog and link here, she wanted my traffick, so we still friend at least @cia @fbicyber [Deputy Assistant Secretary of War for China, Taiwan and Mongolia](https://policy.war.gov/Offices/ASW-for-Indo-Pacific-Security-Affairs/China-Taiwan-and-Mongolia/) // [https://www.supercluster.com/launches/spacex-crs-35](https://www.supercluster.com/launches/spacex-crs-35)
 
 ![https://media.defense.gov/2025/Jul/02/2003747799/825/780/0/250702-D-D0439-030.JPG](https://media.defense.gov/2025/Jul/02/2003747799/825/780/0/250702-D-D0439-030.JPG) 
 
