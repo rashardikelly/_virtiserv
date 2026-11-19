@@ -36,7 +36,7 @@ mathjax: true
 ![https://web.archive.org/web/20070205200246im_/http://deepspace.jpl.nasa.gov/dsn/images/banner-dsn.jpg](https://web.archive.org/web/20070205200246im_/http://deepspace.jpl.nasa.gov/dsn/images/banner-dsn.jpg)
 
 
-@eosdis-nasa @doug-newman-nasa imma leave the maps here, I'm in atrap, she use the traffick to stay current, a lot of places she work got horrid dns 
+@eosdis-nasa @doug-newman-nasa imma leave the maps here, I'm in atrap, she use the traffick to stay current, a lot of places she work got horrid dns [firms.modaps.eosdis.nasa.gov/map/#m:advanced;d:24hrs,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,cement_plants,gas_flares=2023,gi_steel_plants,mineral_resources,nonferrous_metal,petro_chemical,power_biomass,power_coal,power_gas,power_geothermal,power_hydro,power_oil,power_other,power_solar,power_storage,power_wind,sta_detections,sta_mask,steel_plants,country-outline,earth;@99.7,14.4,3.0z](https://firms.modaps.eosdis.nasa.gov/map/#m:advanced;d:24hrs,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,cement_plants,gas_flares=2023,gi_steel_plants,mineral_resources,nonferrous_metal,petro_chemical,power_biomass,power_coal,power_gas,power_geothermal,power_hydro,power_oil,power_other,power_solar,power_storage,power_wind,sta_detections,sta_mask,steel_plants,country-outline,earth;@99.7,14.4,3.0z)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/a8094885-517b-4ed8-82bb-7fc95f1ec01f" />
 
