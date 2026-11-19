@@ -33,7 +33,11 @@ mathjax: true
 
 ---
 
+[@Usgs.gov/programs/landslide-hazards/landslide-basics](https://www.usgs.gov/programs/landslide-hazards/landslide-basics) 
+Landslides occur in all 50 states and territories and they affect lives, property, infrastructure, and the environment.  Understanding when, where, and how landslides occur can help to reduce the risk of living with these natural hazards. 
+<img  alt="image" src="https://github.com/user-attachments/assets/90b56fc6-412e-4832-b947-4e1890142e19" />
 
+![https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/media/images/Thumbnail_5.png?itok=PLsrgzkX](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/media/images/Thumbnail_5.png?itok=PLsrgzkX)
 
 [@EosDis-Nasa @nasa-openscapes @emit-sds github.com/ @opera-adt](https://github.com/opera-adt) // [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opera-adt/DSWX-SAR.git/HEAD) <~ [@blackgirlscode @whitehouse  obamawhitehouse.archives.gov/champions/tech-inclusion/kimberly-bryant](https://obamawhitehouse.archives.gov/champions/tech-inclusion/kimberly-bryant)
 <img  alt="image" src="https://github.com/user-attachments/assets/5226d53d-aa4e-487a-b850-385ee0ca5fe6" />
