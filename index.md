@@ -24,12 +24,17 @@ mathjax: true
 {{ site.time }}
  {{ site.title | default: site.github.repository_name }}
          
-[Nuff Man a Dead · Super Cat @deptofwar @blackgirlscode](https://youtu.be/RBbPqCpSxFc?si=zflh3YGWhAcQeOXG) // [Bob Marley versus Lee scratch Perry the upsetter years](https://youtu.be/LKBvyBTTTA4?si=u42ojRVAlwq0_s3E) // [Video for Gotta Man performed by Eve.](https://youtu.be/NUEQ7BmGh9k?t=136) // [Dem No Worry We · Super Cat](https://youtu.be/mSZo8he1ehs?t=67) // [Ghetto Red Hot · Super Cat](https://youtu.be/N4F8sIpynA4?t=45)
+[Nuff Man a Dead · Super Cat @deptofwar @blackgirlscode](https://youtu.be/RBbPqCpSxFc?si=zflh3YGWhAcQeOXG) // [Bob Marley versus Lee scratch Perry the upsetter years](https://youtu.be/LKBvyBTTTA4?si=u42ojRVAlwq0_s3E) // [Video for Gotta Man performed by Eve.](https://youtu.be/NUEQ7BmGh9k?t=136) // [Dem No Worry We · Super Cat](https://youtu.be/mSZo8he1ehs?t=67) // [Ghetto Red Hot · Super Cat](https://youtu.be/N4F8sIpynA4?t=45) // [Single Parent · Buju Banton @nasa-jpl](https://youtu.be/TwhW6GQIC8A?si=3jKPYlRLyxAce92o)
 
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
 
+## @cbs-news-data
+
+[Single Parent · Buju Banton @foxbroadcasting](https://youtu.be/TwhW6GQIC8A?si=3jKPYlRLyxAce92o) // [coast.noaa.gov/floodexposure/#-13139212,3994865,12z](https://coast.noaa.gov/floodexposure/#-13139212,3994865,12z)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7f64979d-eae8-4002-8b60-73700143a798" />
 
 ## @nasa 
 [go.nasa.gov/48DtHzJ](https://go.nasa.gov/48DtHzJ) _floodMap_ @nfl
