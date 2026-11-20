@@ -29,6 +29,15 @@ mathjax: true
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
+
+
+## HuntinGton Beach @la-county-isd
+
+
+[coast.noaa.gov/slr/#/layer/slr/0/-13142055.425667413/3991232.7480097427/12.138/satellite/none/0.8/2050/interHigh/noAccretion/NOS_Minor](https://coast.noaa.gov/slr/#/layer/slr/0/-13142055.425667413/3991232.7480097427/12.138/satellite/none/0.8/2050/interHigh/noAccretion/NOS_Minor) // [displacement.asf.alaska.edu/#/?dispOverview=VEL&zoom=11.238&center=-118.056,33.547&flightDirs=DESCENDING&series=POINT(-117.7862%2033.6938)--1--Point--eed395e1-e82b-4275-8c28-78755c77921b--Series&start=2016-08-12T20:52:08Z&end=2026-09-26T20:51:38Z&view=equatorial](https://displacement.asf.alaska.edu/#/?dispOverview=VEL&zoom=11.238&center=-118.056,33.547&flightDirs=DESCENDING&series=POINT(-117.7862%2033.6938)--1--Point--eed395e1-e82b-4275-8c28-78755c77921b--Series&start=2016-08-12T20:52:08Z&end=2026-09-26T20:51:38Z&view=equatorial)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/505affa4-d805-48c0-bd5b-25318ca6b43c" />
+
 [Bonobo - ESSENTIAL mix 2014, 2014-04-12 @BBC radio 1](https://youtu.be/jwHnLHwypuk?list=RDjwHnLHwypuk&t=45)
 @bbc its old, but we have [hydrology issues](https://swot.jpl.nasa.gov/science/hydrology/) and I hope I can get inspired to finish this report, like a workout mix @nasa-jpl @whitehouse @foratlanta @ajcnews @cityoflosangeles _[Lana J Harris](https://www.youtube.com/channel/UCnZ9hO-KsnwUAZHXmpG0JxA)_ I hope your car ok @Blackgirlscode! [Bonobo - ESSENTIAL mix 2014, 2014-04-12 @BBC radio 1](https://youtu.be/jwHnLHwypuk?list=RDjwHnLHwypuk&t=45) [@x](https://dn601200.us.archive.org/0/items/vid-20250221-224142_202502/screen-20250220-131433.mp4)
 
