@@ -24,7 +24,7 @@ mathjax: true
 {{ site.time }}
  {{ site.title | default: site.github.repository_name }}
          
-
+[Nuff Man a Dead · Super Cat @deptofwar @blackgirlscode](https://youtu.be/RBbPqCpSxFc?si=zflh3YGWhAcQeOXG)
 
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
