@@ -35,11 +35,15 @@ mathjax: true
 
 ---
 
-[LOS ANGELES FLOODED — Drivers TRAPPED, LA River RAGING & RECORD King Tides Next (Latest Updates)](https://youtu.be/Hv0H54Bdd_0?t=33)
+[LOS ANGELES FLOODED — Drivers TRAPPED, LA River RAGING & RECORD King Tides Next (Latest Updates)](https://youtu.be/Hv0H54Bdd_0?t=33) // [@nasa-jpl @usepa @eosdis-nasa `FLOOD_DATA` ]()
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/VUJK5OHIXNdU-sRMI--LOw/833756479840501760" data-did="b847e5746672a700c07a0e8b4bbe67cdab21464f"><a href="https://rashardkelly.tumblr.com/post/833756479840501760">https://rashardkelly.tumblr.com/post/833756479840501760</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+ 
+<img  alt="tumblr_adb2e85f766af97f7fc445737936a7ec_16c1919c_1280" src="https://github.com/user-attachments/assets/d1e791c9-b7b1-4a5d-b973-f093b60c960a" />
 
 <img  alt="tumblr_b095201420513c84a0907bc656944d0e_2a5e7a2f_1280" src="https://github.com/user-attachments/assets/91589e4f-e96b-47db-9998-af6cc278ed66" />
 
-<img width="720" height="812" alt="image" src="https://github.com/user-attachments/assets/4f03e86d-e973-4d13-b1b7-2cf5da0b1eac" />
+<img   alt="image" src="https://github.com/user-attachments/assets/4f03e86d-e973-4d13-b1b7-2cf5da0b1eac" />
 
  
 <div class="tupperware">
@@ -126,6 +130,9 @@ mathjax: true
 </video>
 
  </div>
+
+ <img   alt="tumblr_f5507a0c4176cca72b40d2c975e4c892_da4f6508_1280" src="https://github.com/user-attachments/assets/80d29ee6-d73c-48cc-871d-9ebf9102d4d4" />
+
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/671c7f13-f304-4458-ada5-7c9e69f3ca7e" />
