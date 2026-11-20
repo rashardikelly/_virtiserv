@@ -24,7 +24,7 @@ mathjax: true
 {{ site.time }}
  {{ site.title | default: site.github.repository_name }}
          
-[Nuff Man a Dead · Super Cat @deptofwar @blackgirlscode](https://youtu.be/RBbPqCpSxFc?si=zflh3YGWhAcQeOXG) // [Bob Marley versus Lee scratch Perry the upsetter years](https://youtu.be/LKBvyBTTTA4?si=u42ojRVAlwq0_s3E)
+[Nuff Man a Dead · Super Cat @deptofwar @blackgirlscode](https://youtu.be/RBbPqCpSxFc?si=zflh3YGWhAcQeOXG) // [Bob Marley versus Lee scratch Perry the upsetter years](https://youtu.be/LKBvyBTTTA4?si=u42ojRVAlwq0_s3E) // [Video for Gotta Man performed by Eve.](https://youtu.be/NUEQ7BmGh9k?t=136)
 
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
@@ -32,6 +32,7 @@ mathjax: true
 [Bonobo - ESSENTIAL mix 2014, 2014-04-12 @BBC radio 1](https://youtu.be/jwHnLHwypuk?list=RDjwHnLHwypuk&t=45)
 @bbc its old, but we have [hydrology issues](https://swot.jpl.nasa.gov/science/hydrology/) and I hope I can get inspired to finish this report, like a workout mix @nasa-jpl @whitehouse @foratlanta @ajcnews @cityoflosangeles _[Lana J Harris](https://www.youtube.com/channel/UCnZ9hO-KsnwUAZHXmpG0JxA)_ I hope your car ok @Blackgirlscode! [Bonobo - ESSENTIAL mix 2014, 2014-04-12 @BBC radio 1](https://youtu.be/jwHnLHwypuk?list=RDjwHnLHwypuk&t=45) [@x](https://dn601200.us.archive.org/0/items/vid-20250221-224142_202502/screen-20250220-131433.mp4)
 
+<img alt="image" src="https://github.com/user-attachments/assets/758c761e-599a-4a23-b893-fcd7c7553b11" />
 
 
 # GameCube on Android
