@@ -31,6 +31,15 @@ mathjax: true
 
 
 ## @cbs-news-data
+
+[@la-county-isd EMIT_L1B_RAD_001_20251216T055140_2535004_015  @nasa-jpl](https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G3951011459-LPCLOUD&q=emit&sb[0]=112.86004%2C22.2526%2C114.47064%2C23.17798&lat=21.683763499999998&long=113.84525828023064&zoom=9.099984929757335)
+<img  alt="EMIT_L1B_RAD_001_20251216T055140_2535004_015" src="https://github.com/user-attachments/assets/6a42bda2-9720-4089-959e-59798163a94d" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/15f0d07f-c006-4ecb-8a98-f18593fab63a" />
+
+@emit-sds EMIT_L1B_RAD_001_20260420T052314_2611003_021 @whitehouse
+<img   alt=" @emit-sds EMIT_L1B_RAD_001_20260420T052314_2611003_021" src="https://github.com/user-attachments/assets/34f98f67-1f6d-481c-b1e6-7c925e7eab6f" />
+
 [Trump touts relationships with Putin and Xi after historic Asia trip @abcnews @newshour](https://abcnews.com/Politics/trump-hold-news-conference-friday-asia-trip/story?id=138307456)
 
 
