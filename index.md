@@ -33,6 +33,20 @@ mathjax: true
 @bbc its old, but we have [hydrology issues](https://swot.jpl.nasa.gov/science/hydrology/) and I hope I can get inspired to finish this report, like a workout mix @nasa-jpl @whitehouse @foratlanta @ajcnews @cityoflosangeles _[Lana J Harris](https://www.youtube.com/channel/UCnZ9hO-KsnwUAZHXmpG0JxA)_ I hope your car ok @Blackgirlscode! [Bonobo - ESSENTIAL mix 2014, 2014-04-12 @BBC radio 1](https://youtu.be/jwHnLHwypuk?list=RDjwHnLHwypuk&t=45)
 
 
+---
+
+
+@la-county-isd Sepulveda and Arroyo Seco had higher than normal output all day, don't blame it all on rain @nasa @commercegov [Rescues on both coasts as storm, atmospheric river bring heavy rain](https://youtu.be/Ny1fnW_HCtA?t=63)
+[WESH 2's First Warning Chief Meteorologist Tony Mainolfi talks heavy rain, flooding](https://youtu.be/GP5fk0iZHoM?t=46)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/192cac7b-4a77-4f51-8925-f6d2c64c2f9c" />
+
+[USGS plz fwd to @ABCNEWS @NBCNEWS @nasqa-jpl  https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.90923%2C33.62235%2C-117.71389%2C34.28499%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-118.9092300740774%2C33.62234568628409%2C-117.71389134389649%2C34.284988766470306%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C10%2C17%2C19%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.90923%2C33.62235%2C-117.71389%2C34.28499%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-118.9092300740774%2C33.62234568628409%2C-117.71389134389649%2C34.284988766470306%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C10%2C17%2C19%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
+
+<img   alt="image" src="https://github.com/user-attachments/assets/91acb698-43ac-43dc-ba3a-865adc2f3a7d" />
+
+
+
 # MEN ENCOUNTER MARS (1965) - Mariner 4,
 first Mars flyby & photos [`WATCH` - https://youtu.be/RKVzepl-2zY?t=53 NASA documentary](https://youtu.be/RKVzepl-2zY?t=53)
 <img  alt="image" src="https://github.com/user-attachments/assets/add308ba-5a47-461c-a5d1-fb42c7add674" />
@@ -41,15 +55,6 @@ first Mars flyby & photos [`WATCH` - https://youtu.be/RKVzepl-2zY?t=53 NASA docu
 \\ [Eric Burdon - The Vision Of Rassan @hulu](https://youtu.be/14iUJFTmWJE?t=18) // [@NASA-jpl ASK @AJCNEWS `MEANING` Future - Life Is Good (Official Music Video) ft. Drake @NASA-PDS](https://youtu.be/l0U7SxXHkPY?t=119) // [Wu Tang Clan Mixtape Side A](https://youtu.be/HvErqLbRuig?list=RDHvErqLbRuig&t=2) // [O̲u̲tkast - ATLiens](https://youtu.be/JRCiDNfiKbc?list=RDJRCiDNfiKbc&t=11) // [Björk - Post (Full Album) (1995) ](https://youtu.be/bw2VXQa7YRs?si=MWQK61it5OvtDwZm)
 
 ---
-
-@la-county-isd Sepulveda and Arroyo Seco had higher than normal output all day, don't blame it all on rain @nasa @commercegov [Rescues on both coasts as storm, atmospheric river bring heavy rain](https://youtu.be/Ny1fnW_HCtA?t=63)
-
-
-<img   alt="image" src="https://github.com/user-attachments/assets/192cac7b-4a77-4f51-8925-f6d2c64c2f9c" />
-
-[USGS plz fwd to @ABCNEWS @NBCNEWS @nasqa-jpl  https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.90923%2C33.62235%2C-117.71389%2C34.28499%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-118.9092300740774%2C33.62234568628409%2C-117.71389134389649%2C34.284988766470306%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C10%2C17%2C19%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.90923%2C33.62235%2C-117.71389%2C34.28499%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-118.9092300740774%2C33.62234568628409%2C-117.71389134389649%2C34.284988766470306%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C10%2C17%2C19%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
-<img   alt="image" src="https://github.com/user-attachments/assets/91acb698-43ac-43dc-ba3a-865adc2f3a7d" />
-
 
  
 <iframe src="https://archive.org/embed/saa2-master" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
