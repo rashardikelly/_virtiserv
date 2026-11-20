@@ -37,12 +37,12 @@ mathjax: true
 # GameCube on Android
 @nasa-jpl  hi the space capsule detatched its supposed to arrive tomorrow off our coast [@StateOfCalifornia @CityofLosAngeles @Cityofsantamonica @cityofsandiego](https://www.sandiego.gov/)
 
+![https://i.pinimg.com/originals/3a/f8/bf/3af8bf4af845d9542445ffad090e1939.gif](https://i.pinimg.com/originals/3a/f8/bf/3af8bf4af845d9542445ffad090e1939.gif)
 ![https://www.spacex.com/assets/images/human-spaceflight/iss/iss_infographic.svg](https://www.spacex.com/assets/images/human-spaceflight/iss/iss_infographic.svg) 
 [Dolphin Progress Report: Release 2609](https://www.ign.com/articles/the-best-gamecube-games-of-all-time)
 [The 25 Best GameCube Games of All Time @ign](https://www.ign.com/articles/the-best-gamecube-games-of-all-time)
 [https://archive.org/details/@the_data_archivist_v0_01?page=3](https://archive.org/details/@the_data_archivist_v0_01?page=3)
 
-![https://i.pinimg.com/originals/3a/f8/bf/3af8bf4af845d9542445ffad090e1939.gif](https://i.pinimg.com/originals/3a/f8/bf/3af8bf4af845d9542445ffad090e1939.gif)
 ---
 
 [LOS ANGELES FLOODED — Drivers TRAPPED, LA River RAGING & RECORD King Tides Next (Latest Updates)](https://youtu.be/Hv0H54Bdd_0?t=33) // [@nasa-jpl @usepa @eosdis-nasa `FLOOD_DATA` ]()
