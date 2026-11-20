@@ -37,6 +37,8 @@ mathjax: true
 
 [LOS ANGELES FLOODED — Drivers TRAPPED, LA River RAGING & RECORD King Tides Next (Latest Updates)](https://youtu.be/Hv0H54Bdd_0?t=33)
 
+<img  alt="tumblr_b095201420513c84a0907bc656944d0e_2a5e7a2f_1280" src="https://github.com/user-attachments/assets/91589e4f-e96b-47db-9998-af6cc278ed66" />
+
 <img width="720" height="812" alt="image" src="https://github.com/user-attachments/assets/4f03e86d-e973-4d13-b1b7-2cf5da0b1eac" />
 
  
