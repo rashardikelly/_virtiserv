@@ -34,7 +34,14 @@ mathjax: true
 
 
 ---
+[LOS ANGELES FLOODED — Drivers TRAPPED, LA River RAGING & RECORD King Tides Next (Latest Updates)](https://youtu.be/Hv0H54Bdd_0?t=33)
 
+<img  alt="image" src="https://github.com/user-attachments/assets/671c7f13-f304-4458-ada5-7c9e69f3ca7e" />
+
+`OLD`
+## @la-county-isd seaswell today @CityOfSantasMonica
+[@usgs water dashboard dam output view - `usingUSGSwaterDashboardtocheckDamOUTPUT`](https://ia601803.us.archive.org/25/items/m_3311822_ne_11_060_20220511/usingUSGSwaterDashboardtocheckDamOUTPUT.webm)
+![https://ia601803.us.archive.org/25/items/m_3311822_ne_11_060_20220511/Screenshot%202026-11-01%203.23.45%20PM.png](https://ia601803.us.archive.org/25/items/m_3311822_ne_11_060_20220511/Screenshot%202026-11-01%203.23.45%20PM.png) 
 
 @la-county-isd Sepulveda and Arroyo Seco had higher than normal output all day, don't blame it all on rain @nasa @commercegov [Rescues on both coasts as storm, atmospheric river bring heavy rain](https://youtu.be/Ny1fnW_HCtA?t=63)
 [WESH 2's First Warning Chief Meteorologist Tony Mainolfi talks heavy rain, flooding](https://youtu.be/GP5fk0iZHoM?t=46)
