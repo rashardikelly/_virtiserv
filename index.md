@@ -31,6 +31,9 @@ mathjax: true
 
 
 ## @cbs-news-data
+[@blackgirlscode russiancouncil.ru/en/contacts/](https://russiancouncil.ru/en/contacts/) @ESA @NASA @UKSPACEAGENCY
+[EMIT_L1B_RAD_001_20251129T030729_2533302_009](https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G3888904485-LPCLOUD&q=emit&sb[0]=112.86004%2C22.2526%2C114.47064%2C23.17798&lat=22.92404175&long=114.11835937394635&zoom=7.933798976930877) // E-mail: [welcome@russiancouncil.ru](mailto:welcome@russiancouncil.ru)
+<img   alt="EMIT_L1B_RAD_001_20251129T030729_2533302_009" src="https://github.com/user-attachments/assets/e1f4dcb8-bbe6-4117-a7fe-2c1fb4bf8117" />
 
 [@la-county-isd EMIT_L1B_RAD_001_20251216T055140_2535004_015  @nasa-jpl](https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G3951011459-LPCLOUD&q=emit&sb[0]=112.86004%2C22.2526%2C114.47064%2C23.17798&lat=21.683763499999998&long=113.84525828023064&zoom=9.099984929757335)
 <img  alt="EMIT_L1B_RAD_001_20251216T055140_2535004_015" src="https://github.com/user-attachments/assets/6a42bda2-9720-4089-959e-59798163a94d" />
