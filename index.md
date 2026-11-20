@@ -31,7 +31,11 @@ mathjax: true
 
 
 ## @cbs-news-data
+[Trump touts relationships with Putin and Xi after historic Asia trip @abcnews @newshour](https://abcnews.com/Politics/trump-hold-news-conference-friday-asia-trip/story?id=138307456)
 
+
+
+<img  alt="ECOv002_L2T_LSTE_47205_007_45SXR_20261101T160135_0713_02" src="https://github.com/user-attachments/assets/1bcacf99-393f-4ae5-8769-e91d956f501a" />
 
 <img   alt="image" src="https://github.com/user-attachments/assets/4caf8730-3b1b-4350-bda7-8539422408f9" />
 
