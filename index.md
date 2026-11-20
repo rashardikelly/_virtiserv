@@ -34,7 +34,95 @@ mathjax: true
 
 
 ---
+
 [LOS ANGELES FLOODED — Drivers TRAPPED, LA River RAGING & RECORD King Tides Next (Latest Updates)](https://youtu.be/Hv0H54Bdd_0?t=33)
+
+ 
+<div class="tupperware">
+  
+  
+<video  controls> 
+	<source src="https://ia800802.us.archive.org/20/items/saa2-master/VID_20261117_211429696.mp4" type="video/mp4">	 
+	
+</video> 
+
+<video controls>
+	<source src="https://ia600802.us.archive.org/20/items/saa2-master/VID_20261119_113658556.mp4" type="video/mp4">
+	
+</video> 
+
+<video controls>
+	<source src="https://ia600802.us.archive.org/20/items/saa2-master/VID_20261119_114104376.mp4" type="video/mp4">	
+	
+</video> 
+  
+    
+<video  controls> 
+	<source src="https://ia800802.us.archive.org/20/items/saa2-master/VID_20261119_113056548.mp4" type="video/mp4">	 
+	
+</video>   
+  
+  
+<video  controls> 
+	<source src="https://ia800802.us.archive.org/20/items/saa2-master/VID_20261119_122002006.mp4" type="video/mp4">	 
+	
+</video> 
+
+<video controls>
+	<source src="https://ia600802.us.archive.org/20/items/saa2-master/VID_20261119_155555174.mp4" type="video/mp4">
+	
+</video> 
+
+<video controls>
+	<source src="https://ia800802.us.archive.org/20/items/saa2-master/VID_20261118_220601889.mp4" type="video/mp4">	
+	
+</video> 
+  
+  
+  
+
+<video  controls> 
+	
+
+<source src="https://ia801804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250220-093458.mp4" type="video/mp4">	 
+
+</video> 
+
+<video controls> 
+	
+<source src="https://ia601804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250220-131433.mp4" type="video/mp4">	 
+
+</video> 
+
+<video controls> 
+	
+<source src="https://ia801804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250220-193317.mp4" type="video/mp4">	 
+
+</video> 
+
+</div>
+
+<div class="tupperware">
+	
+<video controls> 
+	
+<source src="https://ia801804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250223-060247.mp4" type="video/mp4">	 
+
+</video> 
+
+<video controls> 
+<source src="https://ia601804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250223-084039.mp4" type="video/mp4">
+	
+</video> 
+
+<video controls> 
+	
+<source src="https://ia601804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250223-062038.mp4" type="video/mp4">	
+	
+</video>
+
+ </div>
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/671c7f13-f304-4458-ada5-7c9e69f3ca7e" />
 
