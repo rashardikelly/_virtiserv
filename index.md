@@ -29,6 +29,15 @@ mathjax: true
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
+[Bonobo - ESSENTIAL mix 2014, 2014-04-12 @BBC radio 1](https://youtu.be/jwHnLHwypuk?list=RDjwHnLHwypuk&t=45)
+@bbc its old, but we have [hydrology issues](https://swot.jpl.nasa.gov/science/hydrology/) and I hope I can get inspired to finish this report, like a workout mix @nasa-jpl @whitehouse @foratlanta @ajcnews @cityoflosangeles _[Lana J Harris](https://www.youtube.com/channel/UCnZ9hO-KsnwUAZHXmpG0JxA)_ I hope your car ok @Blackgirlscode! [Bonobo - ESSENTIAL mix 2014, 2014-04-12 @BBC radio 1](https://youtu.be/jwHnLHwypuk?list=RDjwHnLHwypuk&t=45)
+
+
+# MEN ENCOUNTER MARS (1965) - Mariner 4,
+first Mars flyby & photos [`WATCH` - https://youtu.be/RKVzepl-2zY?t=53 NASA documentary](https://youtu.be/RKVzepl-2zY?t=53)
+<img  alt="image" src="https://github.com/user-attachments/assets/add308ba-5a47-461c-a5d1-fb42c7add674" />
+
+
 \\ [Eric Burdon - The Vision Of Rassan @hulu](https://youtu.be/14iUJFTmWJE?t=18) // [@NASA-jpl ASK @AJCNEWS `MEANING` Future - Life Is Good (Official Music Video) ft. Drake @NASA-PDS](https://youtu.be/l0U7SxXHkPY?t=119) // [Wu Tang Clan Mixtape Side A](https://youtu.be/HvErqLbRuig?list=RDHvErqLbRuig&t=2) // [O̲u̲tkast - ATLiens](https://youtu.be/JRCiDNfiKbc?list=RDJRCiDNfiKbc&t=11) // [Björk - Post (Full Album) (1995) ](https://youtu.be/bw2VXQa7YRs?si=MWQK61it5OvtDwZm)
 
 ---
