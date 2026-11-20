@@ -24,7 +24,7 @@ mathjax: true
 {{ site.time }}
  {{ site.title | default: site.github.repository_name }}
          
-[Nuff Man a Dead · Super Cat @deptofwar @blackgirlscode](https://youtu.be/RBbPqCpSxFc?si=zflh3YGWhAcQeOXG) // [Bob Marley versus Lee scratch Perry the upsetter years](https://youtu.be/LKBvyBTTTA4?si=u42ojRVAlwq0_s3E) // [Video for Gotta Man performed by Eve.](https://youtu.be/NUEQ7BmGh9k?t=136)
+[Nuff Man a Dead · Super Cat @deptofwar @blackgirlscode](https://youtu.be/RBbPqCpSxFc?si=zflh3YGWhAcQeOXG) // [Bob Marley versus Lee scratch Perry the upsetter years](https://youtu.be/LKBvyBTTTA4?si=u42ojRVAlwq0_s3E) // [Video for Gotta Man performed by Eve.](https://youtu.be/NUEQ7BmGh9k?t=136) // [Dem No Worry We · Super Cat](https://youtu.be/mSZo8he1ehs?t=67)
 
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
