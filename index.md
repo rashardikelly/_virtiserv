@@ -30,6 +30,13 @@ mathjax: true
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
 
+## @la-county-isd @LongBeachinnovationtem
+[coast.noaa.gov/slr/#/layer/slr/10/-13149197.22655894/4000500.377432489/11.238/satellite/82/0.8/2050/interHigh/noAccretion/NOS_Minor](https://coast.noaa.gov/slr/#/layer/slr/10/-13149197.22655894/4000500.377432489/11.238/satellite/82/0.8/2050/interHigh/noAccretion/NOS_Minor)
+<img  alt="image" src="https://github.com/user-attachments/assets/901f5f41-2b24-40f4-a936-03c21fc95744" />
+
+[oceanservice.noaa.gov/hazards/sealevelrise/](https://oceanservice.noaa.gov/hazards/sealevelrise/)
+<img  alt="image" src="https://github.com/user-attachments/assets/3c4a50bb-2152-4cce-84ad-9c8d7a853bcd" />
+
 
 ## HuntinGton Beach @la-county-isd
 
