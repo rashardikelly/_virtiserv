@@ -30,8 +30,14 @@ mathjax: true
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
 [Jay Electronica - Letter To Mars](https://youtu.be/zUDnWVTYBhU?si=3m1SBrZb4pTsIjEs) hi @nasa-pds _marsMedia_ @nasa @foratlanta @CityOfLosAngeles
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094200_094299/ESP_094261_1810/ESP_094261_1810_COLOR.browse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094200_094299/ESP_094261_1810/ESP_094261_1810_COLOR.browse.jpg) 
+
 ![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094500_094599/ESP_094548_1985/ESP_094548_1985_MRGB.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094500_094599/ESP_094548_1985/ESP_094548_1985_MRGB.abrowse.jpg) 
 
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094200_094299/ESP_094290_2300/ESP_094290_2300_MIRB.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094200_094299/ESP_094290_2300/ESP_094290_2300_MIRB.abrowse.jpg) 
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094200_094299/ESP_094276_2065/ESP_094276_2065_RED.NOMAP.browse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094200_094299/ESP_094276_2065/ESP_094276_2065_RED.NOMAP.browse.jpg) 
 
 ## Dust Devil Tracks on Bright Dunes
 This image features dark dust devil tracks on bright dunes that have an odd distribution. The dunes look wind eroded: striations or layering? A false color contrast between dunes and dust devil tracks may provide information to understand dune formation, shape, and dust devil initiation. This footprint is in Galle Crater.
