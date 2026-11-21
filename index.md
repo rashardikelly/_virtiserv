@@ -31,6 +31,9 @@ mathjax: true
 
 
 ## [@cityoflosangeles ](https://youtu.be/l1LbVBdfrOY?t=208)
+[losangeles.china-consulate.gov.cn/eng/](https://losangeles.china-consulate.gov.cn/eng/)
+![https://losangeles.china-consulate.gov.cn/eng/images/topen.jpg](https://losangeles.china-consulate.gov.cn/eng/images/topen.jpg)
+
 <img alt="ECOv002_L3T_JET_47065_013_11SLT_20261023T171220_0713_01" src="https://github.com/user-attachments/assets/ef01a20c-395c-4242-88dd-5424ffcb3105" />
 
 <img   alt="ECOv002_L3T_JET_47065_013_11SLT_20261023T171220_0713_01_ETinstUncertainty" src="https://github.com/user-attachments/assets/9c62c4c8-f386-4818-8340-55a953ea234e" />
