@@ -29,6 +29,10 @@ mathjax: true
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
+[Jay Electronica - Letter To Mars](https://youtu.be/zUDnWVTYBhU?si=3m1SBrZb4pTsIjEs) hi @nasa-pds _marsMedia_ @nasa @foratlanta @CityOfLosAngeles
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094500_094599/ESP_094548_1985/ESP_094548_1985_MRGB.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094500_094599/ESP_094548_1985/ESP_094548_1985_MRGB.abrowse.jpg) 
+
+
 ## Dust Devil Tracks on Bright Dunes
 This image features dark dust devil tracks on bright dunes that have an odd distribution. The dunes look wind eroded: striations or layering? A false color contrast between dunes and dust devil tracks may provide information to understand dune formation, shape, and dust devil initiation. This footprint is in Galle Crater.
  [Jay Electronica - Letter To Mars](https://youtu.be/zUDnWVTYBhU?si=3m1SBrZb4pTsIjEs)
@@ -38,6 +42,7 @@ This image features dark dust devil tracks on bright dunes that have an odd dist
 
 ![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_077400_077499/ESP_077477_1280/ESP_077477_1280_RED.NOMAP.browse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_077400_077499/ESP_077477_1280/ESP_077477_1280_RED.NOMAP.browse.jpg)
 
+![https://static.uahirise.org/hipod/ESP_077477_1280.jpg](https://static.uahirise.org/hipod/ESP_077477_1280.jpg) 
 
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2174428302&color=%230075ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/jayelectronica" title="J A Y   E L E C T R O N I C A" target="_blank" style="color: #cccccc; text-decoration: none;">J A Y   E L E C T R O N I C A @BLACKGiRLSCODE @HULU is mars @rashardikelly @nasa-jpl </a> · <a href="https://soundcloud.com/jayelectronica/letter-to-mars" title="Letter To Mars" target="_blank" style="color: #cccccc; text-decoration: none;">Letter To Mars</a></div>
