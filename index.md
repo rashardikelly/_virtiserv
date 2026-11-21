@@ -32,7 +32,7 @@ mathjax: true
 
 ## [@cityoflosangeles ](https://youtu.be/l1LbVBdfrOY?t=208)
 [losangeles.china-consulate.gov.cn/eng/](https://losangeles.china-consulate.gov.cn/eng/)
-![https://losangeles.china-consulate.gov.cn/eng/images/topen.jpg](https://losangeles.china-consulate.gov.cn/eng/images/topen.jpg)
+![https://losangeles.china-consulate.gov.cn/eng/images/topen.jpg](https://losangeles.china-consulate.gov.cn/eng/images/topen.jpg) // [@isro us.china-embassy.gov.cn/eng/](https://us.china-embassy.gov.cn/eng/)
 
 <img alt="ECOv002_L3T_JET_47065_013_11SLT_20261023T171220_0713_01" src="https://github.com/user-attachments/assets/ef01a20c-395c-4242-88dd-5424ffcb3105" />
 
