@@ -24,10 +24,20 @@ mathjax: true
 {{ site.time }}
  {{ site.title | default: site.github.repository_name }}
          
-[Nuff Man a Dead · Super Cat @deptofwar @blackgirlscode](https://youtu.be/RBbPqCpSxFc?si=zflh3YGWhAcQeOXG) // [Bob Marley versus Lee scratch Perry the upsetter years](https://youtu.be/LKBvyBTTTA4?si=u42ojRVAlwq0_s3E) // [Video for Gotta Man performed by Eve.](https://youtu.be/NUEQ7BmGh9k?t=136) // [Dem No Worry We · Super Cat](https://youtu.be/mSZo8he1ehs?t=67) // [Ghetto Red Hot · Super Cat](https://youtu.be/N4F8sIpynA4?t=45) // [Single Parent · Buju Banton @nasa-jpl](https://youtu.be/TwhW6GQIC8A?si=3jKPYlRLyxAce92o) // [Don Dada · Super Cat @whitehouse @blackgirlscode](https://youtu.be/EEAdbi3sJn8?list=RDTwhW6GQIC8A&t=36) // [Wanna Be Loved · Buju Banton](https://youtu.be/kozEIbLT5z4?list=RDTwhW6GQIC8A&t=85) // [Boops · Super Cat](https://youtu.be/mP3zd09wIno?list=RDmP3zd09wIno&t=90) // [1Xtra in Jamaica - Burro Banton, Eek-A-Mouse, Peter Metro & Major Mackeral Freestyle](https://youtu.be/l1LbVBdfrOY?t=13)
+[Nuff Man a Dead · Super Cat @deptofwar @blackgirlscode](https://youtu.be/RBbPqCpSxFc?si=zflh3YGWhAcQeOXG) // [Bob Marley versus Lee scratch Perry the upsetter years](https://youtu.be/LKBvyBTTTA4?si=u42ojRVAlwq0_s3E) // [Video for Gotta Man performed by Eve.](https://youtu.be/NUEQ7BmGh9k?t=136) // [Dem No Worry We · Super Cat](https://youtu.be/mSZo8he1ehs?t=67) // [Ghetto Red Hot · Super Cat](https://youtu.be/N4F8sIpynA4?t=45) // [Single Parent · Buju Banton @nasa-jpl](https://youtu.be/TwhW6GQIC8A?si=3jKPYlRLyxAce92o) // [Don Dada · Super Cat @whitehouse @blackgirlscode](https://youtu.be/EEAdbi3sJn8?list=RDTwhW6GQIC8A&t=36) // [Wanna Be Loved · Buju Banton](https://youtu.be/kozEIbLT5z4?list=RDTwhW6GQIC8A&t=85) // [Boops · Super Cat](https://youtu.be/mP3zd09wIno?list=RDmP3zd09wIno&t=90) // [1Xtra in Jamaica - Burro Banton, Eek-A-Mouse, Peter Metro & Major Mackeral Freestyle](https://youtu.be/l1LbVBdfrOY?t=13) // [Jay Electronica - Letter To Mars](https://youtu.be/zUDnWVTYBhU?si=3m1SBrZb4pTsIjEs)
 
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+
+## Dust Devil Tracks on Bright Dunes
+This image features dark dust devil tracks on bright dunes that have an odd distribution. The dunes look wind eroded: striations or layering? A false color contrast between dunes and dust devil tracks may provide information to understand dune formation, shape, and dust devil initiation. This footprint is in Galle Crater.
+ [Jay Electronica - Letter To Mars](https://youtu.be/zUDnWVTYBhU?si=3m1SBrZb4pTsIjEs)
+ ![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_077400_077499/ESP_077477_1280/ESP_077477_1280_MIRB.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_077400_077499/ESP_077477_1280/ESP_077477_1280_MIRB.abrowse.jpg) 
+ 
+<img alt="image" src="https://github.com/user-attachments/assets/4942a202-2c9f-4d10-b9fa-092ecd51063a" />
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_077400_077499/ESP_077477_1280/ESP_077477_1280_RED.NOMAP.browse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_077400_077499/ESP_077477_1280/ESP_077477_1280_RED.NOMAP.browse.jpg)
+
 
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2174428302&color=%230075ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/jayelectronica" title="J A Y   E L E C T R O N I C A" target="_blank" style="color: #cccccc; text-decoration: none;">J A Y   E L E C T R O N I C A @BLACKGiRLSCODE @HULU is mars @rashardikelly @nasa-jpl </a> · <a href="https://soundcloud.com/jayelectronica/letter-to-mars" title="Letter To Mars" target="_blank" style="color: #cccccc; text-decoration: none;">Letter To Mars</a></div>
