@@ -27,7 +27,7 @@ mathjax: true
 
 ![https://p4-ofp.static.pub//fes/cms/2025/11/12/2kneehqyjc1xfbb0bkyogl782zi59n715697.png](https://p4-ofp.static.pub//fes/cms/2025/11/12/2kneehqyjc1xfbb0bkyogl782zi59n715697.png)
 
-@tmobile hi I purchased a [moto play 2026](https://www.metrobyt-mobile.com/cell-phone/motorola-moto-g-play-2026?srsltid=AYCX9vKGtLTgQ5o8h8BkaOIrW6-QM5dfcxgciAQR4cBbxGNliTvSjVw8)... I stuck it in a socket at [the park last night @la-county-isd](https://grandparkla.org/) and it started buzzing in triple pulses and the battery draied as I watched youtube with the powered battery 🔋 icon present @CityOFLosAngeles I have been working @eosdis-nasa time with @SWOTcommunity monitoring riverflow @nasa-pds @nasa-giss [https://github.com/SWOT-community/SWOT-Hydrology](https://github.com/SWOT-community/SWOT-Hydrology)
+[@tmobile](https://careers.t-mobile.com/business-sales-jobs?utm_medium=Search&utm_campaign=FY_26_US_TFB&source=srm_google_enterprise_sem&gad_source=1&gad_campaignid=23410226775&gbraid=0AAAAA-I_LM0UYGTi59lalD5q80enrTqvZ&gclid=CjwKCAiAn4XYBhA-EiwA8176FUtwPiaGFPDZUuBfyFs7ebZ-rNYFzM2vdyip_9vjLZss5sUf7dXKKxoCsvEQAvD_BwE) hi I purchased a [moto play 2026](https://www.metrobyt-mobile.com/cell-phone/motorola-moto-g-play-2026?srsltid=AYCX9vKGtLTgQ5o8h8BkaOIrW6-QM5dfcxgciAQR4cBbxGNliTvSjVw8)... I stuck it in a socket at [the park last night @la-county-isd](https://grandparkla.org/) and it started buzzing in triple pulses and the battery draied as I watched youtube with the powered battery 🔋 icon present @CityOFLosAngeles I have been working @eosdis-nasa time with @SWOTcommunity monitoring riverflow @nasa-pds @nasa-giss [https://github.com/SWOT-community/SWOT-Hydrology](https://github.com/SWOT-community/SWOT-Hydrology) . . If the power is completely off the led will illuminate every 2-5 min but the charging indicator is not telling me if the percentage of stored power increased or not [@nasa-pds hi my new phone is broken it’s rapidly decharging please tell the team ](https://rashardkelly.tumblr.com/post/833933255498776576/beautifulmars-hi-my-new-phone-is-broken-its) @foratlanta @ajcnews , [@tmobile](https://t-mobile.github.io/) advertises a 14 day return policy, I have my purple bag, but I think I used my receipt for smoking paper accidentally @usgS 
 
 ![https://www.t-mobile.com/content/dam/digx/metro/us/en/branding/logos/corporate/metro-d-light-2022.svg](https://www.t-mobile.com/content/dam/digx/metro/us/en/branding/logos/corporate/metro-d-light-2022.svg) 
 
@@ -38,8 +38,14 @@ mathjax: true
 </div>
 
 @nasa-jpl its the cumulative discharge coming off the dams that makes it important to keep up with precipitation 
-[tumblr.com/rashardkelly/833787955326877696?source=share](https://www.tumblr.com/rashardkelly/833787955326877696?source=share)
+[tumblr.com/rashardkelly/833787955326877696?source=share](https://www.tumblr.com/rashardkelly/833787955326877696?source=share) // [https://rashardkelly.tumblr.com/post/833933255498776576/beautifulmars-hi-my-new-phone-is-broken-its](https://rashardkelly.tumblr.com/post/833933255498776576/beautifulmars-hi-my-new-phone-is-broken-its) 
+
 <img alt="image" src="https://github.com/user-attachments/assets/c7d38c2a-df09-4dad-aafc-a2e13c7c78cc" />
+<img alt="image" src="https://github.com/user-attachments/assets/47e9b216-96d7-433a-83c1-388079a06051" />
+
+[@nasa ~la-county-isd `BioMass` 64.media.tumblr.com/55e6c8aeeb5a3d0ab36ec32eb04def55/963c4dbdb3d914ef-cd/47d5611c11e3ea15b244ba3e91e5679e3746e30c.mov](https://64.media.tumblr.com/55e6c8aeeb5a3d0ab36ec32eb04def55/963c4dbdb3d914ef-cd/47d5611c11e3ea15b244ba3e91e5679e3746e30c.mov)
+[`BioMass` - https://rashardkelly.tumblr.com/post/833919488721403904/brandybrandybrandy-nasa-nas-take-note-of-the](https://rashardkelly.tumblr.com/post/833919488721403904/brandybrandybrandy-nasa-nas-take-note-of-the)
+<img   alt="tumblr_524415b51bb6272828e2cda3b5cdfa21_aab4a538_1280" src="https://github.com/user-attachments/assets/a3cf460c-b83f-44af-beff-d40e981388cc" />
 
 [@nasa-jpl here is some of the arroyo seco work I was assigned @la-county-isd tumblr.com/rashardkelly/833788159262343168?source=share](https://www.tumblr.com/rashardkelly/833788159262343168?source=share) // [64.media.tumblr.com/592cf9890ab5faa3c02ba161c4dd4fde/84b55bada40fd661-f6/s720/b030dead42fd29e7a6fe4509ac4a10114df44508.mov](https://64.media.tumblr.com/592cf9890ab5faa3c02ba161c4dd4fde/84b55bada40fd661-f6/s720/b030dead42fd29e7a6fe4509ac4a10114df44508.mov)
 <img  alt="image @doug-newman-nasa @usgs @eosdis-nasa @nasa-jpl here is some of the arroyo seco work I was assigned @la-county-isd tumblr.com/rashardkelly/833788159262343168?source=share" src="https://github.com/user-attachments/assets/acb2c19f-d3c3-4cc8-a797-b03397ea70d9" />
