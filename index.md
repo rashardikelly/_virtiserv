@@ -24,8 +24,11 @@ mathjax: true
 {{ site.time }}
  {{ site.title | default: site.github.repository_name }}
 
+@nasa-jpl its the cumulative discharge coming off the dams that makes it important to keep up with precipitation 
+[tumblr.com/rashardkelly/833787955326877696?source=share](https://www.tumblr.com/rashardkelly/833787955326877696?source=share)
+<img alt="image" src="https://github.com/user-attachments/assets/c7d38c2a-df09-4dad-aafc-a2e13c7c78cc" />
 
-[@nasa-jpl here is some of the arroyo seco work I was assigned @la-county-isd tumblr.com/rashardkelly/833788159262343168?source=share](https://www.tumblr.com/rashardkelly/833788159262343168?source=share)
+[@nasa-jpl here is some of the arroyo seco work I was assigned @la-county-isd tumblr.com/rashardkelly/833788159262343168?source=share](https://www.tumblr.com/rashardkelly/833788159262343168?source=share) // [64.media.tumblr.com/592cf9890ab5faa3c02ba161c4dd4fde/84b55bada40fd661-f6/s720/b030dead42fd29e7a6fe4509ac4a10114df44508.mov](https://64.media.tumblr.com/592cf9890ab5faa3c02ba161c4dd4fde/84b55bada40fd661-f6/s720/b030dead42fd29e7a6fe4509ac4a10114df44508.mov)
 <img  alt="image @doug-newman-nasa @usgs @eosdis-nasa @nasa-jpl here is some of the arroyo seco work I was assigned @la-county-isd tumblr.com/rashardkelly/833788159262343168?source=share" src="https://github.com/user-attachments/assets/acb2c19f-d3c3-4cc8-a797-b03397ea70d9" />
 
 		 
