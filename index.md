@@ -30,9 +30,11 @@ mathjax: true
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2174428302&color=%230075ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/jayelectronica" title="J A Y   E L E C T R O N I C A" target="_blank" style="color: #cccccc; text-decoration: none;">J A Y   E L E C T R O N I C A @BLACKGiRLSCODE @HULU is mars @rashardikelly @nasa-jpl </a> · <a href="https://soundcloud.com/jayelectronica/letter-to-mars" title="Letter To Mars" target="_blank" style="color: #cccccc; text-decoration: none;">Letter To Mars</a></div>
+
 ## [@cityoflosangeles ](https://youtu.be/l1LbVBdfrOY?t=208)
 [losangeles.china-consulate.gov.cn/eng/](https://losangeles.china-consulate.gov.cn/eng/)
-![https://losangeles.china-consulate.gov.cn/eng/images/topen.jpg](https://losangeles.china-consulate.gov.cn/eng/images/topen.jpg) // [@isro us.china-embassy.gov.cn/eng/](https://us.china-embassy.gov.cn/eng/)
+![https://losangeles.china-consulate.gov.cn/eng/images/topen.jpg](https://losangeles.china-consulate.gov.cn/eng/images/topen.jpg) // [@isro us.china-embassy.gov.cn/eng/](https://us.china-embassy.gov.cn/eng/) // [https://en.baochinhphu.vn/xi-jinping.html @stateofcalifornia](https://en.baochinhphu.vn/xi-jinping.html) // [https://foreign.gov.tt/missions-consuls/foreign-representatives-accredited-tt/foreign-missions/embassy-peoples-republic-china/](vhttps://foreign.gov.tt/missions-consuls/foreign-representatives-accredited-tt/foreign-missions/embassy-peoples-republic-china/)
 
 <img alt="ECOv002_L3T_JET_47065_013_11SLT_20261023T171220_0713_01" src="https://github.com/user-attachments/assets/ef01a20c-395c-4242-88dd-5424ffcb3105" />
 
