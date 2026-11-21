@@ -25,13 +25,19 @@ mathjax: true
  {{ site.title | default: site.github.repository_name }}
 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/bb75573f-553a-47d4-aff3-19d65d312a34" />
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Cargo Dragon CRS-35 is back home:</p>&mdash; NSF - NASASpaceflight.com (@NASASpaceflight) <a href="https://x.com/NASASpaceflight/status/2124265842087276824?ref_src=twsrc%5Etfw">November 21, 2026</a></blockquote>
 <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
+[SpaceX Dragon Splashes Down off LA Coast @asulibraries - mynewsla.com/life/2026/11/21/spacex-dragon-splashes-down-off-la-coast/](https://mynewsla.com/life/2026/11/21/spacex-dragon-splashes-down-off-la-coast/)
 
-**Dragon is home**: CRS-35 has splashed down. [@nasa-jpl @nasa-pds @la-county-isd @cityoflosangeles facebook.com/tellspringyan/posts/dragon-is-home-crs-35-has-splashed-downspacex-confirmed-splashdown-completing-it/30063912469859420/](https://www.facebook.com/tellspringyan/posts/dragon-is-home-crs-35-has-splashed-downspacex-confirmed-splashdown-completing-it/30063912469859420/)
+**Dragon is home**: CRS-35 has splashed down. [@nasa-jpl @nasa-pds @la-county-isd @cityoflosangeles facebook.com/tellspringyan/posts/dragon-is-home-crs-35-has-splashed-downspacex-confirmed-splashdown-completing-it/30063912469859420/](https://www.facebook.com/tellspringyan/posts/dragon-is-home-crs-35-has-splashed-downspacex-confirmed-splashdown-completing-it/30063912469859420/) // [MV Shannon](https://space-offshore.com/shannon), formerly known as MV GO Navigator, is one of SpaceX's Dragon capsule recovery vessels based at the [Port of Long Beach](https://polb.com/cargo-nav/port-operations#operations-dashboard), [California](https://water.ca.gov/) is towing the capsule back @cbsnews @nbcnews @hulu // @NASA-JPl its supposed to arrive in long beach at midnight [https://www.marinetraffic.com/en/ais/details/ships/shipid:452540/mmsi:367550000/imo:9566887/vessel:SHANNON](https://www.marinetraffic.com/en/ais/details/ships/shipid:452540/mmsi:367550000/imo:9566887/vessel:SHANNON)
+\\\ [wiki](https://en.wikipedia.org/wiki/Shannon_(2009_ship))
 <img  alt="image" src="https://github.com/user-attachments/assets/6031cb98-6539-4573-bfa9-ff4f93179a0b" />
 
+[https://space-offshore.com/shannon](https://space-offshore.com/shannon)
+![https://space-offshore.com/wp-content/uploads/2023/07/50665590813_afa9d2729b_c-768x512.jpg](https://space-offshore.com/wp-content/uploads/2023/07/50665590813_afa9d2729b_c-768x512.jpg) 
 
 ![https://p4-ofp.static.pub//fes/cms/2025/11/12/2kneehqyjc1xfbb0bkyogl782zi59n715697.png](https://p4-ofp.static.pub//fes/cms/2025/11/12/2kneehqyjc1xfbb0bkyogl782zi59n715697.png)
 
