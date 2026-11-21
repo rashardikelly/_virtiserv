@@ -31,6 +31,9 @@ mathjax: true
 
 [Jay Electronica - Letter To Mars](https://youtu.be/zUDnWVTYBhU?si=3m1SBrZb4pTsIjEs) hi @nasa-pds _marsMedia_ @nasa @foratlanta @CityOfLosAngeles
 
+
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01979/ids/edr/browse/rcam/RLF_1979_0842629127_523ECM_N0910852RHAZ02420_01_295J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01979/ids/edr/browse/rcam/RLF_1979_0842629127_523ECM_N0910852RHAZ02420_01_295J01_1200.jpg) 
+
 <img  alt="ezgif com-resize" src="https://github.com/user-attachments/assets/e9413d86-f5bb-4ee1-b5a6-4ed68c848e4a" />
 
 ![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05078/opgs/edr/ncam/NLB_848284851EDR_S1252490NCAM00593M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05078/opgs/edr/ncam/NLB_848284851EDR_S1252490NCAM00593M_.JPG) 
