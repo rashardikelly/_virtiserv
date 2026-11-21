@@ -24,6 +24,11 @@ mathjax: true
 {{ site.time }}
  {{ site.title | default: site.github.repository_name }}
 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Cargo Dragon CRS-35 is back home:</p>&mdash; NSF - NASASpaceflight.com (@NASASpaceflight) <a href="https://x.com/NASASpaceflight/status/2124265842087276824?ref_src=twsrc%5Etfw">November 21, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
 **Dragon is home**: CRS-35 has splashed down. [@nasa-jpl @nasa-pds @la-county-isd @cityoflosangeles facebook.com/tellspringyan/posts/dragon-is-home-crs-35-has-splashed-downspacex-confirmed-splashdown-completing-it/30063912469859420/](https://www.facebook.com/tellspringyan/posts/dragon-is-home-crs-35-has-splashed-downspacex-confirmed-splashdown-completing-it/30063912469859420/)
 <img  alt="image" src="https://github.com/user-attachments/assets/6031cb98-6539-4573-bfa9-ff4f93179a0b" />
 
