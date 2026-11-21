@@ -24,6 +24,19 @@ mathjax: true
 {{ site.time }}
  {{ site.title | default: site.github.repository_name }}
 
+
+![https://p4-ofp.static.pub//fes/cms/2025/11/12/2kneehqyjc1xfbb0bkyogl782zi59n715697.png](https://p4-ofp.static.pub//fes/cms/2025/11/12/2kneehqyjc1xfbb0bkyogl782zi59n715697.png)
+
+@tmobile hi I purchased a [moto play 2026](https://www.metrobyt-mobile.com/cell-phone/motorola-moto-g-play-2026?srsltid=AYCX9vKGtLTgQ5o8h8BkaOIrW6-QM5dfcxgciAQR4cBbxGNliTvSjVw8)... I stuck it in a socket at [the park last night @la-county-isd](https://grandparkla.org/) and it started buzzing in triple pulses and the battery draied as I watched youtube with the powered battery 🔋 icon present @CityOFLosAngeles I have been working @eosdis-nasa time with @SWOTcommunity monitoring riverflow @nasa-pds @nasa-giss [https://github.com/SWOT-community/SWOT-Hydrology](https://github.com/SWOT-community/SWOT-Hydrology)
+
+![https://www.t-mobile.com/content/dam/digx/metro/us/en/branding/logos/corporate/metro-d-light-2022.svg](https://www.t-mobile.com/content/dam/digx/metro/us/en/branding/logos/corporate/metro-d-light-2022.svg) 
+
+<div class="section_2col">
+<img  alt="tumblr_31ff579326d950b3b2d5b8c6fe66a004_ff378636_1280" src="https://github.com/user-attachments/assets/5f78fd2e-3e51-4111-864d-93b341b09828" />
+<img alt="tumblr_f4e8c536440142b7175f1a5ac8bbb941_6303bba9_1280" src="https://github.com/user-attachments/assets/e838d2cd-4626-4cea-a554-51d064e6f0bc" />
+<img alt="Motorola/Motorola-moto-g-play-2026/PANTONE-Tapestry/Motorola-moto-g-play-2026-PANTONE-Tapestry-frontimage.png tumblr_f4e8c536440142b7175f1a5ac8bbb941_6303bba9_1280" src="https://cdn.tmobile.com/content/dam/t-mobile/en-p/cell-phones/Motorola/Motorola-moto-g-play-2026/PANTONE-Tapestry/Motorola-moto-g-play-2026-PANTONE-Tapestry-frontimage.png" />
+</div>
+
 @nasa-jpl its the cumulative discharge coming off the dams that makes it important to keep up with precipitation 
 [tumblr.com/rashardkelly/833787955326877696?source=share](https://www.tumblr.com/rashardkelly/833787955326877696?source=share)
 <img alt="image" src="https://github.com/user-attachments/assets/c7d38c2a-df09-4dad-aafc-a2e13c7c78cc" />
