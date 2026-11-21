@@ -24,6 +24,9 @@ mathjax: true
 {{ site.time }}
  {{ site.title | default: site.github.repository_name }}
 
+**Dragon is home**: CRS-35 has splashed down. [@nasa-jpl @nasa-pds @la-county-isd @cityoflosangeles facebook.com/tellspringyan/posts/dragon-is-home-crs-35-has-splashed-downspacex-confirmed-splashdown-completing-it/30063912469859420/](https://www.facebook.com/tellspringyan/posts/dragon-is-home-crs-35-has-splashed-downspacex-confirmed-splashdown-completing-it/30063912469859420/)
+<img  alt="image" src="https://github.com/user-attachments/assets/6031cb98-6539-4573-bfa9-ff4f93179a0b" />
+
 
 ![https://p4-ofp.static.pub//fes/cms/2025/11/12/2kneehqyjc1xfbb0bkyogl782zi59n715697.png](https://p4-ofp.static.pub//fes/cms/2025/11/12/2kneehqyjc1xfbb0bkyogl782zi59n715697.png)
 
