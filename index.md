@@ -25,6 +25,10 @@ mathjax: true
  {{ site.title | default: site.github.repository_name }}
 
 
+[📀🛒💯mrbongo.bandcamp.com/album/beat-bop](https://mrbongo.bandcamp.com/album/beat-bop)
+
+![https://f4.bcbits.com/img/a2741770998_16.jpg](https://f4.bcbits.com/img/a2741770998_16.jpg)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/bb75573f-553a-47d4-aff3-19d65d312a34" />
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Cargo Dragon CRS-35 is back home:</p>&mdash; NSF - NASASpaceflight.com (@NASASpaceflight) <a href="https://x.com/NASASpaceflight/status/2124265842087276824?ref_src=twsrc%5Etfw">November 21, 2026</a></blockquote>
