@@ -25,7 +25,7 @@ mathjax: true
  {{ site.title | default: site.github.repository_name }}
 
 
-// [Ronnie Laws - Friends & Strangers](https://youtu.be/POojH29JoQE?si=JUatEhdZlD4TZqgs) //
+// [Ronnie Laws - Friends & Strangers](https://youtu.be/POojH29JoQE?si=JUatEhdZlD4TZqgs) // [Taana Gardner-Heartbeat](https://youtu.be/pHBYjxAhqgA?si=fy4J9QPPikVudINr)
 
 
 ---
