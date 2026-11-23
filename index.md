@@ -1,4 +1,4 @@
----
+3---
 layout: rt_leap
 mathjax: true
 ---
@@ -24,6 +24,11 @@ mathjax: true
 {{ site.time }}
  {{ site.title | default: site.github.repository_name }}
 
+
+// [Ronnie Laws - Friends & Strangers](https://youtu.be/POojH29JoQE?si=JUatEhdZlD4TZqgs) //
+
+
+---
 # CRS35 LAnded @nasa
 [@nasa-jpl please verify this post](https://www.tumblr.com/spacenutspod/833932881397268480/read-more)
 
