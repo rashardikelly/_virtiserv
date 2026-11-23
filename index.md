@@ -1130,13 +1130,13 @@ I love everyone at a certain level!
 
 
 
-
+```
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Can an AI tell your writing apart from your friend’s? 🤖✍🏾
 In CODE YOUR VOICE, students ages 12 to 17 use Python to train an AI model on their own writing and find out.
 Sat., Nov. 21, 1 to 3 p.m. ET (virtual)
 Register: https://t.co/SqSYOHOwPC 🧡 https://t.co/muxwduwBnO</p>&mdash; Black Girls Code (@BlackGirlsCode) <a href="https://x.com/BlackGirlsCode/status/2120261106195222892?ref_src=twsrc%5Etfw">November 10, 2026</a></blockquote>
 <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
-
+```
 
 	
 # SOURCE:Parker Solar Probe [homepage @nasa-jpl](https://parkersolarprobe.jhuapl.edu/)
@@ -1437,9 +1437,11 @@ Mrs Mitchell, Walking through the terminal this morning I celebrated [MRO](https
     </g>
   </svg>
 
+ ```html
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">@ ava you sure made us wait long enough  # Nova #QueenSugar</p>&mdash; Oprah Winfrey (@Oprah) <a href="https://x.com/Oprah/status/1597778792218386433?ref_src=twsrc%5Etfw">November 30, 2022</a></blockquote>
 <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
-
+```
   
 <img alt="image missing phone being used!!!!!!!! @BLACKGIRLSCODE @nasa-jpl I have @github access there!!!! @google https://accounts.google.com/v3/signin/challenge/ipp/consent?TL=AAxq8nvkeZScNiu-8kUCfQk8ZFcYua0J1Q0FkGZplO5sb2Q69YHi9Nw53G5UpFKK&authuser=0&cid=10&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fv3%2Fconsent%3Fauthuser%3D0%26part%3DAJi8hAMa5CgCH3OSP_QKEXlD1zeKKe-EaeukDC-COHQZTKmD-qa_6se995suAyHepwPN0_hNUxUQEqrqrQ_tNoO4Ho3lnZ9FTaKi02dLU8AeQuEVZJL_KjuArs6yrAWsC93ztB9lvTkKQKd6BAFecjBfa58vPNzkyEyTG6oTS9Vew1GkEmJoJJWbahcjuhK5d7TvEZVQlXGUL6fC2DwfYBdSTBmWD_DogEvT0vcBfK2vzGEaxp9thQ0O5yboDUkZXYrr2vg5MTiOmnMzoRoVJHquYEzaXWoPBsqH6n3tRCtKtTdZU2GGdMxFKNJ6KMCrLMHlqAM_UalucXi1o9T-PwEzikZMCDNzAeBvqoq43xugUQCvboivoQaWq2dEwfj_AMJ309wNW049Kc1pDagu1Eym_2ePMMT_FYku2uG03gI9lsOcQYhDG4ru0Q1reOaPdeB-MfpPCX5jFxFWxBHibXFCb6f2uhVbTM7DRxXooc3haDKiPP3VrnU%26flowName%3DGeneralOAuthFlow%26as%3DSIrm6j3LY21PR50vc9q_xjHrA2SiIjbh_4jPzehoXjg%26client_id%3D41383750805-slra1gn7ge0bcc8ihpqnkk7hf0fo7dem.apps.googleusercontent.com%26requestPath%3D%2Fsignin%2Foauth%2Fv3%2Fconsent%26pli%3D1&dsh=S1593872468%3A1794250886070836&flowEntry=AccountChooser&flowName=GlifWebSignIn&rart=ANgoxccp2SPxeP-SGbKdGxCbitL8tZEpxOzxhureVs6LsXOj9bY1hzpzbbiQP8QoZF6st3T6FdHNLbhnhvs6x3kXxIrhbuhMeIsuU7fvjJKOO9GKvaY6e-U&rpbg=1 @fbicyber @deptofwar @USNAVy @newshour!!!!!  " src="https://github.com/user-attachments/assets/27ce7f2f-0a20-402a-9afb-4f24d149b7fc" />
 
@@ -1531,9 +1533,10 @@ hi [primary @nasa-pds](https://pbs.twimg.com/media/F-sSiK8aMAAQ2AC?format=jpg&na
 
 <img  alt="image" src="https://github.com/user-attachments/assets/521bdb1d-564b-47a9-be84-09b9c5d4a2c9" />
 
+```html
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Representation matters.&quot; Colleen enrolled her daughter Journey in Black Girls Code so she could see every option open to her in tech. Give so more girls can see it too. 🧡 https://t.co/0eRVHUUEEY #SupportOurGirls https://t.co/LM4XBhuXyZ</p>&mdash; Black Girls Code (@BlackGirlsCode) <a href="https://x.com/BlackGirlsCode/status/2118375502167548404?ref_src=twsrc%5Etfw">November 5, 2026</a></blockquote>
 <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
-
+```
 
 <img  alt="Screenshot 2026-11-07 162803" src="https://github.com/user-attachments/assets/5f3661f1-0e0a-4026-9227-ea767d1900e7" />
 
@@ -1689,8 +1692,9 @@ EMIT_L2A_RFL_001_20260802T183403_2621412_004
 [viking](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:vik:viking_lander_1:/vl_0001/i0xx/11i003.red) 
 [insight](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=insight_lander&gather.common.instrument=ICC&gather.common.product_type=ZPS)
 
-
+```
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Summer Jam ‘26 📸 <a href="https://x.com/HOT97?ref_src=twsrc%5Etfw">@HOT97</a> <a href="https://t.co/DnZKZokAAe">pic.twitter.com/DnZKZokAAe</a></p>&mdash; ITSBIZKIT (@ITSBIZKIT) <a href="https://x.com/ITSBIZKIT/status/2081790559320981733?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+```
 
 [ @dhs-gov @commercegov @nasa-jpl @nasa-pds](https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4) // [ra5hard.github.io/](https://ra5hard.github.io/)
 <img alt="image" src="https://github.com/user-attachments/assets/9bdd5866-5020-402f-a3eb-6d4e0fc17c62" />
