@@ -29,6 +29,10 @@ mathjax: true
 
 
 ---
+
+@nasa-pds good morning, m r o is transmitting at three megs a second, I'm making notes as I discern space weather & orbit patterns 
+
+
 # CRS35 LAnded @nasa
 [@nasa-jpl please verify this post](https://www.tumblr.com/spacenutspod/833932881397268480/read-more)
 
