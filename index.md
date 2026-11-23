@@ -1,4 +1,4 @@
-3---
+---
 layout: rt_leap
 mathjax: true
 ---
