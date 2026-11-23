@@ -25,6 +25,23 @@ mathjax: true
  {{ site.title | default: site.github.repository_name }}
 
 
+![https://inglewoodoilfield.com/wp-content/uploads/2017/10/logo-new.png](https://inglewoodoilfield.com/wp-content/uploads/2017/10/logo-new.png) 
+##  Inglewood Oil Field [homepage](https://inglewoodoilfield.com/)
+[@la-county-isd search.earthdata.nasa.gov/search?lat=34.005810119966554&long=-118.3755979107107&zoom=19.225378557508844 ](https://search.earthdata.nasa.gov/search?lat=34.005810119966554&long=-118.3755979107107&zoom=19.225378557508844 ) Good afternoon [Supervisor Mitchell @LACMTA](https://boardagendas.metro.net/person/holly-j-mitchell-a264a17a6349/) the oil pumps on this hill or hydraulic pumps are often called oil pumps but the below a creek is flowing about 3 mi west of that location and it may be pumping water not oil and contributing to our hydrology problems. The property is owned by [Inglewood Oil Field](https://wikimapia.org/1262441/Inglewood-Oil-Field) ...  the 18th-largest oil field in the @stateofcalifornia and the second-most productive in the Los Angeles Basin.
+
+<img alt="f0e79238-150e-4efe-96e3-9a986fc660e3" src="https://github.com/user-attachments/assets/5d7d3578-e81a-4332-a2d4-ec11616953b4" />
+
+![https://inglewoodoilfield.com/wp-content/uploads/2017/10/stocker1-1.jpg](https://inglewoodoilfield.com/wp-content/uploads/2017/10/stocker1-1.jpg)
+
+![https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/InglewoodDetail.jpg/1920px-InglewoodDetail.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/InglewoodDetail.jpg/1920px-InglewoodDetail.jpg) 
+
+By <a href="https://en.wikipedia.org/wiki/User:Antandrus" class="extiw" title="wikipedia:User:Antandrus">Antandrus</a> at <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/wiki/Special:Redirect/page/49076882">Link</a>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/36cb398c-b04c-40a8-b3e7-072527251c0d" />
+
+
+[![https://www.conservation.ca.gov/_catalogs/masterpage/DOC/images/DOC-logo-web.svg](https://www.conservation.ca.gov/_catalogs/masterpage/DOC/images/DOC-logo-web.svg)]()
+
 [📀🛒💯mrbongo.bandcamp.com/album/beat-bop](https://mrbongo.bandcamp.com/album/beat-bop)
 
 ![https://f4.bcbits.com/img/a2741770998_16.jpg](https://f4.bcbits.com/img/a2741770998_16.jpg)
