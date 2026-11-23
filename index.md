@@ -891,7 +891,9 @@ _(Sec. 1.1 added Nov. 8, 2022, by Prop. 1. Res.Ch. 97, 2022. Effective December 
 
 @foratlanta I'm not lying to anyone @nasa-jpl @blackgirlscode @hulu @disney. . . just sayin 
 
+```
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2054341744&color=%230075ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/playboicarti" title="playboicarti" target="_blank" style="color: #cccccc; text-decoration: none;">playboicarti</a> · <a href="https://soundcloud.com/playboicarti/rather-lie-1" title="RATHER LIE" target="_blank" style="color: #cccccc; text-decoration: none;">RATHER LIE</a></div>
+```
 
 ## Books  @nasa-pds
 [Mars by Lowell, Percival, 1855-1916](https://archive.org/details/mars00lowe_0/page/2/mode/2up) //
@@ -922,23 +924,10 @@ Mixes are playlists YouTube makes for you @nasa](https://www.youtube.com/playlis
 
 ##### @ForAtlanta
 when reflecting on the sampling years, relationship with the  artist should be counted in weighing perception of a release [52nd Street - Tell Me (How It Feels)](https://youtu.be/ogMf9GYHgFI?si=hlgcGPQlCSXUADuN)
-
- # MArs Landing Spot Recon @nasa-pds / @nasa-jpl @rashardikelly
-hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_094500_094599/ESP_094571_2285_ESP_094294_2285/ESP_094571_2285_ESP_094294_2285_RED.browse.png - Volcano ? <~ @whitehouse @deptofwar 
- ![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_094500_094599/ESP_094571_2285_ESP_094294_2285/ESP_094571_2285_ESP_094294_2285_RED.browse.png - Volcano ?](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_094500_094599/ESP_094571_2285_ESP_094294_2285/ESP_094571_2285_ESP_094294_2285_RED.browse.png)
-
-![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094500_094599/ESP_094593_1420/ESP_094593_1420_MIRB.browse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094500_094599/ESP_094593_1420/ESP_094593_1420_MIRB.browse.jpg) 
-
-![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094500_094599/ESP_094598_1425/ESP_094598_1425_COLOR.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094500_094599/ESP_094598_1425/ESP_094598_1425_COLOR.abrowse.jpg) 
-
-![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094500_094599/ESP_094598_1425/ESP_094598_1425_MRGB.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094500_094599/ESP_094598_1425/ESP_094598_1425_MRGB.abrowse.jpg)
-
- ![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094500_094599/ESP_094598_1425/ESP_094598_1425_MIRB.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094500_094599/ESP_094598_1425/ESP_094598_1425_MIRB.abrowse.jpg)
-
- ![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094500_094599/ESP_094599_1655/ESP_094599_1655_MRGB.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094500_094599/ESP_094599_1655/ESP_094599_1655_MRGB.abrowse.jpg) 
-
 @nasa-jpl [Measure 45th](https://calmatters.org/california-voter-guide-2026/proposition-45-environmental-review/) @cityOflosangeles
 [Voters rejected Prop. 45. The battle over California’s housing crisis continues](https://www.latimes.com/environment/story/2026-11-11/voters-rejected-prop-45-battle-over-californias-housing-crisis-continues)
+
+```html
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚒 The latest episode of Live From LA County brings together 7 #LACounty leaders for a conversation about emergency preparedness, disaster response, &amp;amp; the coordination required to keep communities safe.
 
 What do these agencies do? What can YOU do?
@@ -947,7 +936,7 @@ What do these agencies do? What can YOU do?
 
 1/2 https://t.co/SRKxtBXMWx</p>&mdash; Ready Los Angeles County (@ReadyLACounty) <a href="https://x.com/ReadyLACounty/status/2120261511306514643?ref_src=twsrc%5Etfw">November 10, 2026</a></blockquote>
 <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
-
+```
 
 ```html
 <iframe src="https://archive.org/embed/snow-white-and-the-seven-dwarfs-1937_202404" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -979,7 +968,7 @@ goeswestabiconus-12p30um-sNov 13, 2026 - 16_11 UTC-eNov 13, 2026 - 17_46 UTC [Wh
 
 <img alt="goeswestabiconus-12p30um-sNov 13, 2026 - 16_11 UTC-eNov 13, 2026 - 17_46 UTC" src="https://github.com/user-attachments/assets/f2c79913-3780-4cb6-99df-736c63bb33a4" />
 
-
+```
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Los Angeles, I am deeply honored to be your next mayor.
 
 I just spoke with Mayor Bass and expressed my deepest gratitude for her leadership and decades of service. Los Angeles would not be the city it is today without her.
@@ -988,6 +977,8 @@ I love this city. I believe in its people. The work ahead will be hard, and chan
 
 Thank you, LA. Let’s get to work.</p>&mdash; Nithya Raman (@nithyavraman) <a href="https://x.com/nithyavraman/status/2118438804063445171?ref_src=twsrc%5Etfw">November 5, 2026</a></blockquote>
 <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+```
+
 # Open source goes to Mars 🚀
 [The Emirates Mars Mission - pmc.ncbi.nlm.nih.gov/articles/PMC8830993/ @NiHGOV @whitehouse @CityOFLosAngeles](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/) //
 [`read` - https://github.blog/news-insights/company-news/open-source-goes-to-mars/](https://github.blog/news-insights/company-news/open-source-goes-to-mars/)
@@ -1971,62 +1962,11 @@ by The Library of Congress](https://www.flickr.com/photos/library_of_congress/al
 
 ![https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005682/currIMERGaccum.1800x900.annotated.png](https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005682/currIMERGaccum.1800x900.annotated.png) 
 
-### @howard-university-web-services `EpstienCase`for [Lana](https://www.youtube.com/watch?v=CH-WrSogg3A)
-[justice.gov/usao-sdny/press-release/file/1180481/dl](https://www.justice.gov/usao-sdny/press-release/file/1180481/dl)
 
-<img  alt="image @TheSpaceDevs it looks like we are funded for artemis3 pass to burbank quick!!!! @nbcnews @disney @hulu just be cool about the shit man, like im not your enemy 20th century fox sabotagged @nasa-jpl helpdesk!! the news would have never made ppl do stupid shit!!! i promise you!!! @foxnews @washingtonpost @Newshour [www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11](https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11) " src="https://github.com/user-attachments/assets/d246f48e-c776-4b35-b4af-bce1addc8300" />
-
-
-@TheSpaceDevs it looks like we are funded for artemis3 pass to burbank quick!!!! @nbcnews @disney @hulu just be cool about the shit man, like im not your enemy 20th century fox sabotagged @nasa-jpl helpdesk!! the news would have never made ppl do stupid shit!!! i promise you!!! @foxnews @washingtonpost @Newshour [www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11](https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11) 
 
 ```
-Artemis Campaign.—The agreement rejects
-the proposed termination of the Space
-Launch System (SLS) and Orion programs
-following Artemis III. In any future competition for Artemis launch services, the agreement directs NASA to include an SLS-based
-option, unless otherwise directed by Congress. The agreement further prohibits the
-reallocation of funds from the Artemis Moon
-to Mars Transportation account, unless and
-until a commercial alternative is demonstrated to meet or exceed the capabilities
-of the SLS and Orion systems. Not later than
-30 days of the enactment of this act, and
-quarterly thereafter, NASA shall provide the
-Committees a briefing detailing any updates
-on the Human Landing System (HLS) program, the progress made in the HLS program, any anticipated changes to program
-cost or schedule, and any other relevant
-issues related to the HLS program
-```
-
-[@nasa-jpl is lunar ops DSN 💯💯💯💯 @nasa-pds - `Artemis3 Docs` @USNAVY @cal-poly-dxhub plz fwd to victor @nasa-openscapes ](https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11)
-@doug-newman-nasa @eodis-nasa See Congressional Record, vol. 172, no. 5, Book II (January 8, 2026), pp. H263-H265, [https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf](https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf) <~ is it legit @whitehouse @deptofwar @commercegov @la-county-isd @CityOfSantaMonica @longbeachinnovationteam .
-<img  alt="image" src="https://github.com/user-attachments/assets/1c37a142-9260-49f0-8274-956c878becd0" />
-
-![https://www.congress.gov/img/svg/congress-gov-logo.svg](https://www.congress.gov/img/svg/congress-gov-logo.svg) 
-
-<img   alt="image image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
-  games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
-I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its @nasa-jpl @cityoflosangeles @eosdis-nasa @nasa-pds @weather-gov @commercegov @dhs-gov @howard-university-web-services @nbcnews @ajcnews [@nasa-jpl @ajcnews I'm taking a short game break, like 15min ArcadeMarvel Super Heroes (951024 USA) @blackgirlscode](https://www.retrogames.cc/arcade-games/marvel-super-heroes-951024-usa.html) // [ArcadeGarou - Mark of the Wolves (NGM-2530)](https://www.retrogames.cc/arcade-games/garou-mark-of-the-wolves-ngm-2530.html) thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
-@repkarenbass @SupervisorHollyJMitchell @fox5atlanta" src="https://github.com/user-attachments/assets/1c674838-f811-489b-85f4-556c2153ca37" />
-
-[The Chemical Brothers - Exit Planet Dust + Singles/Remixes 93-96 ](https://youtu.be/F5GoHBzknUs?si=_fwaHl7VfEky8ZMF)
-
-<img alt="image send to ms bass i made a congress account on my @eodis-nasa @google address holetoanotheruniverse@gmail.com  @libraryofcongress  @blackgirlscode @la-county-isd @whitehouse image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
-  games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
-I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
-@repkarenbass @SupervisorHollyJMitchell @fox5atlanta" src="https://github.com/user-attachments/assets/8696df26-4e52-40c8-9326-53941fa09319" />
-
-<img  alt="image image send to ms bass i made a congress account on my @eodis-nasa @google address holetoanotheruniverse@gmail.com  @libraryofcongress  @blackgirlscode @la-county-isd @whitehouse " src="https://github.com/user-attachments/assets/23760782-e0c4-4323-841c-4962a23dfcb4" />
-
-<img  alt="image @cityoflosangeles https://www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp @eodis-nasa @nasa-jpl @STATEOFCALiFORNiA @BOeing @salesforce READ https://www.lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire @blackgirlscode" src="https://github.com/user-attachments/assets/637cd345-7602-46bb-8068-a888bb33755b" />
-
- // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU) //
-<img   alt="image" src="https://github.com/user-attachments/assets/d870cdc9-b2e3-42f1-8803-1bb945b0b642" />
-
-[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)  /// [Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf) /// [Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf) /// [Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf) The Story of NASA's Spaceflight Tracking and Data Network [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
-
-
-
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@keishaforga/video/7704100996468804878" data-video-id="7704100996468804878" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@keishaforga" href="https://www.tiktok.com/@keishaforga?refer=embed">@keishaforga</a> <p>Before the finish line, Keisha came home. 💙 First Corinth is her grandmother Ramona’s church, and the place that helped shape the woman she is today. She said she couldn’t complete this race without coming back. Thank you to the First Corinth family for the warm welcome.</p> <a target="_blank" title="♬ original sound - Keisha For Georgia" href="https://www.tiktok.com/music/original-sound-7704101205391264525?refer=embed">♬ original sound - Keisha For Georgia</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+```
 
 [@ajcnews @foratlanta @nasa @fema @fecgov @nasa-jpl](https://www.youtube.com/@HOT97ontv) have [Lana j Harris @deptofwar @whitehouse](https://www.linkedin.com/in/lana-harris-8bb580108) call her mom... her show has not been on in a few days a and I'm getting harassed by people [impersonating her in haptic suits @nvidia](https://share.google/aimode/C6tO8TlGqpRu6QtC1) that are broadcasting their voice to me but it sound like her, and its always trying to start a sexual conversation, upon walking in the library a girl look like her was on a PC screen performing felatio [Keisha Bottoms](https://www.tiktok.com/@keishaforga/video/7704100996468804878) @usatoday is that the big suprise @nasa I'm crushed 
 
