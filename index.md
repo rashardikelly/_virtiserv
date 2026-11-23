@@ -28,6 +28,8 @@ mathjax: true
 // [Ronnie Laws - Friends & Strangers](https://youtu.be/POojH29JoQE?si=JUatEhdZlD4TZqgs) // [Taana Gardner-Heartbeat](https://youtu.be/pHBYjxAhqgA?si=fy4J9QPPikVudINr)
 
 
+[Bezerk Saga Saga part1-3](https://youtu.be/MyWyDjtij9Y?si=Md462SoZpPpgybEQ)  I don't know if this is where you start in the series to understand it but you'll at least be more comfortable on your cubicle @blackgirlscode
+
 ---
 
 @nasa-pds good morning, m r o is transmitting at three megs a second, I'm making notes as I discern space weather & orbit patterns 
