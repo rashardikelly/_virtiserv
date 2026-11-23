@@ -24,6 +24,20 @@ mathjax: true
 {{ site.time }}
  {{ site.title | default: site.github.repository_name }}
 
+# CRS35 LAnded @nasa
+[@nasa-jpl please verify this post](https://www.tumblr.com/spacenutspod/833932881397268480/read-more)
+
+
+## Dragon Returns to Earth Packed With science and Cargo
+[https://www.nasa.gov/blogs/spacestation/2026/11/21/dragon-returns-to-earth-packed-with-science-and-cargo/](https://www.nasa.gov/blogs/spacestation/2026/11/21/dragon-returns-to-earth-packed-with-science-and-cargo/) At 2:03 p.m. PST, the unpiloted SpaceX Dragon spacecraft splashed down in the Pacific Ocean near Los Angeles, completing NASA’s 35th SpaceX commercial resupply services mission to the International Space Station. [@cityoflosangeles https://www.nithyaforthecity.com/](https://www.nithyaforthecity.com/) [@la-county-isd Mayor Karen Bass](https://mayor.lacity.gov/about-mayor-karen-bass) // [@whitehouse @nasa-pds congress.gov/member/karen-bass/B001270](https://www.congress.gov/member/karen-bass/B001270)
+
+![https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg](https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg) 
+
+![https://images-assets.nasa.gov/image/iss075e0226573/iss075e0226573~large.jpg](https://images-assets.nasa.gov/image/iss075e0226573/iss075e0226573~large.jpg?w=1920&h=1078&fit=crop&crop=faces%2Cfocalpoint)
+
+<img alt="image" src="https://github.com/user-attachments/assets/d2775ffa-c64d-4d6d-8558-76cbf36bdb98" />
+
+![https://www.congress.gov/img/svg/congress-gov-logo.svg](https://www.congress.gov/img/svg/congress-gov-logo.svg) 
 
 ![https://inglewoodoilfield.com/wp-content/uploads/2017/10/logo-new.png](https://inglewoodoilfield.com/wp-content/uploads/2017/10/logo-new.png) 
 ##  Inglewood Oil Field [homepage](https://inglewoodoilfield.com/)
