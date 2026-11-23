@@ -38,6 +38,8 @@ mathjax: true
 [@CityOFLosAngeles https://www.sealagom.com/coastal/177/message/54326/lnm11-d55939-los-angeles/ @la-county-isd](https://www.sealagom.com/coastal/177/message/54326/lnm11-d55939-los-angeles/) [@LongBEACHiNNOVATiONTeaM  The seal of the City of Long Beach was designed in 1930 by Roland S. Gielow, a draftsman in
 the City’s engineering department. ](https://www.longbeach.gov/globalassets/finance/media-library/documents/city-budget-and-finances/budget/budget-documents/fy-21-proposed-budget/6-city-seal)
 
+![https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Long_Beach%2C_California.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original](https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Long_Beach%2C_California.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) 
+
 ```
 Sector Los Angeles, Territorial Sea / Space Operations / Hazardous Warning Area / Commercial (Hazardous)
 Hazardous operations for Space X CRS-35 reentry, including splashdown in the Pacific Ocean. Will occur between 162350 Z NOV and 280335 Z NOV 2026. Hazardous operation areas are bounded by the following coordinates: Hazard Area LOS ANGELES: 33.783333N, -119.25W 33.75N, -119.3W 33.6N, -119.3W 33.55N, -119.233333W 33.55N, -119.116667W 33-37.00N 119-02.00W 33.75N, -119.033333W 33-47.00N 119-05.00W 33.783333N, -119.25W (TO BEGINNING) Mariners are advised to remain clear of these areas for the duration of operations. For more details or comments contact Space X at regulatory@spacex.com or on VHF-FM Chan. 05, 06 or 16
@@ -48,7 +50,7 @@ USCG Southwest District Local Notice to Mariners 46/2026
 
 <img   alt="image" src="https://github.com/user-attachments/assets/fa7e84df-9ab5-4bc2-ac28-d4873b8d09c5" />
 
-![https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Long_Beach%2C_California.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original](https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Long_Beach%2C_California.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) 
+
 
 ![https://www.spacex.com/assets/images/vehicles/dragon/dragon_feature.jpg](https://www.spacex.com/assets/images/vehicles/dragon/dragon_feature.jpg)
 
