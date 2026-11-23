@@ -32,6 +32,10 @@ mathjax: true
 
 ---
 
+[@esa http://bepicolombo.esac.esa.int/](http://bepicolombo.esac.esa.int/](http://bepicolombo.esac.esa.int/) is displaying a @RedHat Enterprise Linux Test Page
+![https://www.redhat.com/rhdc/managed-files/image1_35.jpg](https://www.redhat.com/rhdc/managed-files/image1_35.jpg)
+[https://www.redhat.com/en/blog/write-your-first-containerfile-podman](https://www.redhat.com/en/blog/write-your-first-containerfile-podman)
+
 @nasa-pds good morning, m r o is transmitting at three megs a second, I'm making notes as I discern space weather & orbit patterns 
 
 
