@@ -9,6 +9,17 @@ tags: covid
 permalink: losangeles
 ---
 
+@cityoflosangeles 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Los Angeles, I am deeply honored to be your next mayor.
+
+I just spoke with Mayor Bass and expressed my deepest gratitude for her leadership and decades of service. Los Angeles would not be the city it is today without her.
+
+I love this city. I believe in its people. The work ahead will be hard, and change will take time. And together, we are going to build a future as extraordinary as the city we call home.
+
+Thank you, LA. Let’s get to work.</p>&mdash; Nithya Raman (@nithyavraman) @cityoflosangeles  <a href="https://x.com/nithyavraman/status/2118438804063445171?ref_src=twsrc%5Etfw">November 5, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 <div class="tupperware">
     
 {% for image in site.static_files %}
