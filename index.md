@@ -32,7 +32,7 @@ mathjax: true
 
 ---
 
-![https://media.esa.int/legacy/web/images/esa_multimedia/images/2026/07/bepicolombo_mercury_arrival_phase_mission_control_team/27373136-1-eng-GB/396101/image-thumb__396101__frame_card/BepiColombo_Mercury_arrival_phase_mission_control_team@2x.55139689.webp](https://media.esa.int/legacy/web/images/esa_multimedia/images/2026/07/bepicolombo_mercury_arrival_phase_mission_control_team/27373136-1-eng-GB/396101/image-thumb__396101__frame_card/BepiColombo_Mercury_arrival_phase_mission_control_team@2x.55139689.webp>
+![https://media.esa.int/legacy/web/images/esa_multimedia/images/2026/07/bepicolombo_mercury_arrival_phase_mission_control_team/27373136-1-eng-GB/396101/image-thumb__396101__frame_card/BepiColombo_Mercury_arrival_phase_mission_control_team@2x.55139689.webp](https://media.esa.int/legacy/web/images/esa_multimedia/images/2026/07/bepicolombo_mercury_arrival_phase_mission_control_team/27373136-1-eng-GB/396101/image-thumb__396101__frame_card/BepiColombo_Mercury_arrival_phase_mission_control_team@2x.55139689.webp)
 [.esa.int/missions/about-us/directorates/science/bepicolombo/bepicolombo](https://www.esa.int/missions/about-us/directorates/science/bepicolombo/bepicolombo)
 
 ![https://media.esa.int/legacy/web/images/science_exploration/space_science/bepicolombo/19729350-33-eng-GB/370942/image-thumb__370942__frame_card/BepiColombo@2x.033f8baf.webp](https://media.esa.int/legacy/web/images/science_exploration/space_science/bepicolombo/19729350-33-eng-GB/370942/image-thumb__370942__frame_card/BepiColombo@2x.033f8baf.webp)
