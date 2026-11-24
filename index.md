@@ -24,6 +24,8 @@ mathjax: true
 {{ site.time }}
  {{ site.title | default: site.github.repository_name }}
 
+ ![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05082/opgs/edr/ncam/NRB_848651533EDR_F1270000NCAM00291M_.JPG @blackgirlscode @nasa](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05082/opgs/edr/ncam/NRB_848651533EDR_F1270000NCAM00291M_.JPG) 
+
 ```git
 ~/.../virtiserv/virtiserv.github.io $ gh auth login         ? Where do you use GitHub? GitHub.com                       ! Did you know that expiring tokens can be requested with --expiring? Read more at https://gh.io/gh-expiring-tokens     ? How would you like to authenticate GitHub CLI? Login with a web browser
 ? What is your preferred protocol for Git operations on this host? HTTPS                  ? Authenticate Git with your GitHub credentials? Yes        
