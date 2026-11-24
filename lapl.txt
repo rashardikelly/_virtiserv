@@ -3,7 +3,7 @@
 ~/.../virtiserv/virtiserv.github.io $ gh auth login         ? Where do you use GitHub? GitHub.com                       ! Did you know that expiring tokens can be requested with --expiring? Read more at https://gh.io/gh-expiring-tokens     ? How would you like to authenticate GitHub CLI? Login with a web browser
 ? What is your preferred protocol for Git operations on this host? HTTPS                  ? Authenticate Git with your GitHub credentials? Yes        
 ! Failed to copy one-time code to clipboard
-  No clipboard utilities available. Please install xsel, xclip, wl-clipboard or Termux:API add-on for termux-clipboard-get/set.                       ! First copy your one-time code: C87A-C6F2
+  No clipboard utilities available. Please install xsel, xclip, wl-clipboard or Termux:API add-on for termux-clipboard-get/set.                       ! First copy your one-time code: ****-****
 Press Enter to open https://github.com/login/device in your browser...
 ✓ Authentication complete.    - gh config set -h github.com git_protocol https
 ✓ Configured git protocol     ! Authentication credentials saved in plain text
