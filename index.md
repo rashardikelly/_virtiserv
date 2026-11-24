@@ -24,6 +24,15 @@ mathjax: true
 {{ site.time }}
  {{ site.title | default: site.github.repository_name }}
 
+
+[@nasa-pds](https://pilot.wr.usgs.gov/) so it looks like you can see details of , I assume that is [deimos](https://youtu.be/DE7J_DiNbBQ?si=sFwir6KTeGlojLO3) from the ground .. the other pics area overexposed @nasa-jpl @nasa ... maybe its [phobos](https://newmars.com/forums/viewtopic.php?pid=241060) still
+![https://mars.nasa.gov/msl-raw-images/msss/05081/mcam/5081MR1103080032602592C00_DXXX.jpg](https://mars.nasa.gov/msl-raw-images/msss/05081/mcam/5081MR1103080032602592C00_DXXX.jpg)
+
+
+# The Martian moons Phobos and Deimos
+[https://sci.esa.int/web/mars-express/-/50839-phobos-and-deimos](https://sci.esa.int/web/mars-express/-/50839-phobos-and-deimos)
+![https://sci.esa.int/documents/33745/35367/1567216721753-50839_Phobos_625.jpg](https://sci.esa.int/documents/33745/35367/1567216721753-50839_Phobos_625.jpg)
+
  ![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05082/opgs/edr/ncam/NRB_848651533EDR_F1270000NCAM00291M_.JPG @blackgirlscode @nasa](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05082/opgs/edr/ncam/NRB_848651533EDR_F1270000NCAM00291M_.JPG) 
 
 ```git
