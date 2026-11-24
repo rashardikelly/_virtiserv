@@ -1,0 +1,21 @@
+@la-county-isd @nasa-jpl @blackgirlscode this is the file I created for my `git push` I entered at central lib @cityoflosangeles 
+
+~/.../virtiserv/virtiserv.github.io $ gh auth login         ? Where do you use GitHub? GitHub.com                       ! Did you know that expiring tokens can be requested with --expiring? Read more at https://gh.io/gh-expiring-tokens     ? How would you like to authenticate GitHub CLI? Login with a web browser
+? What is your preferred protocol for Git operations on this host? HTTPS                  ? Authenticate Git with your GitHub credentials? Yes        
+! Failed to copy one-time code to clipboard
+  No clipboard utilities available. Please install xsel, xclip, wl-clipboard or Termux:API add-on for termux-clipboard-get/set.                       ! First copy your one-time code: C87A-C6F2
+Press Enter to open https://github.com/login/device in your browser...
+✓ Authentication complete.    - gh config set -h github.com git_protocol https
+✓ Configured git protocol     ! Authentication credentials saved in plain text
+✓ Logged in as virtiserv      ~/.../virtiserv/virtiserv.github.io $ git push
+Enumerating objects: 4, done. Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects:  50% (1/2Compressing objects: 100% (2/2Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 270 bytes | 270.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)                             remote: Resolving deltas:   0%remote: Resolving deltas: 100%remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/virtiserv/virtiserv.github.io.git
+   ff5b2e85..9223976d  master -> master
+~/.../virtiserv/virtiserv.github.io $
+// Ronnie Laws - Friends & Strangers // Taana Gardner-Heartbeat
+
+Bezerk Saga Saga part1-3 I don’t know if this is where you start in the series to understand it but you’ll at least be more comfortabl @nbcnews @ajcnews @foratlanta @npr
