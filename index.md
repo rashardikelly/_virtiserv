@@ -24,7 +24,11 @@ mathjax: true
 {{ site.time }}
  {{ site.title | default: site.github.repository_name }}
 
+## NAsA Mars science Laboratory (MsL): Curiosity
 
+![https://d2pn8kiwq2w21t.cloudfront.net/images/28-mission-current-MSL-Curiosity-alt.height-700.png](https://d2pn8kiwq2w21t.cloudfront.net/images/28-mission-current-MSL-Curiosity-alt.height-700.png) 
+
+[@usgs .gov/centers/astrogeology-science-center/science/nasa-mars-science-laboratory-msl-curiosity](https://www.usgs.gov/centers/astrogeology-science-center/science/nasa-mars-science-laboratory-msl-curiosity) // [mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=0&mission=msl](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=0&mission=msl)
 [@nasa-pds](https://pilot.wr.usgs.gov/) so it looks like you can see details of , I assume that is [deimos](https://youtu.be/DE7J_DiNbBQ?si=sFwir6KTeGlojLO3) from the ground .. the other pics area overexposed @nasa-jpl @nasa ... maybe its [phobos](https://newmars.com/forums/viewtopic.php?pid=241060) still
 ![https://mars.nasa.gov/msl-raw-images/msss/05081/mcam/5081MR1103080032602592C00_DXXX.jpg](https://mars.nasa.gov/msl-raw-images/msss/05081/mcam/5081MR1103080032602592C00_DXXX.jpg)
 
@@ -34,6 +38,9 @@ mathjax: true
 ![https://sci.esa.int/documents/33745/35367/1567216721753-50839_Phobos_625.jpg](https://sci.esa.int/documents/33745/35367/1567216721753-50839_Phobos_625.jpg)
 
  ![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05082/opgs/edr/ncam/NRB_848651533EDR_F1270000NCAM00291M_.JPG @blackgirlscode @nasa](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05082/opgs/edr/ncam/NRB_848651533EDR_F1270000NCAM00291M_.JPG) 
+
+
+![https://upload.wikimedia.org/wikipedia/commons/a/a3/Mars_Science_Laboratory_mission_logo.png](https://upload.wikimedia.org/wikipedia/commons/a/a3/Mars_Science_Laboratory_mission_logo.png) 
 
 ```git
 ~/.../virtiserv/virtiserv.github.io $ gh auth login         ? Where do you use GitHub? GitHub.com                       ! Did you know that expiring tokens can be requested with --expiring? Read more at https://gh.io/gh-expiring-tokens     ? How would you like to authenticate GitHub CLI? Login with a web browser
